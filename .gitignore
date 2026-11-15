@@ -1,0 +1,16 @@
+# HTQT – loại trừ khi sao lưu lên GitHub (HT-023)
+# Dữ liệu thật, hồ sơ cá nhân: KHÔNG BAO GIỜ đẩy lên
+*KHONG-CHO-AI-DOC*/
+*NHAN SU BHXH*/
+**/HO_SO_THAT/
+# File tạm Office, hệ thống
+~$*
+*.tmp
+*.lnk
+desktop.ini
+Thumbs.db
+.claude/
+# File quá lớn (giới hạn GitHub 100 MB) – kiểm riêng nếu có
+*.zip
+*.mp4
+*.mov

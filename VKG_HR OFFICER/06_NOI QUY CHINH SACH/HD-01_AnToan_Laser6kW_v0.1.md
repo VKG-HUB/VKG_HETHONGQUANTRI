@@ -1,0 +1,62 @@
+# HD-01 – Hướng dẫn an toàn máy cắt laser tấm 6 kW (CN1)
+
+**Phục vụ ISO điều:** 7.1.4 (môi trường vận hành), 8.5.1 (hướng dẫn công việc), 7.2 (tài liệu huấn luyện nhóm 3)
+**Căn cứ pháp luật (tra ngày 13/11/2026):** Luật ATVSLĐ 84/2015/QH13; TT 06/2020/TT-BLĐTBXH (hiệu lực đến 31/12/2026) và TT 27/2026/TT-BNV mục (5) (hiệu lực 01/01/2027) – vận hành máy cắt là công việc nghiêm ngặt; TT 36/2019/TT-BLĐTBXH STT 6–8 (chai khí, hệ thống khí); NĐ 105/2025/NĐ-CP Đ.13; Quy định ATVSLĐ tại xưởng (VKG/HR/QĐ-004/2026, số tạm)
+**Trạng thái:** đã viết, chưa kiểm, chưa duyệt · v0.1 – 14/11/2026
+
+> Chỉ phần **an toàn** (nhóm NS). Hướng dẫn vận hành, tiêu chí kiểm mép cắt là của nhóm ISO (từ HD-14), in chung tờ A5 hai mặt tại máy (HT-011). Dàn trang Word theo khung ISO-02 (header QĐ-120, chân trang kiểu BM) khi có khung (HT-014). [THEO SỔ TAY]: đội trưởng, kỹ thuật điền theo sổ tay hãng trước khi in.
+
+| Khung đầu | |
+|---|---|
+| Mã · phiên bản | HD-01 · v0.1 (bản nháp) |
+| Áp dụng | Máy cắt laser tấm 6 kW, khổ 1,5 × 3 m – Xưởng CN1 Đông Hòa |
+| Người soạn | Nhóm Nhân sự (phiên HR-06) |
+| Người kiểm nội dung kỹ thuật | Đội trưởng tổ sản xuất CN1; nhân viên kỹ thuật |
+| Người duyệt | Giám đốc |
+| Ngày hiệu lực | …/…/20… (điền khi Giám đốc duyệt) |
+| Liên quan | QĐ-004 (Quy định ATVSLĐ), NQ-002 (Nội quy PCCC), NS-12 (phiếu kiểm tra cuối ca), hướng dẫn vận hành của nhóm ISO |
+
+## 1. Ai được vận hành
+Đã huấn luyện ATVSLĐ nhóm 3, có **thẻ an toàn còn hạn**, được đội trưởng giao máy. Không vận hành khi mệt, ốm, đã uống rượu bia.
+
+## 2. Mối nguy
+Tia laser (bỏng, mù mắt) · cháy bàn cắt, khay xỉ, nhất là khi cắt bằng **oxy** · khí áp cao, chai khí đổ · khói, bụi kim loại · bàn trao đổi, đầu cắt chuyển động (kẹp, va đập) · tấm, chi tiết cạnh sắc · điện áp cao trong tủ nguồn laser, máy làm lạnh.
+
+## 3. Bảo hộ bắt buộc
+Quần áo bảo hộ không dễ cháy · giày mũi thép · găng chống cắt khi gỡ chi tiết · kính bảo hộ · nút tai · khẩu trang lọc bụi khi dọn khay xỉ.
+
+## 4. Các bước an toàn
+| Bước | Việc |
+|---|---|
+| **B1** | Kiểm tra trước khi chạy: cửa, vách che, kính quan sát không nứt; khóa liên động cửa và nút dừng khẩn cấp hoạt động [THEO SỔ TAY cách thử]; hút khói chạy; máy làm lạnh không báo lỗi |
+| **B2** | Kiểm tra khí: áp suất đúng; chai cố định chống đổ; van, ống không rò; chai oxy không dính dầu mỡ |
+| **B3** | Dọn khay xỉ; không để giẻ dầu, giấy, bao bì quanh bàn cắt; bình CO2 hoặc bột đặt cạnh máy, kim ở vùng xanh |
+| **B4** | Kiểm tra máy, khí có đạt không? |
+| **B4a** | Đạt: không còn người trong vùng bàn trao đổi, đường chạy đầu cắt → chạy chương trình |
+| **B4b** | Không đạt: **không chạy**, treo biển "Máy hỏng – cấm sử dụng", báo đội trưởng |
+| **B5** | Khi đang cắt: **luôn có người trông máy**, không bỏ đi; không mở cửa, không thò tay vào vùng cắt, bàn trao đổi; chỉ nhìn qua kính quan sát |
+| **B6** | Gỡ chi tiết: chờ bàn dừng hẳn; đeo găng chống cắt; chi tiết nặng từ [CẦN XÁC NHẬN] kg dùng thiết bị nâng hoặc 2 người |
+| **B7** | Thay kính bảo vệ, vòi phun: tắt laser, chờ đầu cắt nguội [THEO SỔ TAY]. Sửa tủ điện, nguồn laser: chỉ kỹ thuật được giao hoặc hãng, **khóa và treo biển** |
+| **B8** | Cuối ca: tắt laser và nguồn theo thứ tự [THEO SỔ TAY]; **đóng van chai khí**; dọn xỉ (xỉ nóng để nguội trong thùng kim loại); ghi phiếu NS-12 |
+
+## 5. Sự cố
+| Sự cố | Làm ngay |
+|---|---|
+| Cháy trên bàn cắt, khay xỉ | Dừng khẩn cấp → khóa khí → bình CO2 hoặc bột → báo người phụ trách PCCC. Không dùng nước gần tủ điện |
+| Rò khí | Đóng van chai; thông gió; không bật, tắt thiết bị điện gần đó |
+| Nghi bị tia laser vào mắt | Dừng máy; đi khám mắt ngay; báo đội trưởng |
+| Bỏng, đứt tay | Sơ cứu theo QĐ-004 Phụ lục 1; báo đội trưởng |
+| Máy báo lỗi an toàn (cửa, liên động) | Không nối tắt; dừng máy; báo kỹ thuật |
+
+## 6. Cấm
+Tháo, nối tắt khóa liên động · để máy chạy không người trông · cắt vật liệu không được phép (nhựa PVC, vật liệu không rõ thành phần) [CẦN XÁC NHẬN danh mục] · để vật dễ cháy cạnh máy · dùng điện thoại khi thao tác.
+
+**Chân trang (khi dàn trang):** HD-01.NHAP · v0.1 · Trang x/y
+
+---
+## Việc cần xác nhận
+| # | Nội dung | Ai |
+|---|---|---|
+| 01-1 | Hãng, model; cách thử khóa liên động; thứ tự tắt máy; thời gian chờ nguội | Kỹ thuật, đội trưởng CN1 |
+| 01-2 | Ngưỡng khối lượng chi tiết phải dùng thiết bị nâng / 2 người | Đội trưởng CN1 |
+| 01-3 | Danh mục vật liệu cấm cắt | Kỹ thuật |

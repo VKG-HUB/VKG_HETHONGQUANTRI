@@ -1,0 +1,17 @@
+# Giao việc rà soát đợt 2 – R2, R5 (HR-00, 14/11/2026)
+
+Áp chung cho cả hai: đọc `00_TONG QUAN\HR-00_KeHoachRaSoat_BoNop20-11_v0.1.md` mục 3 (quy tắc chung) và dòng HT-022; `..\00_DIEU_PHOI_CHUNG\CLAUDE.md` (mục 9, 10a), `QUY-TAC-MA-CHUNG.md`, `NHAT-KY-QD-LIEN-NHOM.md` (đến HT-022); file nền 01 (v1.3), 03, 04 (v1.3); hồ sơ chung. Không tham gia soạn, chỉ báo cáo, không sửa bản nháp. Skill `vkg-hr-ra-soat-chat-luong`, `vkg-hr-ra-soat-phap-ly` (bản tài khoản cũ thì đọc file `00_TONG QUAN\02_SKILLS\` v1.3, v1.4, ghi rõ). Tự tra lại luật, ghi gốc/bài viết/chưa tra; NĐ 283/2026 là mức cá nhân, tổ chức gấp đôi. Kiểm chung: 15 người; đơn vị theo HT-020/021 (Chi nhánh mã số 0311563372-002 ở "144/46 … (nay là số 42A Thống Nhất)"; Địa điểm kinh doanh 001 mã 00001 Phước Tân); quốc hiệu theo HT-016. HT-022: trước mỗi bước lớn xem hạn mức (`mcp__ccd_session_mgmt__get_usage`, nạp bằng ToolSearch); từ 70% dừng gọn, ghi điểm dừng đầu file đầu ra, báo HR-00. KHÔNG chạy Word/Excel; KHÔNG mở, KHÔNG Glob/Grep `04_GIAY_TO_PHAP_LY` hay `…_KHONG-CHO-AI-DOC`; không dữ liệu cá nhân thật; không hỏi Giám đốc. Kết luận chất lượng (Trình duyệt được / Cần sửa rồi trình / Làm lại) và pháp lý (Đạt / Đạt có điều kiện / Không đạt) cho từng tài liệu; ghi rõ là rà soát hỗ trợ, không thay luật sư. Xong báo HR-00 một dòng.
+
+## R2 – G2, nội quy, quyết định, hướng dẫn an toàn (phiên soạn HR-06)
+
+Phạm vi trong `06_NOI QUY CHINH SACH\` (nguồn .md ở gốc và `WORD\nguon\`, PDF ở `WORD\`; bỏ `99_LUU TRU`): G2 v0.2 – đã rà v0.1 ở `00_TONG QUAN\RA_SOAT\G2_RaSoat_v0.1.md` và `00_TONG QUAN\G2_RaSoat_v0.1-b.md`, chỉ kiểm dòng đã sửa và phần mới. RÀ ĐỦ toàn văn: NQ-001 nội quy lao động, NQ-002 nội quy PCCC, QC-002 quy chế dân chủ, QĐ-002 → QĐ-005, HD-01, 02, 04, 06, 07, 08, phiếu NS-04 → 08, NS-12. Báo cáo người soạn: `00_TONG QUAN\BAO_CAO_NHANH\HR-06.md`.
+Trọng tâm: BLLĐ 2019 Đ.118, Đ.119 (đăng ký; nơi có chi nhánh, địa điểm kinh doanh khác tỉnh), Đ.122–129 (kỷ luật, cấm phạt tiền); NĐ 145/2020 hoặc văn bản thay thế (nội quy, đối thoại, dân chủ ở cơ sở); Luật ATVSLĐ 2015, NĐ 39/2016, NĐ 44/2016, TT 27/2026; NĐ 105/2025 sửa bởi NĐ 347/2026 (PCCC dưới 20 người, theo từng cơ sở); HD chỉ phần an toàn (HT-011); không quốc hiệu.
+Thứ tự: NQ-001 → QĐ-004 → NQ-002, QĐ-002, QĐ-003 → HD → QC-002, QĐ-005 → G2 dòng đã sửa → phiếu.
+Đầu ra: `00_TONG QUAN\RA_SOAT\R2_G2G4G11_RaSoat.md`.
+
+## R5 – G8, G9 quy trình, kế hoạch tuyển dụng (phiên soạn HR-01)
+
+Phạm vi (bỏ `99_LUU TRU`): `01_TUYEN DUNG\QT-02_Tuyen-dung_v0.1`, `QT-03_Hoi-nhap-nguoi-moi_v0.1`, `01_TUYEN DUNG\01_KE HOACH TUYEN DUNG\G8_KeHoachTuyenDung_den-31-12-2026_v0.1`, phiếu yêu cầu NS-10, NS-11; `02_HO SO NHAN SU\QT-04_Tiep-nhan-nhan-su_v0.1` (phụ lục cấu trúc hồ sơ), `QT-05_Nghi-viec_v0.1`, phiếu yêu cầu NS-07 → NS-16; bản .md và PDF. Báo cáo người soạn: `00_TONG QUAN\BAO_CAO_NHANH\HR-01.md`. Đọc thêm `00_TONG QUAN\RA_SOAT\R1_G1G5_RaSoat.md` để QT-04 khớp phần HĐLĐ, BHXH.
+Trọng tâm: BLLĐ 2019 Đ.11, Đ.16, Đ.24–27 thử việc, Đ.34–48 chấm dứt, báo trước, thanh toán, trả sổ BHXH; Luật Bảo vệ dữ liệu cá nhân hiện hành (người lao động, ứng viên không trúng tuyển, phiếu đồng ý NS-16); NĐ 318/2025; tin tuyển dụng không phân biệt đối xử, không nêu số người, không số tiền lương. Trình bày QT: B1, B2, rẽ nhánh B4a; ≤ 2 trang; 5 mục; mã theo kế hoạch v0.3 mục 3.3; không quốc hiệu.
+Thứ tự: QT-04 → QT-05 → QT-02 → kế hoạch tuyển dụng → QT-03 → phiếu.
+Đầu ra: `00_TONG QUAN\RA_SOAT\R5_G8G9_RaSoat.md`.
