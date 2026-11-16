@@ -86,3 +86,23 @@ Mỗi file có bảng "Đã sửa theo rà soát" ở cuối. Bản .docx, .pdf 
 - Đã sửa thân: JD-KN (mục 9, bỏ "câu B5"), JD-KTOAN, JD-PGD, JD-DTSX, 7 JD thợ/KTTK ("câu I7 a" → "Chính sách chất lượng"), ST-04 (dòng Giám đốc, ký hiệu PTKT/KTT, bỏ link claude.ai, bỏ "câu B5"), QĐ-001 Điều 3 k.2, mẫu nghị quyết HĐTV Điều 4, lộ trình mục 3, QĐ cử Đại diện ISO và QĐ giao phụ trách tổ (căn cứ Luật DN Đ.63 k.2 đ), giấy ủy quyền Điều 1 k.1; mẫu giao nhiệm vụ (phần nội bộ).
 - Word/PDF của các file trên đang CŨ so với .md; chờ HR-00 báo giờ chạy một lượt dựng cuối (dung-docx-iso.ps1, giữ khóa Office).
 - Còn dở: hình sơ đồ ST-04 chưa chèn (script chưa hỗ trợ ảnh); chưa xem hình các bảng nhiều cột; HD-18 chưa soạn (giữ dòng đánh dấu); dòng R3 38 chờ.
+
+## Ghi 15/11/2026 08:28–08:36 – lượt dựng cuối 21 file
+
+- Dựng lại Word/PDF 21 file bằng  9_CONG_CU\dung-docx-iso.ps1 (MD5 C9E8ADD47EAB), giữ khóa 08:28–08:36, đã trả; WINWORD trước/sau: không; EXCEL 28768 có trước và sau (của HR-04, không đụng); script báo 0 lỗi, 0 tiến trình sót.
+- Số trang: QĐ-001 2; QĐ-007 1; mẫu giao nhiệm vụ 1; QĐ cử ĐDISO 1; QĐ giao tổ 1; giấy ủy quyền 1; mẫu nghị quyết HĐTV 1; ST-04 13; lộ trình 5; JD: CHAN 3, DTSX 4, GD 3, HAN 4, KN 5, KTOAN 3, KTTK 3, LAPRAP 3, LASER 3, LDPT 3, MAI 3, PGD 3.
+- Kiểm bằng trích chữ (pypdf): không còn mã rà soát; không thấy "ITO", "TT-04", "Toạn", "NT-14"; chữ ký QĐ không tách trang; trang cuối ít chữ: JD-HAN tr.4, ST-04 tr.13 (đuôi bình thường).
+- KHÔNG xem được hình trang PDF (không có công cụ vẽ trang): bảng 11 cột ST-04 (trang 6–10), JD-KTOAN, lộ trình cần HR-00 kiểm hình. Ảnh sơ đồ ST-04: dấu chỗ "[Hình sơ đồ tổ chức – chèn trước khi ký]" cho Giám đốc dán.
+
+## Ghi 15/11/2026 08:47–08:55 – lượt dựng 21 file (script MD5 690454E07609)
+
+- Dựng lại 21 file bằng 09_CONG_CU\dung-docx-iso.ps1 bản MD5 690454E07609 (ISO-02 sửa KeepWithNext). JD-KN lỗi RPC_E_DISCONNECTED nên dựng riêng lại, xong. Cùng lượt: thay mã nội bộ còn sót trong thân (G/MT, "file 01 mục 3"); ST-04 thêm mục 2b "Định biên theo bộ phận" làm tiêu đề riêng (tránh Word gộp hai bảng liền nhau). Số trang: ST-04 13, lộ trình 5, JD-KN 5, JD-KTOAN 3, QĐ-001 2, các mẫu quyết định, nghị quyết 1.
+
+## Ghi 15/11/2026 23:27–23:47 – sửa theo câu trả lời kế toán trưởng của Giám đốc (R3-47, "2")
+
+- Giám đốc trả lời "2", hiểu là phương án (2): thuê ngay dịch vụ kế toán có kế toán trưởng; người trong công ty học lớp bồi dưỡng kế toán trưởng, có chứng chỉ thì chuyển về. Thay câu 14/11 (người tạm phụ trách kế toán ≤ 12 tháng). Nguyên tắc: người trong công ty không ghi là người phụ trách kế toán, kế toán trưởng cho đến khi có chứng chỉ.
+- Đã sửa .md: ST-04 (ký hiệu PTKT thành DVKT, sơ đồ cấp 2, 2b, mục 3.1, 3.3, ma trận, lộ trình mục 6, phụ cấp, quyền hạn, việc cần xác nhận), QĐ-001 Điều 3 (k.1, k.2, thêm k.3; k.4, k.5 đổi số), mẫu nghị quyết HĐTV Điều 4 (ba khoản: thuê dịch vụ, cử học, bổ nhiệm khi có chứng chỉ), lộ trình mục 1 bước 4, mục 3, mục 5, JD-KN mục 9, JD-KTOAN (báo cáo, quản lý, mục 9). Mẫu giao nhiệm vụ: chỉ phần nội bộ (bảng bằng chứng), không dựng lại. JD-KTTK không nhắc kế toán, không đổi.
+- Mỗi file có mục "Đã sửa theo câu trả lời R3-47" ở phần nội bộ, kèm câu hỏi cho gói luật sư (có bắt buộc kế toán trưởng không – Luật Kế toán, NĐ 174/2016, doanh nghiệp siêu nhỏ; chưa đối chiếu văn bản gốc) và dòng "chữ 2 hiểu là phương án (2)" ở Việc cần xác nhận.
+- Dựng lại 6 file (MD5 script 690454E07609, giữ khóa 23:41–23:47, đã trả): ST-04 13 trang, lộ trình 5, JD-KN 5, JD-KTOAN 3, mẫu nghị quyết HĐTV 1, QĐ-001 2. QĐ-001 lỗi RPC_E_DISCONNECTED ở lượt đầu, lượt dựng riêng sau lỗi mảng một phần tử (chưa mở Word), lượt thứ ba xong. WINWORD trước, sau: không; EXCEL 28768 có từ trước (của Giám đốc, không đụng).
+- Kiểm bằng trích chữ (pypdf): 6 PDF không còn mã rà soát, PTKT, "tạm phụ trách". Không xem được hình trang: ST-04 tr.2–3 (sơ đồ cấp 2 dài hơn), mẫu nghị quyết 1 trang (Điều 4 dài hơn) cần HR-00 hoặc HR-01 xem hình.
+- Việc chờ Giám đốc: xác nhận chữ "2"; tên đơn vị dịch vụ kế toán, chi phí, ngày bắt đầu; người đi học lớp bồi dưỡng, thời điểm.

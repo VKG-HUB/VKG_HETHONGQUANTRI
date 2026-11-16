@@ -41,7 +41,7 @@
 | 7 | Bảo trì máy: liên hệ hãng khi hỏng, theo dõi lịch bảo dưỡng | 5% | Sổ máy |
 | | **Tổng** | **100%** | |
 
-Nếu Giám đốc cử PGĐ làm **người làm công tác ATVSLĐ** (G2 phương án): thêm JD-KN mục 4, giảm nhiệm vụ 1, 2.
+Nếu Giám đốc cử PGĐ làm **người làm công tác ATVSLĐ** (theo Kế hoạch ATVSLĐ, PCCC): thêm JD-KN mục 4, giảm nhiệm vụ 1, 2.
 
 ## 4. Quyền hạn
 
@@ -74,7 +74,7 @@ Tỷ trọng, chỉ tiêu chốt [CẦN XÁC NHẬN].
 | 3 | Vật tư sai loại, thiếu làm dừng sản xuất | Số lần | Sổ đội trưởng | Tháng | 15% |
 | 4 | Phàn nàn của Quý khách | M4 (ST-05) | Sổ phản ánh | Tháng | 15% |
 | 5 | Hồ sơ PCCC, báo cáo PC04 đúng hạn | Có/không | Hồ sơ PCCC | 6 tháng | 10% |
-| 6 | Tuyển đủ theo kế hoạch (MT2) | Số người tuyển được ÷ kế hoạch | Kế hoạch tuyển G8 | Quý | 10% |
+| 6 | Tuyển đủ theo kế hoạch (mục tiêu tuyển dụng) | Số người tuyển được ÷ kế hoạch | Kế hoạch tuyển dụng | Quý | 10% |
 
 ## 8. Điều kiện làm việc
 
@@ -138,3 +138,7 @@ Người làm công tác ATVSLĐ (JD-KN mục 4) · Đầu mối nhận phản �
 ### Đã sửa theo rà soát lần 2 (15/11/2026)
 
 - R3-53: cấp bậc ghi "nhóm lương 1 theo quy chế lương, hoặc theo nghị quyết Hội đồng thành viên nếu Điều lệ giao". R3-50: bỏ "G2 câu F4".
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

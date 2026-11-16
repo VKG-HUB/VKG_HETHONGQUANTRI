@@ -17,7 +17,7 @@
 | Mã JD | JD-MAI |
 | Chức danh | Thợ mài, đánh bóng |
 | Bộ phận | Sản xuất |
-| Cấp bậc | Công nhân kỹ thuật · nhóm lương 5 (G5 nháp: nặng nhọc, độc hại) |
+| Cấp bậc | Công nhân kỹ thuật · nhóm lương 5 (Quy chế lương nháp: nặng nhọc, độc hại) |
 | Báo cáo trực tiếp | Người phụ trách tổ sản xuất (đội trưởng) của xưởng |
 | Quản lý trực tiếp | Không |
 | Nơi làm việc | CN1 chủ yếu (thiết bị inox). Làm thường xuyên ở cả hai xưởng: HĐLĐ ghi đủ cả hai địa điểm (Chi nhánh mã số 0311563372-002 và Địa điểm kinh doanh 001, mã 00001); nếu HĐLĐ chỉ ghi một nơi, điều sang nơi kia lâu dài phải có thỏa thuận, ký phụ lục |
@@ -54,7 +54,7 @@ Không dùng đá mài nứt, máy hỏng chụp bảo vệ; dừng và báo khi
 | Mục | Yêu cầu |
 |---|---|
 | Học vấn | Không bắt buộc bằng cấp |
-| Kinh nghiệm | Bậc vào làm theo kiểm tra tay nghề (G5, G7) |
+| Kinh nghiệm | Bậc vào làm theo kiểm tra tay nghề (Quy chế lương; Kế hoạch đào tạo) |
 | Kiến thức | Các loại bề mặt inox; cấp hạt đá, nhám; cách tránh nhiễm sắt lên inox |
 | Kỹ năng | Dùng máy mài góc, máy đánh bóng, máy chà nhám; nhận biết lỗi hàn khi mài |
 | Sức khỏe | Đủ sức khỏe làm nghề nặng nhọc, độc hại theo kết quả khám trước khi bố trí việc |
@@ -81,10 +81,10 @@ Theo dõi riêng (không tính điểm): tiêu hao đá, nhám so với định 
 |---|---|
 | Thời giờ làm việc | Theo nội quy VKG/HR/NQ-001/2026 |
 | Yếu tố nguy hiểm, có hại | Bụi kim loại, bụi đá mài; đá vỡ văng; tia lửa gây cháy; tiếng ồn, rung tay; mép sắc |
-| Thuộc danh mục | Mài khô kim loại, vận hành máy mài: loại IV (TT 11/2020 mục 53, 114). Hệ quả: khám 6 tháng/lần; nghỉ hằng năm 14 ngày; bồi dưỡng hiện vật (G2, G4) [CẦN rà soát] |
+| Thuộc danh mục | Mài khô kim loại, vận hành máy mài: loại IV (TT 11/2020 mục 53, 114). Hệ quả: khám 6 tháng/lần; nghỉ hằng năm 14 ngày; bồi dưỡng hiện vật (Kế hoạch ATVSLĐ, PCCC; Nội quy lao động) [CẦN rà soát] |
 | Công việc có yêu cầu nghiêm ngặt về ATVSLĐ | Theo TT 27/2026/TT-BNV (từ 01/01/2027; đến 31/12/2026 theo TT 06/2020): **mục (5)** mài, đánh bóng, đánh nhám kim loại; **mục (18)** bốc xếp thủ công thường xuyên vật nặng từ 20 kg (đến 31/12/2026: 30 kg). Huấn luyện nhóm 3, thẻ an toàn |
 | Huấn luyện | Nhóm 3, thẻ an toàn hạn 2 năm |
-| Bảo hộ được cấp | Kính hoặc mặt nạ chắn mặt; nút tai; khẩu trang bụi; găng; tạp dề; giày mũi thép (G2 mục 4) |
+| Bảo hộ được cấp | Kính hoặc mặt nạ chắn mặt; nút tai; khẩu trang bụi; găng; tạp dề; giày mũi thép (Kế hoạch ATVSLĐ, PCCC mục 4) |
 | Hướng dẫn an toàn | HD-08 mài, đánh bóng |
 
 ## 9. Nhiệm vụ kiêm nhiệm có thể được giao
@@ -140,3 +140,7 @@ An toàn, vệ sinh viên (JD-KN mục 5).
 | v0.1 | 14/11/2026 | Nháp đầu (HR-00b, gói G6) | Chưa |
 | v0.2 | 14/11/2026 | Sửa theo rà soát R3 và R2-08. Bản v0.1 lưu `99_LUU TRU\G3G6_v0.1_2026-11` | Chưa |
 | v0.2 (cập nhật) | 14/11/2026 | Điền số mục danh mục công việc nghiêm ngặt theo báo cáo HR-06 (TT 27/2026/TT-BNV, TT 06/2020); R3 dòng 35, 36 đã sửa | Chưa |
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

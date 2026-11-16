@@ -14,11 +14,11 @@
 
 | Thứ tự | Vị trí | Loại | Ai quyết | Thời điểm đề xuất | Vì sao lúc này | Văn bản |
 |---|---|---|---|---|---|---|
-| 0 | Cơ cấu tổ chức quản lý (khung ST-04 mục 2) | — | Hội đồng thành viên | Trước khi ký quyết định ban hành sơ đồ | Luật DN Đ.55 k.2 h | Nghị quyết Hội đồng thành viên (mẫu `VKG_HR_G3_MauNghiQuyetHDTV`) [CẦN XÁC NHẬN] |
-| 1 | Phó Giám đốc | Chức vụ quản lý | Giám đốc hoặc Hội đồng thành viên theo Điều lệ [CẦN XÁC NHẬN] | Ngay sau khi xem Điều lệ; **không ký trước đó** | Đang ký nghiệm thu, hợp đồng đến 100 triệu mà chưa có văn bản bổ nhiệm, ủy quyền | Quyết định bổ nhiệm (số tạm VKG/HR/QĐ-007/2026) + giấy ủy quyền riêng (mẫu `VKG_HR_G3_MauGiayUyQuyenPGD`) |
-| 2 | Người phụ trách tổ sản xuất (đội trưởng) CN1, CN2 | Chức vụ quản lý | Giám đốc | **Trước khi ký nội quy lao động** | Nội quy cần người lập biên bản, kiểm cuối ca; phân công PCCC | Quyết định giao phụ trách tổ (soạn sẵn `VKG_HR_G3_QD_GiaoPhuTrachTo`) |
-| 3 | Đại diện ISO | Kiêm nhiệm | Giám đốc | **Trước 30/11/2026** | Cần người giữ tài liệu, hồ sơ, số liệu mục tiêu chất lượng từ khi thí điểm | Quyết định cử (soạn sẵn `VKG_HR_G3_QD_CuDaiDienISO`) |
-| 4 | Người phụ trách kế toán tạm thời (≤ 12 tháng), sau đó kế toán trưởng hoặc dịch vụ kế toán | Chức vụ (kế toán trưởng bắt buộc theo Luật Kế toán) | Giám đốc bố trí tạm (theo nghị quyết Hội đồng thành viên, mẫu điểm 4); kế toán trưởng: **Hội đồng thành viên** | **Ngay** – Giám đốc đã chốt; ghi ngày bắt đầu và hạn chuyển ≤ 12 tháng | NĐ 174/2016 Đ.20: đơn vị kế toán phải bố trí kế toán trưởng; người phụ trách kế toán chỉ tạm thời ≤ 12 tháng; ngoại lệ chỉ cho doanh nghiệp siêu nhỏ | Quyết định bố trí tạm [CẦN XÁC NHẬN: người cụ thể]; sau đó nghị quyết kế toán trưởng hoặc hợp đồng dịch vụ |
+| 0 | Cơ cấu tổ chức quản lý (khung ST-04 mục 2) | — | Hội đồng thành viên | Trước khi ký quyết định ban hành sơ đồ | Luật DN Đ.55 k.2 h | Nghị quyết Hội đồng thành viên (mẫu Nghị quyết Hội đồng thành viên) [CẦN XÁC NHẬN] |
+| 1 | Phó Giám đốc | Chức vụ quản lý | Giám đốc hoặc Hội đồng thành viên theo Điều lệ [CẦN XÁC NHẬN] | Ngay sau khi xem Điều lệ; **không ký trước đó** | Đang ký nghiệm thu, hợp đồng đến 100 triệu mà chưa có văn bản bổ nhiệm, ủy quyền | Quyết định bổ nhiệm (số tạm VKG/HR/QĐ-007/2026) + giấy ủy quyền riêng (mẫu mẫu Giấy ủy quyền Phó Giám đốc) |
+| 2 | Người phụ trách tổ sản xuất (đội trưởng) CN1, CN2 | Chức vụ quản lý | Giám đốc | **Trước khi ký nội quy lao động** | Nội quy cần người lập biên bản, kiểm cuối ca; phân công PCCC | Quyết định giao phụ trách tổ (soạn sẵn mẫu Quyết định giao phụ trách tổ sản xuất) |
+| 3 | Đại diện ISO | Kiêm nhiệm | Giám đốc | **Trước 30/11/2026** | Cần người giữ tài liệu, hồ sơ, số liệu mục tiêu chất lượng từ khi thí điểm | Quyết định cử (soạn sẵn mẫu Quyết định cử Đại diện ISO) |
+| 4 | Kế toán trưởng: thuê dịch vụ kế toán ngay; người trong công ty học lớp bồi dưỡng, có chứng chỉ thì chuyển về công ty | Chức vụ (kế toán trưởng bắt buộc theo Luật Kế toán) | Giám đốc ký hợp đồng dịch vụ (Hội đồng thành viên chấp thuận); cử người đi học; kế toán trưởng của công ty: **Hội đồng thành viên** | **Ngay** (thuê dịch vụ); bổ nhiệm người của công ty khi có chứng chỉ, chưa có mốc [CẦN XÁC NHẬN] | NĐ 174/2016 Đ.22 (thuê dịch vụ kế toán); Đ.21 k.1 (tiêu chuẩn, chứng chỉ bồi dưỡng kế toán trưởng); người trong công ty chưa có chứng chỉ thì không được ghi là người phụ trách kế toán | Hợp đồng dịch vụ kế toán [CẦN XÁC NHẬN: đơn vị, chi phí, ngày bắt đầu]; quyết định cử học [CẦN XÁC NHẬN: người, thời điểm]; khi có chứng chỉ: nghị quyết bổ nhiệm kế toán trưởng |
 | 5 | QC kiêm nhiệm CN1 | Kiêm nhiệm | Giám đốc | 12/2026 | Thí điểm QC cuối CN1 từ 12/2026 (mục tiêu chất lượng M2) | Mẫu quyết định giao nhiệm vụ |
 | 6 | Trưởng kỹ thuật | Chức vụ trong bộ phận | Giám đốc | 01/2027 [CẦN XÁC NHẬN] | Trước khi nhóm ISO viết quy trình thiết kế (điều 8.3). **Đến khi giao: Giám đốc giữ chữ Q của P3a, P3b** (ST-04 mục 5.2) | Mẫu quyết định giao nhiệm vụ |
 | 7 | QC kiêm nhiệm CN2 | Kiêm nhiệm | Giám đốc | 04/2027 | QC cuối áp cả 2 xưởng từ 04/2027 | Mẫu quyết định giao nhiệm vụ |
@@ -37,15 +37,15 @@ Số hiệu: cấp số chính thức theo thứ tự Giám đốc ký. Mẫu qu
 | **Trưởng kỹ thuật** | Theo JD-KN mục 3: đầu mối bản vẽ khách (P3a), thiết kế (P3b, điều 8.3): kế hoạch thiết kế, chủ trì xem xét, duyệt kiểm tra, duyệt thay đổi bản vẽ, chạy thử; cùng QC kiểm mức A; phân việc kỹ thuật | Thành thạo SolidWorks, AutoCAD, khai triển tấm (HD-13: K01 ≥ 4, K02 ≥ 3); đã thiết kế, chạy thử ít nhất 1 máy theo yêu cầu [CẦN XÁC NHẬN]. Nếu người này cũng là Đại diện ISO: cân nhắc quy tắc "không quá 2 vai từ 10%" (ST-04 mục 4) | Giám đốc | Quyết định giao; phụ lục HĐLĐ |
 | **QC kiêm nhiệm CN2** | Như QC CN1, tại CN2 | Như QC CN1. Đề xuất người phụ trách tổ CN2 kiêm vì xưởng ít người [CẦN XÁC NHẬN]; khi đó hàng do chính người này làm phải để người khác kiểm | Giám đốc | Quyết định giao |
 
-## 3. Kế toán trưởng – Giám đốc đã chốt (14/11/2026)
+## 3. Kế toán trưởng – Giám đốc đã chọn phương án (2) (15/11/2026)
 
-| Phương án | Cách làm | Ai quyết | Điều kiện, hạn |
+| Phương án | Cách làm | Ai quyết | Điều kiện |
 |---|---|---|---|
-| **A** | Bổ nhiệm kế toán trưởng là người trong công ty | Hội đồng thành viên (nghị quyết) | Đủ tiêu chuẩn mục 2; không thuộc Luật Kế toán Đ.52 |
-| **B** | Thuê dịch vụ làm kế toán trưởng | Hội đồng thành viên chấp thuận, Giám đốc ký hợp đồng dịch vụ | NĐ 174/2016 Đ.22; đơn vị dịch vụ đủ điều kiện |
-| **C – ĐÃ CHỌN (làm ngay)** | Tạm bố trí **người phụ trách kế toán**, rồi chuyển sang A hoặc B | Giám đốc bố trí theo nghị quyết Hội đồng thành viên | **Tối đa 12 tháng** từ ngày bố trí (NĐ 174/2016 Đ.20); ghi rõ ngày bắt đầu, hạn chuyển. Người được bố trí phải đủ cùng tiêu chuẩn như kế toán trưởng, gồm chứng chỉ bồi dưỡng (NĐ 174/2016 Đ.21 k.1); chưa có chứng chỉ thì chọn B ngay |
+| (1) | Người hiện tại đã có chứng chỉ kế toán trưởng thì giao phụ trách kế toán | Hội đồng thành viên (nghị quyết) | Không áp dụng nếu chưa có chứng chỉ |
+| **(2) – ĐÃ CHỌN** | **Thuê ngay dịch vụ kế toán có kế toán trưởng**; đồng thời cho một người trong công ty học lớp bồi dưỡng kế toán trưởng; có chứng chỉ thì chuyển về công ty | Giám đốc ký hợp đồng dịch vụ (Hội đồng thành viên chấp thuận); kế toán trưởng của công ty: Hội đồng thành viên | NĐ 174/2016 Đ.22; đơn vị dịch vụ đủ điều kiện. **Người trong công ty chưa có chứng chỉ thì không ghi là người phụ trách kế toán**; trong thời gian đó dịch vụ kế toán đảm nhận |
+| (3) | Thuê dịch vụ kế toán lâu dài | Hội đồng thành viên chấp thuận, Giám đốc ký hợp đồng | NĐ 174/2016 Đ.22 |
 
-**Còn chờ:** (1) người cụ thể phụ trách kế toán tạm thời (kèm bằng, chứng chỉ bồi dưỡng kế toán trưởng) và ngày bắt đầu; (2) nghị quyết Hội đồng thành viên nếu bổ nhiệm kế toán trưởng (A) hoặc chấp thuận thuê dịch vụ (B); (3) kế toán hoặc luật sư xác nhận điều kiện doanh nghiệp siêu nhỏ. Kế toán cần cung cấp [CẦN XÁC NHẬN]: số lao động đóng BHXH bình quân năm 2025, doanh thu, tổng nguồn vốn (để biết có phải doanh nghiệp siêu nhỏ không – nhận định nhiều khả năng **không**); hiện cơ quan thuế đang ghi ai là kế toán trưởng hay phụ trách kế toán.
+**Còn chờ:** (1) tên đơn vị dịch vụ kế toán, chi phí, ngày bắt đầu hợp đồng; (2) người trong công ty đi học lớp bồi dưỡng kế toán trưởng và thời điểm; (3) nghị quyết Hội đồng thành viên chấp thuận thuê dịch vụ và, khi có chứng chỉ, bổ nhiệm kế toán trưởng; (4) kế toán hoặc luật sư xác nhận công ty có bắt buộc phải có kế toán trưởng không (điều kiện doanh nghiệp siêu nhỏ). Kế toán cần cung cấp [CẦN XÁC NHẬN]: số lao động đóng BHXH bình quân năm 2025, doanh thu, tổng nguồn vốn (để biết có phải doanh nghiệp siêu nhỏ không – nhận định nhiều khả năng **không**); hiện cơ quan thuế đang ghi ai là kế toán trưởng hay phụ trách kế toán.
 
 ## 4. Quy tắc chung khi bổ nhiệm, giao nhiệm vụ
 
@@ -64,7 +64,7 @@ Số hiệu: cấp số chính thức theo thứ tự Giám đốc ký. Mẫu qu
 | Phó Giám đốc | Chức vụ | Đã ở nhóm lương 1. Nếu Điều lệ giao Hội đồng thành viên: lương, phụ cấp do Hội đồng thành viên quyết |
 | Người phụ trách tổ sản xuất CN1, CN2 | Chức vụ | Đã ở nhóm lương 2, cao hơn thợ: tránh trả hai lần cho cùng trách nhiệm. Vai người phụ trách PCCC đã nằm trong việc này |
 | Trưởng kỹ thuật | Chức vụ | Người giữ ở nhóm lương 3 |
-| Kế toán trưởng (hoặc người tạm phụ trách kế toán) | Chức vụ | Kế toán trưởng: lương, phụ cấp do Hội đồng thành viên quyết (Luật DN Đ.55 k.2 e) |
+| Kế toán trưởng của công ty (khi người được cử học đã có chứng chỉ) | Chức vụ | Lương, phụ cấp do Hội đồng thành viên quyết (Luật DN Đ.55 k.2 e). Trong thời gian thuê dịch vụ: phí dịch vụ theo hợp đồng, không phải phụ cấp |
 | Đại diện ISO | Kiêm nhiệm | 20–30% thời gian |
 | QC kiêm nhiệm CN1, CN2 | Kiêm nhiệm | Nếu người phụ trách tổ CN2 kiêm QC: xét có cộng thêm không |
 | Người làm công tác ATVSLĐ (bán chuyên trách) | Kiêm nhiệm | Theo quy chế lương |
@@ -78,7 +78,7 @@ Số hiệu: cấp số chính thức theo thứ tự Giám đốc ký. Mẫu qu
 | # | Nội dung | Ai |
 |---|---|---|
 | 1 | Điều lệ: Phó Giám đốc, người quản lý khác có do Hội đồng thành viên bổ nhiệm không; cách Hội đồng thành viên thông qua cơ cấu tổ chức | Giám đốc (xem Điều lệ); luật sư nếu khó hiểu |
-| 2 | Kế toán trưởng: người cụ thể phụ trách kế toán tạm thời và ngày bắt đầu; số liệu doanh nghiệp siêu nhỏ; ai đang được ghi là kế toán trưởng với cơ quan thuế | Giám đốc, kế toán |
+| 2 | Kế toán trưởng: đơn vị dịch vụ kế toán, chi phí, ngày bắt đầu; người đi học lớp bồi dưỡng và thời điểm; số liệu doanh nghiệp siêu nhỏ; ai đang được ghi là kế toán trưởng với cơ quan thuế. Giám đốc trả lời một chữ "2", hiểu là phương án (2) [CẦN XÁC NHẬN] | Giám đốc, kế toán |
 | 3 | Thời điểm từng vị trí (bảng mục 1) | Giám đốc |
 | 4 | Người cụ thể từng vị trí (trừ Phó Giám đốc đã có tên) | Giám đốc |
 | 5 | Có dùng thời gian xem xét (ghi ở phụ lục HĐLĐ) không | Giám đốc |
@@ -131,3 +131,14 @@ R3-HDTV (Điều lệ, HĐTV); R3-KTT (đã chốt: C ngay, rồi A hoặc B; c�
 ### Đã sửa theo rà soát lần 2 (15/11/2026)
 
 - R3-47: phương án C ghi người tạm phụ trách phải đủ tiêu chuẩn như kế toán trưởng, gồm chứng chỉ bồi dưỡng; chưa có thì chọn B ngay.
+
+### Đã sửa theo kiểm hình PDF (15/11/2026)
+
+- Thay tên file nội bộ bằng tên văn bản.
+
+### Đã sửa theo câu trả lời R3-47 của Giám đốc (15/11/2026, tối)
+
+- Mục 3 đổi từ phương án A/B/C sang ba phương án (1), (2), (3); đã chọn (2): thuê ngay dịch vụ kế toán có kế toán trưởng, người trong công ty học lớp bồi dưỡng, có chứng chỉ thì chuyển về. Thay câu R3-KTT 14/11 (phụ trách kế toán tạm thời ≤ 12 tháng).
+- Bước 4 mục 1, mục 5, "Việc cần xác nhận" mục 2 sửa theo. Người trong công ty không ghi là người phụ trách kế toán cho đến khi có chứng chỉ.
+- Câu hỏi cho gói luật sư (chưa đối chiếu văn bản gốc): với quy mô hiện tại công ty có bắt buộc phải có kế toán trưởng không (Luật Kế toán, NĐ 174/2016, doanh nghiệp siêu nhỏ); kế toán trưởng của đơn vị dịch vụ có thay được kế toán trưởng của công ty không (NĐ 174/2016 Đ.22).
+- Chữ "2" Giám đốc chỉ ghi một chữ số: hiểu là phương án (2); giữ một dòng ở "Việc cần xác nhận".

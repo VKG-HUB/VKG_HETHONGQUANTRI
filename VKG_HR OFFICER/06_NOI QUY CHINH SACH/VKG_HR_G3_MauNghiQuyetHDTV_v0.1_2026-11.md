@@ -27,9 +27,9 @@ Giao Giám đốc ban hành chi tiết sơ đồ tổ chức, danh mục chức 
 - (Phương án B) Bổ nhiệm Ông Vũ Văn Tích giữ chức vụ Phó Giám đốc kể từ ngày ……; tiền lương, phụ cấp: …….
 
 **Điều 4. Kế toán trưởng**
-- (A) Bổ nhiệm Ông/Bà …… làm Kế toán trưởng kể từ ngày ……; tiền lương, phụ cấp: …… (đủ tiêu chuẩn Luật Kế toán Đ.54 k.1; không thuộc Đ.52).
-- (B) Thuê dịch vụ làm kế toán trưởng của …… (NĐ 174/2016 Đ.22).
-- (C) Đồng ý Giám đốc tạm bố trí người phụ trách kế toán từ ngày …… đến ngày …… (không quá 12 tháng – NĐ 174/2016 Đ.20). Người được bố trí phải đủ cùng tiêu chuẩn như kế toán trưởng, gồm chứng chỉ bồi dưỡng kế toán trưởng (NĐ 174/2016 Đ.21 k.1). Hết thời hạn, Công ty bổ nhiệm kế toán trưởng (A) hoặc thuê dịch vụ (B).
+1. Chấp thuận việc thuê dịch vụ kế toán có kế toán trưởng của …… (tên đơn vị dịch vụ) từ ngày ……; Giám đốc ký hợp đồng dịch vụ, phí dịch vụ: …… (NĐ 174/2016 Đ.22). Trong thời gian thuê dịch vụ, đơn vị dịch vụ đảm nhận phần kế toán trưởng theo hợp đồng.
+2. Đồng ý cử Ông/Bà …… (người của Công ty) tham dự lớp bồi dưỡng kế toán trưởng, dự kiến từ …… đến ……; chi phí: …… Khi có chứng chỉ, Giám đốc trình Hội đồng thành viên xem xét bổ nhiệm làm Kế toán trưởng của Công ty. Cho đến khi có chứng chỉ, người này không được ghi là kế toán trưởng hay người phụ trách kế toán của Công ty.
+3. Khi bổ nhiệm kế toán trưởng của Công ty: Bổ nhiệm Ông/Bà …… làm Kế toán trưởng kể từ ngày ……; tiền lương, phụ cấp: …… (đủ tiêu chuẩn Luật Kế toán Đ.54 k.1, có chứng chỉ bồi dưỡng kế toán trưởng; không thuộc Đ.52). Khoản này chỉ ký khi đã có chứng chỉ.
 
 **Điều 5. Hiệu lực**
 Nghị quyết có hiệu lực kể từ ngày ký. Giám đốc và các cá nhân liên quan thi hành.
@@ -53,3 +53,8 @@ Mẫu soạn theo rà soát R3 dòng 1, 15, 18 (mức Cao): Luật DN Đ.55 k.2 
 
 - R3-55: chuyển ghi chú "Giám đốc đã chốt 14/11: dùng (C) ngay, rồi (A) hoặc (B); giữ cả ba trong nghị quyết" từ tiêu đề Điều 4 xuống đây. Cách thông qua: kèm biên bản họp hoặc biên bản kiểm phiếu theo Điều lệ.
 - R3-47: phương án (C) ghi tiêu chuẩn người tạm phụ trách (như kế toán trưởng, gồm chứng chỉ bồi dưỡng; NĐ 174/2016 Đ.21 k.1). Nếu người dự kiến chưa có chứng chỉ: chọn (B) ngay.
+
+### Đã sửa theo câu trả lời R3-47 của Giám đốc (15/11/2026, tối)
+
+- Giám đốc trả lời "2": hiểu là phương án (2) – thuê ngay dịch vụ kế toán có kế toán trưởng, người trong công ty học lớp bồi dưỡng, có chứng chỉ thì chuyển về. Điều 4 viết lại thành ba khoản: (1) thuê dịch vụ, (2) cử người học, (3) bổ nhiệm khi có chứng chỉ. Bỏ khoản "tạm bố trí người phụ trách kế toán ≤ 12 tháng". Người trong công ty không ghi là kế toán trưởng, người phụ trách kế toán cho đến khi có chứng chỉ. Tên đơn vị dịch vụ, người học, chi phí, thời điểm để trống [CẦN XÁC NHẬN – Giám đốc].
+- Câu hỏi cho gói luật sư (chưa đối chiếu văn bản gốc): với quy mô hiện tại công ty có bắt buộc phải có kế toán trưởng không (Luật Kế toán, NĐ 174/2016, doanh nghiệp siêu nhỏ).

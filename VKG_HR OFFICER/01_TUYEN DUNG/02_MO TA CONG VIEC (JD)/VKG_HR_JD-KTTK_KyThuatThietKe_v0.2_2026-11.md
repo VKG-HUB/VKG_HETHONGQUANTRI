@@ -17,7 +17,7 @@
 | Mã JD | JD-KTTK |
 | Chức danh | Nhân viên kỹ thuật thiết kế |
 | Bộ phận | Kỹ thuật |
-| Cấp bậc | Chuyên môn · nhóm lương 3 (G5 nháp) |
+| Cấp bậc | Chuyên môn · nhóm lương 3 (theo Quy chế lương, bản nháp) |
 | Báo cáo trực tiếp | Giám đốc [CẦN XÁC NHẬN]; người được giao Trưởng kỹ thuật (nếu lập) về chuyên môn |
 | Quản lý trực tiếp | Không |
 | Nơi làm việc | Văn phòng CN1; ra xưởng CN1, CN2 khi đo đạc, chạy thử, hướng dẫn |
@@ -78,7 +78,7 @@ Văn phòng CN1; ra xưởng dùng bảo hộ như thợ. Huấn luyện nhóm 4
 
 ## 9. Nhiệm vụ kiêm nhiệm có thể được giao
 
-Đại diện ISO (JD-KN mục 1) · Trưởng kỹ thuật (JD-KN mục 3) · Người làm công tác ATVSLĐ (JD-KN mục 4; G2 đề xuất 1 kỹ sư có bằng đại học kỹ thuật).
+Đại diện ISO (JD-KN mục 1) · Trưởng kỹ thuật (JD-KN mục 3) · Người làm công tác ATVSLĐ (JD-KN mục 4; Kế hoạch ATVSLĐ, PCCC đề xuất 1 kỹ sư có bằng đại học kỹ thuật).
 
 ## Việc cần xác nhận
 

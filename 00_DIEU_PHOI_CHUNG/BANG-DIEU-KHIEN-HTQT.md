@@ -1,4 +1,4 @@
-# Bảng điều khiển chương trình HTQT
+﻿# Bảng điều khiển chương trình HTQT
 
 > **ĐÍCH CUỐI: Chứng nhận ISO 9001:2026 trước 30/11/2027.** Chỉ HTQT-00 sửa file này. Chi tiết từng nhóm xem bảng điều khiển của nhóm.
 
@@ -61,6 +61,28 @@ Sidebar: nhóm "HTQT · Hệ thống quản trị VKG (ISO · Biểu mẫu · Nh
 | 2 | Tem ĐẠT/KHÔNG ĐẠT bản in theo màu A thay giấy dán viết tay | ISO-03 → BM | Sau 4 tuần tạm dừng mẫu mới (B4) |
 | 3 | Thẻ nhân viên, đồng phục lưng áo (artboard H, J2) | NS | Khi HR làm hồ sơ nhân sự, hội nhập |
 | 4 | ~~Phòng cháy chữa cháy tại xưởng – chưa có chủ~~ | NS (gói G2, HR-06) | Đóng 13/11 theo HR-00 báo |
+
+## 3c. Tài liệu Giám đốc đã duyệt gần nhất
+
+Mới nhất ở trên. HTQT-00 ghi mỗi khi nhóm báo Giám đốc duyệt; báo cáo ngày 17h30 cũng cập nhật mục này. **Mức duyệt:** *duyệt nháp* = Giám đốc đồng ý nội dung, chưa ban hành · *duyệt nội dung* = Giám đốc chốt một điểm trong tài liệu · *phát hành* = đã đưa vào dùng. "Duyệt" theo `TU-DIEN-THUAT-NGU.md`: chỉ Giám đốc chốt mới là đã duyệt, "xong" hay "đã kiểm" chưa phải duyệt. Nguồn trạng thái: sổ quyết định các nhóm, **HTQT-00 chưa mở từng file để đối chiếu** (15/11/2026).
+
+| Ngày duyệt | Tài liệu | Mức duyệt | Căn cứ | Việc kế tiếp |
+|---|---|---|---|---|
+| 15/11/2026 | **Mẫu SX-01 (lệnh sản xuất) và GH-02 (biên bản giao nhận):** 4 điểm mức Nặng của ISO: Cho giao/Giữ lại; mã CN, TH và người quyết định; số hiệu dụng cụ đo; cột Rev bản vẽ, GH-02 ghi lệnh đã kiểm cuối | Duyệt NGUYÊN TẮC (qua bảng Đánh giá độc lập); BM đã sửa nháp cả 2 mẫu. Vẫn NHÁP, chưa phát hành, không phải duyệt phát hành | QĐ-152 (BM) | BM đã báo ISO-03 (mục 8); phát hành khi Giám đốc duyệt |
+| 15/11/2026 | **Danh sách ngắn ISO, câu C1 và C2** (đơn lẻ lấy ngay vào hệ thống, ghi 1 dòng HS-01; một cửa nhận đơn, báo giá, khiếu nại qua 0911 365 365). Ghi vào ST-01 v0.9, ST-03 v0.4, ST-05 v0.6 (chỉ md) | Duyệt nội dung (trả lời của Giám đốc), chưa có số ISO-QĐ; Word, PDF chưa dựng lại | HT-028; ISO-02 báo 15/11 | Còn 9 câu C3–C11 (câu I12) |
+| 15/11/2026 | **TT-02 Biên bản xác nhận số dư công nợ Sonion** (số biên bản 26111511-51-SON, hợp đồng 140424/VK-SONION, số dư tại 31/10/2026) | Duyệt nội dung (số biên bản và hợp đồng tham chiếu); BM-00 báo 15/11 tối: Giám đốc đã duyệt bản hiện tại, tự ký và gửi; chưa có tin đã ký, đã gửi | QĐ-151 (BM) | Giám đốc ký và gửi khách trước hạn 18/11; bổ sung mẫu 04 hóa đơn 122 (địa chỉ cũ) [CẦN XÁC NHẬN]; hóa đơn PO590234-2 Giám đốc tự xử lý. File: `Downloads\Sonion-PO\Bien-ban-xac-nhan-so-du_SONION_31-10-2026.xlsm` và `.pdf` |
+| 14/11/2026 | **Bộ nền ISO giai đoạn 1:** QT-01 v0.5, ST-01, ST-02 v0.2, ST-03 v0.2, ST-05 v0.4, ST-06 v0.3 (ISO-02 báo Word/PDF đã dựng) | Duyệt nháp, chưa ban hành | ISO-QĐ-09 | Sửa theo các điểm [CẦN XÁC NHẬN] còn mở (`ST_CXN-con-mo_2026-11-15.md`); câu I10 mốc chuyển tiếp ISO 9001:2026. ST-01 hiện hành là v0.8 (ISO-02 xác nhận 15/11; danh mục đã sửa) |
+| 14/11/2026 | ST-01 Phạm vi chứng nhận: thêm "thiết kế, chế tạo máy theo yêu cầu", CN1 và CN2 | Duyệt nội dung | ISO-QĐ-08 | Còn mở: máy vi sinh theo file STEP của đối tác; địa chỉ ghi trên chứng chỉ (HT-021) |
+| 13/11/2026 | ST-02 Chính sách chất lượng: giữ cam kết "ai thấy lỗi cũng được dừng việc, báo lỗi không bị trách" | Duyệt nội dung | ISO-QĐ-07 | ST-02 lên v0.2; chờ câu I7 (b, c) về ST-05 |
+| 13/11/2026 | Bản sửa nhỏ số điện thoại ở 7 mẫu biểu | Duyệt phát hành trước 23/11 | QĐ-145 (BM) | BM phát hành trước 23/11 |
+| 13/11/2026 | Cách áp dụng mẫu mới: chuyển hẳn mẫu mới từ 23/11; app cấp số từ 23/11; tạm dừng mẫu mới 4 tuần để thí điểm | Duyệt hướng | QĐ-139, 140, 141 (BM) | Theo lịch chung 23/11 |
+| 13/11/2026 | **Bộ mẫu biểu `.xltm` có macro (10 mẫu)**, trong đó BG-03, BG-04, BG-05 báo giá bản 4.0 | Phát hành 13/11 00:40 (Giám đốc cho chạy 12/11) | QĐ-125 (nhóm BM) | Chưa in giấy, chưa thử trên máy 2 nhân viên kỹ thuật; đặt `BIEU-MAU-VKG` làm nơi tin cậy trên 4 máy; chuyển hẳn mẫu mới 23/11 |
+| 12/11/2026 | Quy tắc mã chung và 4 sổ chung (QUY-TAC-MA-CHUNG v1.0) | Duyệt, đang áp dụng | HT-002, HT-003 | — |
+| 10/11/2026 | Bìa kẹp L3, L2: chữ trên bìa; 14/11 đồng ý thêm khối "Để Việt Khoa báo giá nhanh" ở L2 | Duyệt nội dung (chưa in) | QĐ-138, QĐ-142 (BM9) | Chờ mã thuế chi nhánh CN1 (-001 hay -002) trên L3 bìa sau; chưa in L3 |
+| 09/11/2026 | SX-01 Lệnh sản xuất (kèm 4 phiếu theo công đoạn); GH-02 Biên bản giao nhận (bỏ quốc hiệu) | Duyệt nháp, chưa phát hành | QĐ-136, QĐ-137 (BM6B) | Chờ 4 điểm mức Nặng của ISO-03 (câu I5), rồi đưa vào danh mục và phát hành |
+| 09/11/2026 | Hồ sơ năng lực BM9 (hướng, phong cách, quy cách, nội dung ảnh, thứ tự làm) và cách lập lệnh sản xuất, biên bản giao nhận của BM6B | Duyệt hướng (chưa phải duyệt tài liệu hoàn chỉnh) | QĐ-129 đến QĐ-133, QĐ-135 (BM) | Theo tiến độ BM |
+
+**Chưa duyệt, đang chờ (không tính vào bảng trên):** bộ tài liệu nhân sự nộp 20/11 (NS đã dựng Word/PDF lượt cuối 15/11, Giám đốc nhận 20/11, chưa phải bản duyệt); NS-17, NS-18 (BM chỉ dựng nháp 15/11, QĐ-149, chờ HR-04 và NS duyệt).
 
 ## 4. Lịch sử
 

@@ -17,7 +17,7 @@
 | Mã JD | JD-LASER |
 | Chức danh | Thợ vận hành máy cắt laser |
 | Bộ phận | Sản xuất |
-| Cấp bậc | Công nhân kỹ thuật · nhóm lương 4 (G5 nháp) |
+| Cấp bậc | Công nhân kỹ thuật · nhóm lương 4 (theo Quy chế lương, bản nháp) |
 | Báo cáo trực tiếp | Người phụ trách tổ sản xuất (đội trưởng) của xưởng đang làm |
 | Quản lý trực tiếp | Không. Chỉ dẫn lao động phổ thông phụ máy (bốc tấm, gỡ chi tiết) |
 | Nơi làm việc | CN1: laser tấm 6 kW (khổ 1,5 × 3 m), laser ống 3 kW · CN2: laser tấm 12 kW (khổ khoảng 2,5 × 12 m, thép dày tới 30–40 mm). Máy cụ thể ghi trong HĐLĐ hoặc phân công của người phụ trách tổ. Làm thường xuyên ở cả hai xưởng: HĐLĐ ghi đủ cả hai địa điểm (Chi nhánh mã số 0311563372-002 và Địa điểm kinh doanh 001, mã 00001); nếu HĐLĐ chỉ ghi một nơi, điều sang nơi kia lâu dài phải có thỏa thuận, ký phụ lục |
@@ -57,7 +57,7 @@ Cắt tấm, ống kim loại trên máy laser đúng bản vẽ, đúng dung sa
 | Mục | Yêu cầu |
 |---|---|
 | Học vấn | Không bắt buộc bằng cấp. Biết dùng máy tính cơ bản |
-| Kinh nghiệm | Bậc vào làm theo kết quả kiểm tra tay nghề (G5, G7). Thợ chính: [CẦN XÁC NHẬN] số năm chạy laser fiber |
+| Kinh nghiệm | Bậc vào làm theo kết quả kiểm tra tay nghề (Quy chế lương; Kế hoạch đào tạo). Thợ chính: [CẦN XÁC NHẬN] số năm chạy laser fiber |
 | Kiến thức | Đọc bản vẽ 2D, file DXF; vật liệu và độ dày; khí cắt và ảnh hưởng tới mép cắt; dung sai |
 | Kỹ năng | Vận hành phần mềm điều khiển của máy (ví dụ CypCut) [CẦN XÁC NHẬN phần mềm từng máy]; xếp hình tiết kiệm; dùng thước kẹp, thước cuộn đã kiểm |
 | Sức khỏe | Đủ sức khỏe theo kết quả khám trước khi bố trí việc |
@@ -86,7 +86,7 @@ Theo dõi riêng (không tính điểm): giờ máy dừng do thao tác, thiếu
 | Yếu tố nguy hiểm, có hại | Bức xạ laser công suất lớn (6 kW, 12 kW, 3 kW); khói, bụi kim loại; tia lửa, xỉ nóng gây cháy; khí áp lực cao (N2, O2 – O2 làm cháy mạnh); điện cao áp; mép tấm sắc; nâng hạ tấm lớn (CN2: tấm khổ 12 m, dày tới 40 mm – dùng thiết bị nâng); tiếng ồn |
 | Thuộc danh mục | Không thuộc danh mục nặng nhọc, độc hại (không có mục cắt laser). Thuộc công việc có yêu cầu nghiêm ngặt: **mục (5)** cắt kim loại (danh mục không có chữ "laser", cắt laser xếp vào "cắt"); **mục (27)** điều khiển máy qua màn hình khi điều khiển CNC bằng màn hình tại xưởng (TT 27/2026/TT-BNV từ 01/01/2027; đến 31/12/2026 theo TT 06/2020) |
 | Huấn luyện | Nhóm 3; thẻ an toàn hạn 2 năm. Khám sức khỏe ít nhất 1 lần/năm |
-| Bảo hộ được cấp | Giày mũi thép; găng chống cắt (khi gỡ chi tiết); kính bảo hộ; nút tai; khẩu trang lọc bụi, khói; quần áo bảo hộ; mũ bảo hộ khi nâng hạ tấm ở CN2 (G2 mục 4) |
+| Bảo hộ được cấp | Giày mũi thép; găng chống cắt (khi gỡ chi tiết); kính bảo hộ; nút tai; khẩu trang lọc bụi, khói; quần áo bảo hộ; mũ bảo hộ khi nâng hạ tấm ở CN2 (Kế hoạch ATVSLĐ, PCCC mục 4) |
 | Hướng dẫn an toàn | HD-01 laser 6 kW · HD-02 laser 12 kW · HD-03 laser ống (HD-03 làm sau 30/11) · HD-11 thiết bị nâng (CN2) |
 
 ## 9. Nhiệm vụ kiêm nhiệm có thể được giao
@@ -144,3 +144,7 @@ QC kiêm nhiệm (JD-KN mục 2) · An toàn, vệ sinh viên, người hỗ tr�
 | v0.1 | 14/11/2026 | Nháp đầu (HR-00b, gói G6), vị trí ưu tiên | Chưa |
 | v0.2 | 14/11/2026 | Sửa theo rà soát R3 và R2-08. Bản v0.1 lưu `99_LUU TRU\G3G6_v0.1_2026-11` | Chưa |
 | v0.2 (cập nhật) | 14/11/2026 | Điền số mục danh mục công việc nghiêm ngặt theo báo cáo HR-06 (TT 27/2026/TT-BNV, TT 06/2020); R3 dòng 35, 36 đã sửa | Chưa |
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

@@ -8,9 +8,9 @@
 
 **Phục vụ ISO điều:** 5.3 (vai trò, trách nhiệm, quyền hạn) · 7.1.2 (con người) · 7.2 a (danh mục chức danh là gốc của JD, tiêu chuẩn năng lực HD-13).
 **Căn cứ pháp luật:** Luật Doanh nghiệp 59/2020/QH14 (sửa đổi bởi Luật 03/2022/QH15, 76/2025/QH15) Đ.4 k.24, Đ.55 k.2, Đ.63 k.2; Điều lệ công ty; Luật Kế toán 88/2015/QH13 Đ.52–54; NĐ 174/2016/NĐ-CP Đ.20–22. Bộ luật Lao động 45/2019/QH14; Luật An toàn, vệ sinh lao động 84/2015/QH13 Đ.72, Đ.74; NĐ 39/2016/NĐ-CP Đ.36; Luật PCCC và CNCH 55/2024/QH15, NĐ 105/2025/NĐ-CP Đ.20 (sửa bởi NĐ 347/2026/NĐ-CP).
-**Nguồn:** Giám đốc trả lời 14/11/2026: **hiện có 15 người**; **chưa có chức danh chính thức**, chỉ có Giám đốc và Phó Giám đốc (chưa bổ nhiệm chính thức); mọi người kiêm nhiệm tự phát. Xưởng CN1 là **Chi nhánh** mã số 0311563372-002; xưởng CN2 là **địa điểm kinh doanh** trực thuộc công ty, không phải chi nhánh. Định biên 26 người theo file 01 mục 3.
+**Nguồn:** Giám đốc trả lời 14/11/2026: **hiện có 15 người**; **chưa có chức danh chính thức**, chỉ có Giám đốc và Phó Giám đốc (chưa bổ nhiệm chính thức); mọi người kiêm nhiệm tự phát. Xưởng CN1 là **Chi nhánh** mã số 0311563372-002; xưởng CN2 là **địa điểm kinh doanh** trực thuộc công ty, không phải chi nhánh. Định biên 26 người do Giám đốc chốt.
 
-**Ký hiệu dùng trong file:** GĐ Giám đốc · PGĐ Phó Giám đốc · ĐT người được Giám đốc giao phụ trách tổ sản xuất (đội trưởng) – chức danh đề xuất, giao bằng quyết định; nhóm ISO gọi là "tổ trưởng" (ST-02, ST-05) – cùng một vị trí · TKT trưởng kỹ thuật · KT nhân viên kỹ thuật thiết kế · PTKT người phụ trách kế toán tạm thời (≤ 12 tháng) · KTT kế toán trưởng (khi được bổ nhiệm, thay PTKT) hoặc dịch vụ kế toán · KTo nhân viên kế toán · Thợ: mọi thợ và lao động phổ thông · ĐDISO Đại diện ISO · QC: QC kiêm nhiệm · ATLĐ: người làm công tác an toàn, vệ sinh lao động · ATVSV: an toàn, vệ sinh viên.
+**Ký hiệu dùng trong file:** GĐ Giám đốc · PGĐ Phó Giám đốc · ĐT người được Giám đốc giao phụ trách tổ sản xuất (đội trưởng) – chức danh đề xuất, giao bằng quyết định; nhóm ISO gọi là "tổ trưởng" (ST-02, ST-05) – cùng một vị trí · TKT trưởng kỹ thuật · KT nhân viên kỹ thuật thiết kế · DVKT dịch vụ kế toán thuê ngoài, có kế toán trưởng của đơn vị dịch vụ, đảm nhận phần kế toán trưởng cho đến khi người trong công ty có chứng chỉ · KTT kế toán trưởng của công ty (chỉ khi người được cử học lớp bồi dưỡng đã có chứng chỉ và được bổ nhiệm) · KTo nhân viên kế toán · Thợ: mọi thợ và lao động phổ thông · ĐDISO Đại diện ISO · QC: QC kiêm nhiệm · ATLĐ: người làm công tác an toàn, vệ sinh lao động · ATVSV: an toàn, vệ sinh viên.
 
 ## 1. Hiện trạng (15 người, kiêm nhiệm tự phát)
 
@@ -25,7 +25,7 @@ Phần này **tả việc đang diễn ra**, không phải sơ đồ ban hành. 
 | Người làm kế toán | Sổ sách, thuế, BHXH (cả 15 người đã đóng BHXH, chưa đối chiếu từ ngày vào làm); nhận vật tư cùng PGĐ, chỉ cân tổng | Chưa có; ai đang được ghi là kế toán trưởng hoặc phụ trách kế toán với cơ quan thuế [CẦN XÁC NHẬN] |
 | Thợ ở 2 xưởng | Làm theo việc được giao; tự bảo trì máy khi hỏng; chưa có kiểm cuối cho đa số đơn | Chưa có |
 
-**Số người theo bộ phận: [CẦN XÁC NHẬN].** Tổng hiện có là 15. Phiếu A1 ngày 02/11/2026 ghi 17 người (file 01 v1.3 ghi bảng này không còn đúng). Hai dòng đầu dưới đây lấy theo phiếu A1, chờ Giám đốc xác nhận lại:
+**Số người theo bộ phận: [CẦN XÁC NHẬN].** Tổng hiện có là 15. Phiếu A1 ngày 02/11/2026 ghi 17 người (số liệu cũ ghi bảng này không còn đúng). Hai dòng đầu dưới đây lấy theo phiếu A1, chờ Giám đốc xác nhận lại:
 
 | Bộ phận | Hiện có | Ở CN1 (Chi nhánh) | Ở CN2 (Địa điểm kinh doanh Phước Tân) |
 |---|---|---|---|
@@ -40,9 +40,9 @@ Rủi ro của hiện trạng: 3 người cùng nhận đơn, không một cửa
 
 ## 2. Sơ đồ chính thức (định biên 26 người)
 
-Sơ đồ trực quan 2 lớp (hiện trạng; đề xuất chính thức, có thứ tự bổ nhiệm): **[Hình sơ đồ tổ chức – chèn trước khi ký]** Bảng dưới là bản chữ của sơ đồ đó.
+Sơ đồ trực quan 2 lớp (hiện trạng; đề xuất chính thức, có thứ tự bổ nhiệm): **[Hình sơ đồ tổ chức – Giám đốc dán tại đây]** Bảng dưới là bản chữ của sơ đồ đó.
 
-**Khung cấp 1–2 (cơ cấu tổ chức quản lý) do Hội đồng thành viên thông qua bằng nghị quyết** (Luật DN Đ.55 k.2 h; mẫu `VKG_HR_G3_MauNghiQuyetHDTV`) [CẦN XÁC NHẬN]. Giám đốc ban hành phần chi tiết (chức danh, ma trận, quyền hạn, JD) theo Đ.63 k.2 d. Mỗi ô **in đậm** là vị trí giao bằng văn bản riêng theo lộ trình (mục 6).
+**Khung cấp 1–2 (cơ cấu tổ chức quản lý) do Hội đồng thành viên thông qua bằng nghị quyết** (Luật DN Đ.55 k.2 h; mẫu Nghị quyết Hội đồng thành viên) [CẦN XÁC NHẬN]. Giám đốc ban hành phần chi tiết (chức danh, ma trận, quyền hạn, JD) theo Đ.63 k.2 d. Mỗi ô **in đậm** là vị trí giao bằng văn bản riêng theo lộ trình (mục 6).
 
 | Cấp 1 | Cấp 2 | Cấp 3 | Cấp 4 |
 |---|---|---|---|
@@ -52,8 +52,10 @@ Sơ đồ trực quan 2 lớp (hiện trạng; đề xuất chính thức, có t
 | | | **Người phụ trách tổ sản xuất CN1** (Chi nhánh) | Thợ, lao động phổ thông CN1 |
 | | | **Người phụ trách tổ sản xuất CN2** (Địa điểm kinh doanh Phước Tân) | Thợ, lao động phổ thông CN2 |
 | | **Trưởng kỹ thuật** (đến khi giao: Giám đốc trực tiếp) | Nhân viên kỹ thuật thiết kế | |
-| | **Người phụ trách kế toán tạm thời** (Giám đốc bố trí ngay, ≤ 12 tháng – Giám đốc đã chốt 14/11; sau đó kế toán trưởng do Hội đồng thành viên bổ nhiệm, hoặc thuê dịch vụ kế toán) | Nhân viên kế toán | |
+| | **Dịch vụ kế toán thuê ngoài** (có kế toán trưởng của đơn vị dịch vụ; thuê ngay – Giám đốc đã chọn phương án này) · khi người trong công ty học xong lớp bồi dưỡng và có chứng chỉ: **kế toán trưởng** do Hội đồng thành viên bổ nhiệm [CẦN XÁC NHẬN: đơn vị dịch vụ, người học lớp, thời điểm] | Nhân viên kế toán | |
 | | Vai kiêm nhiệm (mục 4): **Đại diện ISO** · **QC kiêm nhiệm CN1, CN2** · người làm công tác ATVSLĐ · ATVSV · người phụ trách PCCC | | |
+
+## 2b. Định biên theo bộ phận (26 người)
 
 | Bộ phận | Định biên | CN1 (đề xuất) | CN2 (đề xuất) | Báo cáo trực tiếp cho |
 |---|---|---|---|---|
@@ -61,17 +63,17 @@ Sơ đồ trực quan 2 lớp (hiện trạng; đề xuất chính thức, có t
 | Quản lý cấp trung (người phụ trách tổ sản xuất) | 2 | 1 | 1 | PGĐ [CẦN XÁC NHẬN] |
 | Kỹ thuật (gồm trưởng kỹ thuật) | 4 | 4 | 0 | GĐ [CẦN XÁC NHẬN] |
 | Sản xuất | 15 | 11 | 4 | Người phụ trách tổ xưởng đó |
-| Kế toán (gồm người phụ trách kế toán tạm thời, sau đó kế toán trưởng) | 3 | 3 | 0 | Người phụ trách kế toán, kế toán trưởng chịu sự lãnh đạo của GĐ (Luật Kế toán Đ.53 k.3) |
+| Kế toán (nhân viên kế toán; kế toán trưởng là dịch vụ kế toán thuê ngoài, sau đó là người của công ty khi có chứng chỉ) | 3 | 3 | 0 | Kế toán trưởng chịu sự lãnh đạo của GĐ (Luật Kế toán Đ.53 k.3); trong thời gian thuê dịch vụ: nhân viên kế toán làm việc với kế toán trưởng của đơn vị dịch vụ theo hợp đồng, báo cáo GĐ |
 | **Tổng** | **26** | **21** | **5** | |
 
-- Định biên theo bộ phận: Giám đốc đã chốt (file 01 mục 3). **Chia theo xưởng là đề xuất [CẦN XÁC NHẬN]:** CN2 có laser 12 kW, kết cấu thép, 500 m² kho bãi nên đề xuất 5 người.
-- Từ 15 lên 26: thiếu 11 người. Thứ tự tuyển đến 31/12/2026 do kế hoạch tuyển dụng lập; mục tiêu MT2 18/26 trước 28/02/2027.
+- Định biên theo bộ phận: Giám đốc đã chốt. **Chia theo xưởng là đề xuất [CẦN XÁC NHẬN]:** CN2 có laser 12 kW, kết cấu thép, 500 m² kho bãi nên đề xuất 5 người.
+- Từ 15 lên 26: thiếu 11 người. Thứ tự tuyển đến 31/12/2026 do kế hoạch tuyển dụng lập; mục tiêu tuyển 18/26 người trước 28/02/2027.
 - CN1 là chi nhánh, CN2 là địa điểm kinh doanh trực thuộc công ty. PCCC xét theo từng cơ sở, mỗi xưởng một cơ sở. Khi CN1 đạt 20 người thường xuyên làm việc (định biên đề xuất 21) thì phải lập Đội PCCC cơ sở (NĐ 105/2025 Đ.20).
 - Vì sao đề xuất người phụ trách tổ báo cáo PGĐ: PGĐ đang quyết đơn, nhận vật tư, thử tay nghề thợ (mục 1). Giám đốc muốn báo cáo thẳng GĐ thì sửa cột cuối.
 
 ## 3. Danh mục chức danh
 
-Công ty **chưa có chức danh chính thức**. Danh mục dưới có hiệu lực khi Giám đốc ban hành ST-04 (sau nghị quyết Hội đồng thành viên về khung). Mỗi chức danh có một JD mã `JD-<vị trí>`. Vị trí quản lý (PGĐ, người phụ trách tổ, trưởng kỹ thuật, người phụ trách kế toán, sau đó kế toán trưởng) còn cần văn bản bổ nhiệm, giao người.
+Công ty **chưa có chức danh chính thức**. Danh mục dưới có hiệu lực khi Giám đốc ban hành ST-04 (sau nghị quyết Hội đồng thành viên về khung). Mỗi chức danh có một JD mã `JD-<vị trí>`. Vị trí quản lý (PGĐ, người phụ trách tổ, trưởng kỹ thuật, kế toán trưởng khi có người của công ty đủ chứng chỉ) còn cần văn bản bổ nhiệm, giao người. Kế toán trưởng trong thời gian đầu do dịch vụ kế toán thuê ngoài đảm nhận bằng hợp đồng dịch vụ, không phải chức danh của công ty.
 
 ### 3.1 Chức danh, báo cáo, nơi làm việc
 
@@ -81,7 +83,7 @@ Công ty **chưa có chức danh chính thức**. Danh mục dưới có hiệu 
 | JD-PGD | Phó Giám đốc | Ban giám đốc | Quản lý cấp cao | Giám đốc | CN1; đi CN2 theo việc |
 | JD-DTSX | Đội trưởng tổ sản xuất (người được giao phụ trách tổ) | Quản lý cấp trung | Quản lý cấp trung | PGĐ [CẦN XÁC NHẬN] | CN1 hoặc CN2 (mỗi xưởng 1 người) |
 | JD-KTTK | Nhân viên kỹ thuật thiết kế (1 người được giao trưởng kỹ thuật) | Kỹ thuật | Chuyên môn | Trưởng kỹ thuật; trưởng kỹ thuật báo cáo GĐ [CẦN XÁC NHẬN] | CN1; ra CN2 khi chạy thử, đo đạc |
-| JD-KTOAN | Nhân viên kế toán | Kế toán | Chuyên môn | Người phụ trách kế toán tạm thời; khi có kế toán trưởng: kế toán trưởng | CN1 (văn phòng) |
+| JD-KTOAN | Nhân viên kế toán | Kế toán | Chuyên môn | Kế toán trưởng của đơn vị dịch vụ kế toán (theo hợp đồng); khi công ty có kế toán trưởng: kế toán trưởng của công ty | CN1 (văn phòng) |
 | JD-LASER | Thợ vận hành máy cắt laser | Sản xuất | Công nhân kỹ thuật | Người phụ trách tổ | CN1 (laser tấm 6 kW, laser ống 3 kW) · CN2 (laser tấm 12 kW) |
 | JD-CHAN | Thợ vận hành máy chấn, đột CNC | Sản xuất | Công nhân kỹ thuật | Người phụ trách tổ CN1 | CN1 (chấn AMADA 100, 80, 20 tấn; đột CNC) |
 | JD-HAN | Thợ hàn | Sản xuất | Công nhân kỹ thuật | Người phụ trách tổ | CN1, CN2 |
@@ -94,9 +96,9 @@ Công ty **chưa có chức danh chính thức**. Danh mục dưới có hiệu 
 **Người làm thường xuyên ở cả hai xưởng:** HĐLĐ ghi đủ cả hai địa điểm làm việc; nếu HĐLĐ chỉ ghi một nơi, điều sang nơi kia lâu dài phải có thỏa thuận, ký phụ lục.
 
 Ghi chú chọn chức danh:
-- **Chấn và đột gộp một chức danh** vì xưởng có 1 máy đột. Nhóm lương xếp theo việc chính (G5: đột dập có trong danh mục nặng nhọc, chấn không) [CẦN XÁC NHẬN cùng G5].
-- **Thợ hàn tách khỏi thợ chế tạo, lắp ráp:** thợ hàn khó tuyển nhất, cần ma trận tay nghề hàn riêng (HD-13) và thuộc nhóm lương nặng nhọc (G5 nhóm 5).
-- **Trưởng kỹ thuật** là vị trí giao trong bộ phận: người được giao giữ JD-KTTK cộng JD-KN mục 3. **Kế toán trưởng** là chức vụ bắt buộc theo Luật Kế toán (NĐ 174/2016 Đ.20). Giám đốc đã chốt: bố trí **người phụ trách kế toán tạm thời ngay, tối đa 12 tháng**, rồi bổ nhiệm kế toán trưởng (Hội đồng thành viên bổ nhiệm) hoặc thuê dịch vụ kế toán đủ điều kiện. Người giữ làm JD-KTOAN cộng JD-KN mục 9.
+- **Chấn và đột gộp một chức danh** vì xưởng có 1 máy đột. Nhóm lương xếp theo việc chính (Quy chế lương: đột dập có trong danh mục nặng nhọc, chấn không) [CẦN XÁC NHẬN cùng Quy chế lương].
+- **Thợ hàn tách khỏi thợ chế tạo, lắp ráp:** thợ hàn khó tuyển nhất, cần ma trận tay nghề hàn riêng (HD-13) và thuộc nhóm lương nặng nhọc (Quy chế lương nhóm 5).
+- **Trưởng kỹ thuật** là vị trí giao trong bộ phận: người được giao giữ JD-KTTK cộng JD-KN mục 3. **Kế toán trưởng** là chức vụ bắt buộc theo Luật Kế toán (NĐ 174/2016 Đ.20). Cách làm đã chọn: **thuê ngay dịch vụ kế toán có kế toán trưởng**, đồng thời cho một người trong công ty học lớp bồi dưỡng kế toán trưởng; khi người đó có chứng chỉ thì chuyển phần này về công ty (Hội đồng thành viên bổ nhiệm kế toán trưởng). **Người trong công ty chưa được ghi là người phụ trách kế toán hay kế toán trưởng cho đến khi có chứng chỉ.** Người làm kế toán giữ JD-KTOAN cộng JD-KN mục 9.
 
 ### 3.2 Số người theo chức danh
 
@@ -106,7 +108,7 @@ Ghi chú chọn chức danh:
 | Phó Giám đốc | 1 | 1 | 0 | 1 (chưa bổ nhiệm) |
 | Đội trưởng tổ sản xuất | 2 | 1 | 1 | 0 được giao (2 người đang dẫn việc) |
 | Nhân viên kỹ thuật thiết kế | 4 | 4 | 0 | [điền] |
-| Nhân viên kế toán (gồm người phụ trách kế toán tạm thời) | 3 | 3 | 0 | [điền] |
+| Nhân viên kế toán | 3 | 3 | 0 | [điền] |
 | Thợ vận hành máy cắt laser | 3 | 2 | 1 | [điền] |
 | Thợ vận hành máy chấn, đột CNC | 2 | 2 | 0 | [điền] |
 | Thợ hàn | 5 | 3 | 2 | [điền] |
@@ -119,13 +121,13 @@ Ghi chú chọn chức danh:
 
 ### 3.3 Liên kết với các gói khác
 
-| Chức danh | Nhóm lương (G5 nháp v0.2) | Nhóm huấn luyện ATVSLĐ (G2) | Hướng dẫn an toàn phải học (HD) | Người thay khi vắng |
+| Chức danh | Nhóm lương (theo Quy chế lương, bản nháp) | Nhóm huấn luyện ATVSLĐ (Kế hoạch ATVSLĐ, PCCC) | Hướng dẫn an toàn phải học (HD) | Người thay khi vắng |
 |---|---|---|---|---|
 | Giám đốc | Không thuộc thang lương; Hội đồng thành viên quyết (Luật DN Đ.55 k.2 e) | 1 | — | PGĐ, trừ văn bản nhân sự (chỉ GĐ ký) |
 | Phó Giám đốc | Nhóm 1 (hoặc theo nghị quyết HĐTV) | 1 (nhóm 2 nếu được cử ATLĐ) | — | GĐ |
 | Đội trưởng tổ sản xuất | Nhóm 2 | 1 (thêm phần nhóm 3 nếu trực tiếp chạy máy) | HD của máy trong xưởng mình | Thợ được GĐ chỉ định [CẦN XÁC NHẬN] |
 | Nhân viên kỹ thuật thiết kế | Nhóm 3 | 4 (nhóm 2 nếu được cử ATLĐ; nhóm 3 nếu chạy thử máy tại xưởng) | Khi ra xưởng: HD máy liên quan | NV kỹ thuật khác |
-| Nhân viên kế toán; người phụ trách kế toán; kế toán trưởng | Nhóm 3; phụ trách kế toán tạm thời: theo quy chế lương (Giám đốc); kế toán trưởng: Hội đồng thành viên quyết lương | 4 | — | GĐ [CẦN XÁC NHẬN] |
+| Nhân viên kế toán; kế toán trưởng (khi công ty có) | Nhóm 3; kế toán trưởng: Hội đồng thành viên quyết lương; trong thời gian thuê dịch vụ: phí dịch vụ theo hợp đồng | 4 | — | GĐ [CẦN XÁC NHẬN] |
 | Thợ vận hành máy cắt laser | Nhóm 4 | 3 | HD-01, HD-02, HD-03 | Thợ đã đạt mức chạy máy (HD-13) |
 | Thợ vận hành máy chấn, đột CNC | Nhóm 4 hoặc 5 (đột) | 3 | HD-04, HD-05 | Như trên |
 | Thợ hàn | Nhóm 5 | 3 | HD-06, HD-07, HD-10 | Thợ hàn khác |
@@ -141,16 +143,16 @@ Vai kiêm nhiệm giao cho người đang giữ chức danh ở mục 3. Nhiệm
 
 | Vai | Số người | Chọn từ (đề xuất) | Thời gian dành | Căn cứ | Văn bản cử |
 |---|---|---|---|---|---|
-| **Đại diện ISO** | 1 | Người Giám đốc dự kiến: đang kiêm kỹ thuật, xây công việc bằng AI | 20–30% | ISO 9001 điều 5.3; QT-01 | Quyết định cử, **trước 30/11/2026** (soạn sẵn `VKG_HR_G3_QD_CuDaiDienISO`) |
+| **Đại diện ISO** | 1 | Người Giám đốc dự kiến: đang kiêm kỹ thuật, xây công việc bằng AI | 20–30% | ISO 9001 điều 5.3; QT-01 | Quyết định cử, **trước 30/11/2026** (soạn sẵn mẫu Quyết định cử Đại diện ISO) |
 | **QC kiêm nhiệm CN1** | 1 | Thợ tay nghề cao ở CN1 (HD-13: K01, K02 ≥ 3), **không phải người phụ trách tổ** | [CẦN XÁC NHẬN] đề xuất 10–15% | Đề xuất QC cuối ISO-03 v1 mục 7; ST-05 v0.4 M2 | Quyết định giao, 12/2026 |
 | **QC kiêm nhiệm CN2** | 1 | Người phụ trách tổ CN2 kiêm, vì xưởng ít người [CẦN XÁC NHẬN] | Như trên | Như trên | Quyết định giao, 04/2027 |
-| **Người làm công tác ATVSLĐ** (bán chuyên trách) | 1 | NV kỹ thuật có bằng kỹ thuật hoặc PGĐ (G2) | Bán chuyên trách | Luật ATVSLĐ Đ.72; NĐ 39/2016 Đ.36 | QĐ-002 |
+| **Người làm công tác ATVSLĐ** (bán chuyên trách) | 1 | NV kỹ thuật có bằng kỹ thuật hoặc PGĐ (Kế hoạch ATVSLĐ, PCCC) | Bán chuyên trách | Luật ATVSLĐ Đ.72; NĐ 39/2016 Đ.36 | QĐ-002 |
 | **An toàn, vệ sinh viên** | Mỗi tổ 1 | Thợ trực tiếp, tự nguyện, không trùng người phụ trách tổ | Trong ca | Luật ATVSLĐ Đ.74 | QĐ-002 |
 | **Người phụ trách PCCC tại xưởng** | 2 | Người phụ trách tổ CN1, CN2 | Trong ca | NĐ 105/2025 Đ.20 k.2 (dưới 20 người mỗi cơ sở) | QĐ-003 |
 | **Người hỗ trợ PCCC tại tổ** | Mỗi tổ 1 | ATVSV | Trong ca | NĐ 105/2025 Đ.14 | QĐ-003 |
 | **Người giữ sổ hồ sơ đơn hàng HS-01 (ghi số liệu gốc M1)** | 1 | [CẦN XÁC NHẬN]; liên quan việc ai lập xác nhận đơn (nhóm Biểu mẫu) | 1–2 giờ cuối tháng [CẦN XÁC NHẬN] | ST-05 v0.4 M1 (người đo: ĐDISO) | Giao bằng văn bản khi có QT bán hàng (nhóm ISO) |
 | **Đầu mối nhận phản ánh của Quý khách (ghi số liệu gốc M4)** | 1 | [CẦN XÁC NHẬN]; chờ QT bán hàng (nhóm ISO) | Theo phát sinh | ST-05 v0.4 M4 (người đo: ĐDISO); ST-03 P9 | Như trên |
-| **Phụ trách nhân sự** | 1 | Hiện: GĐ kiêm. Khi đủ 26 người: kế toán hoặc quản lý | — | File 01 mục 3; phiếu B3 | Khi giao: quyết định riêng |
+| **Phụ trách nhân sự** | 1 | Hiện: GĐ kiêm. Khi đủ 26 người: kế toán hoặc quản lý | — | Định biên do Giám đốc chốt | Khi giao: quyết định riêng |
 
 Quy tắc chung khi cử:
 1. Một người không giữ quá 2 vai kiêm nhiệm có thời gian dành từ 10% trở lên [đề xuất].
@@ -161,11 +163,11 @@ Quy tắc chung khi cử:
 ## 5. Ma trận ai quyết, ai làm, ai được hỏi
 
 **Chữ trong ô:** **Q** quyết, chịu trách nhiệm cuối (mỗi dòng đúng một Q) · **L** làm · **H** được hỏi ý kiến trước khi quyết · **B** được báo kết quả · – không tham gia.
-Ma trận áp cho **sơ đồ chính thức** (mục 2). Các dòng nhóm B là đề xuất của nhóm NS theo đầu mối hiện nay ở ST-03 v0.1; nhóm ISO chốt khi viết từng quy trình, khác thì sửa bảng này. Cột TKT, KT là bộ phận kỹ thuật (TKT là người được giao trưởng kỹ thuật); cột PTKT, KTo là bộ phận kế toán.
+Ma trận áp cho **sơ đồ chính thức** (mục 2). Các dòng nhóm B là đề xuất của nhóm NS theo đầu mối hiện nay ở ST-03 v0.1; nhóm ISO chốt khi viết từng quy trình, khác thì sửa bảng này. Cột TKT, KT là bộ phận kỹ thuật (TKT là người được giao trưởng kỹ thuật); cột DVKT, KTo là bộ phận kế toán (DVKT là dịch vụ kế toán thuê ngoài, sau đó là kế toán trưởng của công ty).
 
 ### 5.1 Lãnh đạo, hệ thống chất lượng (ISO 5.1, 5.3, 7.5, 9.2, 9.3)
 
-| Việc | GĐ | PGĐ | ĐT | TKT, KT | PTKT, KTo | Thợ | ĐDISO | QC | ATLĐ | ATVSV |
+| Việc | GĐ | PGĐ | ĐT | TKT, KT | DVKT, KTo | Thợ | ĐDISO | QC | ATLĐ | ATVSV |
 |---|---|---|---|---|---|---|---|---|---|---|
 | A1 Chính sách, mục tiêu chất lượng (ST-02, ST-05) | Q | H | H | H | B | B | L | B | B | B |
 | A2 Bảo đảm hệ thống đáp ứng ISO 9001 (5.3 a) | Q | H | H | H | H | B | L | H | B | B |
@@ -180,7 +182,7 @@ Ma trận áp cho **sơ đồ chính thức** (mục 2). Các dòng nhóm B là 
 
 ### 5.2 Các quá trình (ST-03 v0.1, P1–P9)
 
-| Quá trình | GĐ | PGĐ | ĐT | TKT, KT | PTKT, KTo | Thợ | ĐDISO | QC | ATLĐ | ATVSV |
+| Quá trình | GĐ | PGĐ | ĐT | TKT, KT | DVKT, KTo | Thợ | ĐDISO | QC | ATLĐ | ATVSV |
 |---|---|---|---|---|---|---|---|---|---|---|
 | P1 Nhận yêu cầu, báo giá | H | Q | B | L | B | – | – | – | – | – |
 | P2 Xem xét, xác nhận đơn (GĐ ký đơn trên 100 triệu) | H | Q | H | H | H | – | B | – | – | – |
@@ -210,12 +212,12 @@ KPI tổ, cá nhân lấy từ các số này theo bộ KPI sản xuất; số l
 
 ### 5.4 Nhân sự, an toàn lao động, PCCC
 
-| Việc | GĐ | PGĐ | ĐT | TKT, KT | PTKT, KTo | Thợ | ĐDISO | QC | ATLĐ | ATVSV |
+| Việc | GĐ | PGĐ | ĐT | TKT, KT | DVKT, KTo | Thợ | ĐDISO | QC | ATLĐ | ATVSV |
 |---|---|---|---|---|---|---|---|---|---|---|
 | C0 Bổ nhiệm, giao vị trí quản lý, kiêm nhiệm (lộ trình mục 6; trừ vị trí thuộc Hội đồng thành viên) | Q | H | H | H | L (phụ lục HĐLĐ, phụ cấp) | – | B | – | – | – |
 | C1 Tuyển dụng (QT-02, NS-10, NS-11) | Q | L | H | H | H | – | – | – | – | – |
 | C2 HĐLĐ, BHXH, hồ sơ nhân sự (QT-04, NS-01 đến NS-03, NS-13) | Q | B | B | – | L | – | – | – | – | – |
-| C3 Đào tạo, đánh giá tay nghề (G7, NS-09, HD-13) | Q | H | L | H | B | H | B | H | – | – |
+| C3 Đào tạo, đánh giá tay nghề (Kế hoạch đào tạo, NS-09, HD-13) | Q | H | L | H | B | H | B | H | – | – |
 | C4 Chấm công, KPI tuần (NS-14), tính lương | Q | H | L | – | L | H | B | – | – | – |
 | C5 Nội quy, kỷ luật lao động (NQ-001, NS-08) | Q | H | L (lập biên bản) | – | B | – | – | – | – | – |
 | C6 Kế hoạch, quy định ATVSLĐ; huấn luyện; khám sức khỏe | Q | H | H | H | H | B | – | – | L | H |
@@ -227,11 +229,11 @@ KPI tổ, cá nhân lấy từ các số này theo bộ KPI sản xuất; số l
 | C12 Kiểm bình, lối thoát, biển báo hằng tháng (NS-06) | B | B | Q | – | – | – | – | – | B | L |
 | C13 Hồ sơ ATVSLĐ, PCCC, kiểm định máy | Q | H | H | – | – | – | – | – | L | – |
 
-Nguồn dòng C6 đến C13: `G2_PhanCongPCCC_v0.1.md` mục 4 và `G2_KeHoach_ATVSLD_PCCC_v0.1.md`.
+Nguồn dòng C6 đến C13: Kế hoạch ATVSLĐ, PCCC (phần phân công PCCC, mục 4).
 
 ## 6. Lộ trình bổ nhiệm, giao nhiệm vụ (tóm tắt)
 
-Chi tiết: `VKG_HR_G3_LoTrinhBoNhiem_v0.2_2026-11.md`. Mẫu: `VKG_HR_G3_MauQuyetDinhGiaoNhiemVu` (không mang số), `VKG_HR_G3_MauNghiQuyetHDTV`, `VKG_HR_G3_MauGiayUyQuyenPGD`. Số quyết định cấp theo thứ tự Giám đốc ký.
+Chi tiết: tài liệu "Lộ trình bổ nhiệm, giao nhiệm vụ" kèm theo. Mẫu: Quyết định giao nhiệm vụ (không mang số), Nghị quyết Hội đồng thành viên, Giấy ủy quyền Phó Giám đốc. Số quyết định cấp theo thứ tự Giám đốc ký.
 
 | Thứ tự | Vị trí | Ai quyết | Văn bản | Thời điểm đề xuất |
 |---|---|---|---|---|
@@ -239,12 +241,12 @@ Chi tiết: `VKG_HR_G3_LoTrinhBoNhiem_v0.2_2026-11.md`. Mẫu: `VKG_HR_G3_MauQuy
 | 1 | Phó Giám đốc | Giám đốc hoặc Hội đồng thành viên theo Điều lệ [CẦN XÁC NHẬN] | QĐ-007 (số tạm) + giấy ủy quyền có thời hạn | Ngay sau khi xem Điều lệ; không ký trước đó |
 | 2 | Người phụ trách tổ sản xuất CN1, CN2 | Giám đốc | Quyết định giao phụ trách tổ (soạn sẵn) | Trước khi ký nội quy lao động |
 | 3 | Đại diện ISO | Giám đốc | Quyết định cử (soạn sẵn) | **Trước 30/11/2026** |
-| 4 | Người phụ trách kế toán tạm thời (≤ 12 tháng), sau đó kế toán trưởng | Giám đốc bố trí tạm (theo nghị quyết HĐTV điểm 4 mẫu); kế toán trưởng: Hội đồng thành viên | Quyết định bố trí tạm [CẦN XÁC NHẬN: người cụ thể]; sau đó nghị quyết kế toán trưởng hoặc hợp đồng dịch vụ | **Ngay** (Giám đốc đã chốt 14/11); ghi ngày bắt đầu, hạn chuyển ≤ 12 tháng |
+| 4 | Kế toán trưởng: dịch vụ kế toán thuê ngoài ngay; sau đó kế toán trưởng của công ty khi có chứng chỉ | Giám đốc ký hợp đồng dịch vụ; cử người đi học lớp bồi dưỡng; kế toán trưởng của công ty: Hội đồng thành viên | Hợp đồng dịch vụ kế toán [CẦN XÁC NHẬN: đơn vị, chi phí, ngày bắt đầu]; quyết định cử học [CẦN XÁC NHẬN: người học, thời điểm]; khi có chứng chỉ: nghị quyết bổ nhiệm kế toán trưởng | **Ngay** (thuê dịch vụ); bổ nhiệm người của công ty khi có chứng chỉ, chưa có mốc |
 | 5 | QC kiêm nhiệm CN1 | Giám đốc | Quyết định giao (mẫu) | 12/2026 (thí điểm QC cuối CN1) |
 | 6 | Trưởng kỹ thuật | Giám đốc | Quyết định giao (mẫu) | 01/2027 [CẦN XÁC NHẬN] |
 | 7 | QC kiêm nhiệm CN2 | Giám đốc | Quyết định giao (mẫu) | 04/2027 (QC cuối cả 2 xưởng) |
 
-**Vị trí cần phụ cấp** (không ghi mức tiền; đưa vào quy chế lương): phụ cấp chức vụ – PGĐ, người phụ trách tổ CN1, CN2, trưởng kỹ thuật, người phụ trách kế toán tạm thời, kế toán trưởng (lương, phụ cấp PGĐ nếu Điều lệ giao và kế toán trưởng do Hội đồng thành viên quyết – Luật DN Đ.55 k.2 e); phụ cấp kiêm nhiệm – Đại diện ISO, QC CN1, CN2, người làm công tác ATVSLĐ, ATVSV mỗi tổ, người giữ sổ HS-01, đầu mối nhận phản ánh, người kèm thợ mới (HD-13), phụ trách nhân sự (khi giao). Lưu ý cho G5: người phụ trách tổ đã ở nhóm lương 2, tránh trả hai lần cho cùng trách nhiệm; vai người phụ trách PCCC đã nằm trong việc này.
+**Vị trí cần phụ cấp** (không ghi mức tiền; đưa vào quy chế lương): phụ cấp chức vụ – PGĐ, người phụ trách tổ CN1, CN2, trưởng kỹ thuật, kế toán trưởng của công ty khi có (lương, phụ cấp PGĐ nếu Điều lệ giao và kế toán trưởng do Hội đồng thành viên quyết – Luật DN Đ.55 k.2 e); phụ cấp kiêm nhiệm – Đại diện ISO, QC CN1, CN2, người làm công tác ATVSLĐ, ATVSV mỗi tổ, người giữ sổ HS-01, đầu mối nhận phản ánh, người kèm thợ mới (HD-13), phụ trách nhân sự (khi giao). Lưu ý cho Quy chế lương: người phụ trách tổ đã ở nhóm lương 2, tránh trả hai lần cho cùng trách nhiệm; vai người phụ trách PCCC đã nằm trong việc này.
 
 ## 7. Quyền hạn chính
 
@@ -255,7 +257,7 @@ Chi tiết: `VKG_HR_G3_LoTrinhBoNhiem_v0.2_2026-11.md`. Mẫu: `VKG_HR_G3_MauQuy
 | Phó Giám đốc (sau QĐ-007) | Ký nhân danh Công ty trong phạm vi giấy ủy quyền còn hiệu lực: biên bản nghiệm thu; hợp đồng mua bán (mua vào, bán ra) tối đa 100 triệu đồng mỗi hợp đồng; quyết đơn ổn định | **Không ký văn bản nhân sự**; hợp đồng trên 100 triệu → GĐ |
 | Người phụ trách tổ sản xuất (đội trưởng) | Phân việc, điều người trong tổ trong ngày; dừng máy, dừng việc khi mất an toàn; lập biên bản vi phạm; đề xuất khen thưởng, kỷ luật | Tăng ca, điều người sang xưởng khác [CẦN XÁC NHẬN ai quyết], kỷ luật → GĐ |
 | Trưởng kỹ thuật | Phát hành bản vẽ, duyệt thay đổi bản vẽ; phân việc kỹ thuật | Kế hoạch thiết kế máy mới, chi phí thử nghiệm → GĐ |
-| Người phụ trách kế toán, kế toán trưởng | Tổ chức công tác kế toán; từ chối thanh toán chứng từ không hợp lệ (Luật Kế toán Đ.55); phân việc kế toán | Mọi khoản chi → GĐ duyệt |
+| Kế toán trưởng (dịch vụ kế toán thuê ngoài; sau đó kế toán trưởng của công ty) | Tổ chức công tác kế toán; từ chối thanh toán chứng từ không hợp lệ (Luật Kế toán Đ.55); phân việc kế toán. Phạm vi của dịch vụ kế toán theo hợp đồng | Mọi khoản chi → GĐ duyệt |
 | QC kiêm nhiệm | Không cho xuất hàng chưa kiểm hoặc KHÔNG ĐẠT; dừng lô khi thấy lỗi lặp lại | Cách xử lý hàng lỗi → PGĐ, GĐ (chờ QT hàng lỗi của ISO-03) |
 | Đại diện ISO | Yêu cầu bộ phận nộp hồ sơ đúng hạn; thu tài liệu hết hiệu lực; cấp mã khi được giao (QUY-TAC-MA-CHUNG) | Ban hành, sửa tài liệu → GĐ |
 | Người làm công tác ATVSLĐ | Yêu cầu người phụ trách bộ phận tạm dừng việc khi thấy nguy cơ tai nạn (Luật ATVSLĐ 2015 Đ.72; NĐ 39/2016 Đ.36, 37) | Chi phí huấn luyện, khám, kiểm định → GĐ |
@@ -273,11 +275,11 @@ Chi tiết: `VKG_HR_G3_LoTrinhBoNhiem_v0.2_2026-11.md`. Mẫu: `VKG_HR_G3_MauQuy
 | # | Nội dung | Ai | Ảnh hưởng |
 |---|---|---|---|
 | 1 | Hội đồng thành viên thông qua cơ cấu tổ chức quản lý (khung mục 2); Điều lệ: PGĐ có là người quản lý do Hội đồng thành viên bổ nhiệm không | Giám đốc (xem Điều lệ), Hội đồng thành viên | Mục 2, 6, 7; QĐ-001, QĐ-007 |
-| 2 | **Còn chờ:** người cụ thể phụ trách kế toán tạm thời và ngày bắt đầu; nghị quyết HĐTV nếu bổ nhiệm kế toán trưởng; kế toán hoặc luật sư xác nhận điều kiện doanh nghiệp siêu nhỏ | Giám đốc, kế toán, Hội đồng thành viên | Mục 2, 3, 6, 7; JD-KTOAN |
-| 3 | Duyệt 11 chức danh ở mục 3.1 (thay) | Giám đốc | JD, G5, G2, HD-13 |
+| 2 | **Còn chờ:** tên đơn vị dịch vụ kế toán, chi phí, ngày bắt đầu hợp đồng; người trong công ty đi học lớp bồi dưỡng kế toán trưởng và thời điểm; nghị quyết Hội đồng thành viên bổ nhiệm kế toán trưởng khi có chứng chỉ. Giám đốc trả lời một chữ "2", ta hiểu là phương án thuê dịch vụ kế toán có kế toán trưởng ngay, đồng thời cho người trong công ty học lớp bồi dưỡng [CẦN XÁC NHẬN] | Giám đốc, Hội đồng thành viên | Mục 2, 3, 6, 7; JD-KTOAN |
+| 3 | Duyệt 11 chức danh ở mục 3.1 (thay) | Giám đốc | JD, Quy chế lương, Kế hoạch ATVSLĐ, PCCC, HD-13 |
 | 4 | Người phụ trách tổ báo cáo PGĐ hay GĐ; trưởng kỹ thuật báo cáo GĐ hay PGĐ | Giám đốc | Mục 2, 3.1, JD |
-| 5 | 15 người chia theo bộ phận, xưởng và chức danh (mục 1, cột "Hiện có" mục 3.2) | Giám đốc | Mục 1, 3.2; kế hoạch tuyển G8 |
-| 6 | Chia định biên 26 theo xưởng (CN1 21, CN2 5) và theo chức danh sản xuất | Giám đốc | Mục 2, 3.2; G8; PCCC CN1 |
+| 5 | 15 người chia theo bộ phận, xưởng và chức danh (mục 1, cột "Hiện có" mục 3.2) | Giám đốc | Mục 1, 3.2; kế hoạch tuyển dụng |
+| 6 | Chia định biên 26 theo xưởng (CN1 21, CN2 5) và theo chức danh sản xuất | Giám đốc | Mục 2, 3.2; kế hoạch tuyển dụng; PCCC CN1 |
 | 7 | Thời điểm, người cụ thể từng vị trí ở mục 6 | Giám đốc | Các quyết định |
 | 8 | Người giữ sổ HS-01, đầu mối nhận phản ánh (ghi số liệu gốc M1, M4); người giữ kho ở xưởng | Giám đốc; nhóm ISO, BM | Mục 4, 5.2, 5.3 |
 | 9 | Người thay người phụ trách tổ, kế toán khi vắng | Giám đốc | Mục 3.3 |
@@ -322,7 +324,8 @@ Chi tiết: `VKG_HR_G3_LoTrinhBoNhiem_v0.2_2026-11.md`. Mẫu: `VKG_HR_G3_MauQuy
 | # | Nội dung | Ai | Ảnh hưởng |
 |---|---|---|---|
 | R3-HDTV | Hội đồng thành viên thông qua cơ cấu tổ chức quản lý (khung mục 2); Điều lệ: PGĐ có là người quản lý do Hội đồng thành viên bổ nhiệm không | Giám đốc (xem Điều lệ), Hội đồng thành viên | Mục 2, 6, 7; QĐ-001, QĐ-007 |
-| R3-KTT (đã chốt 14/11: phương án C ngay, rồi A hoặc B) | **Còn chờ:** người cụ thể phụ trách kế toán tạm thời (câu T5) và ngày bắt đầu; nghị quyết HĐTV nếu bổ nhiệm kế toán trưởng; kế toán hoặc luật sư xác nhận điều kiện doanh nghiệp siêu nhỏ | Giám đốc, kế toán, Hội đồng thành viên | Mục 2, 3, 6, 7; JD-KTOAN |
+| R3-47 (Giám đốc trả lời 15/11 tối: "2" = phương án (2)) | **Còn chờ:** tên đơn vị dịch vụ kế toán, chi phí, ngày bắt đầu; người đi học lớp bồi dưỡng kế toán trưởng và thời điểm; nghị quyết HĐTV bổ nhiệm kế toán trưởng khi có chứng chỉ. Câu trả lời chỉ một chữ số, hiểu là phương án (2) – chờ Giám đốc xác nhận. **Thay** câu R3-KTT 14/11 (phụ trách kế toán tạm thời ≤ 12 tháng) | Giám đốc, Hội đồng thành viên | Mục 2, 3, 6, 7; JD-KTOAN |
+| Gói luật sư (chưa đối chiếu văn bản gốc) | Với quy mô hiện tại, công ty có bắt buộc phải có kế toán trưởng không (Luật Kế toán, NĐ 174/2016, doanh nghiệp siêu nhỏ)? Thuê dịch vụ kế toán thì kế toán trưởng của đơn vị dịch vụ có thay được kế toán trưởng của công ty không (NĐ 174/2016 Đ.22)? | Luật sư / nhóm rà soát pháp lý | Mục 3.1, 6, 7 |
 | X1 | Duyệt 11 chức danh ở mục 3.1 (thay câu Q5) | Giám đốc | JD, G5, G2, HD-13 |
 | G3-1 | Người phụ trách tổ báo cáo PGĐ hay GĐ; trưởng kỹ thuật báo cáo GĐ hay PGĐ | Giám đốc | Mục 2, 3.1, JD |
 | G3-4 | 15 người chia theo bộ phận, xưởng và chức danh (mục 1, cột "Hiện có" mục 3.2) | Giám đốc | Mục 1, 3.2; kế hoạch tuyển G8 |
@@ -367,3 +370,17 @@ Chi tiết: `VKG_HR_G3_LoTrinhBoNhiem_v0.2_2026-11.md`. Mẫu: `VKG_HR_G3_MauQuy
 - R3-54: dòng Giám đốc ghi Luật DN Đ.55 k.2 e, bỏ nhãn chờ.
 - R3-56: ký hiệu KTT tách thành PTKT (người phụ trách kế toán tạm thời) và KTT (kế toán trưởng); cột ma trận đổi thành PTKT, KTo.
 - R3-50: bỏ link claude.ai và lời dặn dán ảnh khỏi thân; dấu chỗ hình trung tính. **Việc còn lại:** hình sơ đồ nằm ở artifact https://claude.ai/artifact/GxtmMTPqroTPMRgRHrXNqo (nút "Chép ảnh sơ đồ"); chèn bằng tay hoặc ở lượt dựng cuối. Bỏ "câu B5".
+
+### Đã sửa theo câu trả lời R3-47 của Giám đốc (15/11/2026, tối)
+
+- Phương án (2): thuê ngay dịch vụ kế toán có kế toán trưởng; người trong công ty học lớp bồi dưỡng kế toán trưởng, có chứng chỉ thì chuyển về công ty. Bỏ chức danh "người phụ trách kế toán tạm thời ≤ 12 tháng" khỏi sơ đồ, danh mục, ma trận, lộ trình, quyền hạn. Ký hiệu PTKT đổi thành DVKT (dịch vụ kế toán thuê ngoài); cột ma trận "PTKT, KTo" đổi thành "DVKT, KTo".
+- Nguyên tắc: người trong công ty không được ghi là người phụ trách kế toán, kế toán trưởng cho đến khi có chứng chỉ.
+- Giữ một dòng ở "Việc cần xác nhận": Giám đốc chỉ ghi chữ "2", hiểu là phương án (2). Thêm câu hỏi cho gói luật sư (bảng trên), chưa đối chiếu văn bản gốc.
+
+### Đã sửa theo kiểm hình PDF (15/11/2026)
+
+- Chèn dòng chữ "Định biên theo bộ phận (26 người):" giữa bảng sơ đồ và bảng định biên (Word gộp hai bảng liền nhau). Dấu chỗ hình đổi thành "Giám đốc dán tại đây". Thay tên file nội bộ bằng tên văn bản ở mục 4 và 6.
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

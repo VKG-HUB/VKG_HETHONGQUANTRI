@@ -17,9 +17,9 @@
 | Mã JD | JD-KTOAN |
 | Chức danh | Nhân viên kế toán |
 | Bộ phận | Kế toán |
-| Cấp bậc | Chuyên môn · nhóm lương 3 (G5 nháp v0.2) |
-| Báo cáo trực tiếp | Người phụ trách kế toán tạm thời (Giám đốc bố trí ngay, ≤ 12 tháng); khi có kế toán trưởng: kế toán trưởng. Người phụ trách kế toán, kế toán trưởng chịu sự lãnh đạo của Giám đốc – người đại diện theo pháp luật (Luật Kế toán Đ.53 k.3). Người cụ thể [CẦN XÁC NHẬN] |
-| Quản lý trực tiếp | Không. Kế toán trưởng (Hội đồng thành viên bổ nhiệm) hoặc người tạm phụ trách kế toán (Giám đốc bố trí, tối đa 12 tháng) làm thêm nhiệm vụ JD-KN mục 9 |
+| Cấp bậc | Chuyên môn · nhóm lương 3 (theo Quy chế lương, bản nháp) |
+| Báo cáo trực tiếp | Kế toán trưởng của đơn vị dịch vụ kế toán (theo hợp đồng dịch vụ); khi công ty có kế toán trưởng: kế toán trưởng của công ty. Kế toán trưởng chịu sự lãnh đạo của Giám đốc – người đại diện theo pháp luật (Luật Kế toán Đ.53 k.3). Đơn vị dịch vụ, người cụ thể [CẦN XÁC NHẬN] |
+| Quản lý trực tiếp | Không. Kế toán trưởng của đơn vị dịch vụ kế toán làm phần kế toán trưởng theo hợp đồng; khi có người của công ty đủ chứng chỉ bồi dưỡng kế toán trưởng, Hội đồng thành viên bổ nhiệm làm kế toán trưởng và người đó làm thêm nhiệm vụ JD-KN mục 9 |
 | Nơi làm việc | Văn phòng CN1 (144/46 đường Thống Nhất, khu phố Tân Hòa, Phường Đông Hòa, TP.HCM (nay là số 42A Thống Nhất)) |
 | Định biên · hiện có | 3 · [CẦN XÁC NHẬN] |
 
@@ -32,11 +32,11 @@ Ghi chép, báo cáo tài chính đúng luật; tính lương, BHXH, thuế cho 
 | # | Nhiệm vụ | Tỷ trọng | Kết quả, bằng chứng |
 |---|---|---|---|
 | 1 | Hạch toán, lập, lưu chứng từ; hóa đơn; công nợ Quý khách, nhà cung cấp; báo cáo thuế, báo cáo tài chính | 40% | Sổ sách, báo cáo đúng hạn |
-| 2 | Tính lương theo quy chế lương (G5), chấm công và KPI tuần (NS-14) do người phụ trách tổ gửi; trả lương; thuế TNCN | 20% | Bảng lương (giữ ngoài AI) |
+| 2 | Tính lương theo quy chế lương (Quy chế lương), chấm công và KPI tuần (NS-14) do người phụ trách tổ gửi; trả lương; thuế TNCN | 20% | Bảng lương (giữ ngoài AI) |
 | 3 | HĐLĐ, BHXH, BHYT, BHTN, kinh phí công đoàn: soạn hồ sơ theo mẫu NS-01 đến NS-03 để Giám đốc ký; đăng ký, điều chỉnh BHXH; sổ quản lý lao động (NS-13); báo cáo tình hình sử dụng lao động (trước 05/12 hằng năm) | 20% | Hồ sơ BHXH; NS-13; báo cáo đã nộp |
 | 4 | Đối chiếu chứng từ nhập vật tư với đơn mua; theo dõi tồn kho trên sổ. **Không giữ kho, không giữ quỹ, không trực tiếp mua bán tài sản** (Luật Kế toán Đ.52 k.4); người giữ kho ở xưởng [CẦN XÁC NHẬN] | 10% | Chứng từ nhập đã đối chiếu; sổ tồn kho |
-| 5 | Dự toán chi an toàn lao động, PCCC; kiểm diện bảo hiểm cháy nổ bắt buộc cùng PGĐ (G2) | 5% | Dự toán |
-| 6 | Giữ hồ sơ nhân sự thật ở thư mục Giám đốc chỉ định, có phân quyền [CẦN XÁC NHẬN]; trong thư mục làm việc với AI chỉ có mẫu trắng, bảng tổng hợp không tên; bảo mật dữ liệu cá nhân người lao động | 5% | Hồ sơ đủ theo danh mục (G9) |
+| 5 | Dự toán chi an toàn lao động, PCCC; kiểm diện bảo hiểm cháy nổ bắt buộc cùng PGĐ (Kế hoạch ATVSLĐ, PCCC) | 5% | Dự toán |
+| 6 | Giữ hồ sơ nhân sự thật ở thư mục Giám đốc chỉ định, có phân quyền [CẦN XÁC NHẬN]; trong thư mục làm việc với AI chỉ có mẫu trắng, bảng tổng hợp không tên; bảo mật dữ liệu cá nhân người lao động | 5% | Hồ sơ đủ theo danh mục hồ sơ nhân sự |
 | | **Tổng** | **100%** | |
 
 ## 4. Quyền hạn
@@ -68,9 +68,9 @@ Tỷ trọng, chỉ tiêu chốt khi lập bộ KPI bộ phận kế toán [CẦ
 |---|---|---|---|---|---|
 | 1 | Báo cáo thuế, BHXH, lao động nộp đúng hạn | Số báo cáo đúng hạn ÷ số báo cáo phải nộp × 100% | Cổng điện tử | Tháng | 30% |
 | 2 | Lương trả đúng hạn, không sai | Số kỳ đúng hạn; số lần phải điều chỉnh | Bảng lương | Tháng | 25% |
-| 3 | Người lao động có HĐLĐ, BHXH đủ (MT6) | Số người đủ ÷ tổng số × 100% | NS-13 | Quý | 20% |
+| 3 | Người lao động có HĐLĐ, BHXH đủ (mục tiêu nhân sự) | Số người đủ ÷ tổng số × 100% | NS-13 | Quý | 20% |
 | 4 | Chứng từ đủ, đúng | Số lỗi khi kiểm | Kiểm nội bộ | Quý | 15% |
-| 5 | Hồ sơ nhân sự đủ theo cấu trúc (MT5) | Số hồ sơ đủ ÷ tổng × 100% | Bảng tổng hợp không tên | Quý | 10% |
+| 5 | Hồ sơ nhân sự đủ theo cấu trúc (mục tiêu nhân sự) | Số hồ sơ đủ ÷ tổng × 100% | Bảng tổng hợp không tên | Quý | 10% |
 
 ## 8. Điều kiện làm việc
 
@@ -78,13 +78,13 @@ Văn phòng CN1. Huấn luyện ATVSLĐ nhóm 4. Khám sức khỏe ít nhất 1
 
 ## 9. Nhiệm vụ kiêm nhiệm có thể được giao
 
-Kế toán trưởng (Hội đồng thành viên bổ nhiệm) hoặc người tạm phụ trách kế toán (Giám đốc bố trí, tối đa 12 tháng) (JD-KN mục 9) · Người giữ sổ hồ sơ HS-01, ghi số liệu gốc M1 (JD-KN mục 7) · Phụ trách nhân sự khi đủ 26 người. Đại diện ISO (JD-KN mục 1) chỉ khi Giám đốc không chọn người kỹ thuật.
+Kế toán trưởng của công ty, chỉ khi đã có chứng chỉ bồi dưỡng kế toán trưởng và được Hội đồng thành viên bổ nhiệm (JD-KN mục 9); trước đó người được cử học chỉ giữ JD-KTOAN · Người giữ sổ hồ sơ HS-01, ghi số liệu gốc M1 (JD-KN mục 7) · Phụ trách nhân sự khi đủ 26 người. Đại diện ISO (JD-KN mục 1) chỉ khi Giám đốc không chọn người kỹ thuật.
 
 ## Việc cần xác nhận
 
 | # | Nội dung | Ai |
 |---|---|---|
-| 1 | Người cụ thể phụ trách kế toán tạm thời, ngày bắt đầu; ai đang được ghi là kế toán trưởng với cơ quan thuế | Giám đốc, kế toán |
+| 1 | Đơn vị dịch vụ kế toán, ngày bắt đầu; người đi học lớp bồi dưỡng kế toán trưởng; ai đang được ghi là kế toán trưởng với cơ quan thuế | Giám đốc, kế toán |
 | 2 | Chia việc 3 định biên kế toán | Giám đốc |
 | 3 | Người giữ kho ở xưởng (không phải kế toán) | Giám đốc |
 | 4 | Phần mềm kế toán đang dùng | Kế toán |
@@ -111,7 +111,7 @@ Kế toán trưởng (Hội đồng thành viên bổ nhiệm) hoặc người t
 
 | # | Nội dung | Ai |
 |---|---|---|
-| R3-KTT (đã chốt: C ngay, rồi A hoặc B) | Người cụ thể phụ trách kế toán tạm thời (T5), ngày bắt đầu; ai đang được ghi là kế toán trưởng với cơ quan thuế | Giám đốc, kế toán |
+| R3-47 (Giám đốc trả lời "2" ngày 15/11, thay R3-KTT 14/11) | Đơn vị dịch vụ kế toán, ngày bắt đầu; người đi học lớp bồi dưỡng kế toán trưởng; ai đang được ghi là kế toán trưởng với cơ quan thuế. Chữ "2" chỉ một chữ số, hiểu là phương án (2) – chờ Giám đốc xác nhận | Giám đốc, kế toán |
 | A-1 | Chia việc 3 định biên kế toán | Giám đốc |
 | A-2 | Người giữ kho ở xưởng (không phải kế toán) | Giám đốc |
 | A-3 | Phần mềm kế toán đang dùng | Kế toán |
@@ -137,3 +137,12 @@ Kế toán trưởng (Hội đồng thành viên bổ nhiệm) hoặc người t
 ### Đã sửa theo rà soát lần 2 (15/11/2026)
 
 - R3-52: mục 9 ghi kế toán trưởng (Hội đồng thành viên bổ nhiệm) hoặc người tạm phụ trách kế toán (Giám đốc bố trí, tối đa 12 tháng).
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.
+
+### Đã sửa theo câu trả lời R3-47 của Giám đốc (15/11/2026, tối)
+
+- Phương án (2): "Báo cáo trực tiếp", "Quản lý trực tiếp", mục 9, "Việc cần xác nhận" số 1 sửa theo: kế toán trưởng của đơn vị dịch vụ làm theo hợp đồng; người trong công ty chỉ làm kế toán trưởng khi có chứng chỉ và được Hội đồng thành viên bổ nhiệm. Bỏ "người tạm phụ trách kế toán ≤ 12 tháng". Dòng R3 52 ở trên lỗi thời.
+- Câu hỏi cho gói luật sư (chưa đối chiếu văn bản gốc): với quy mô hiện tại công ty có bắt buộc phải có kế toán trưởng không (Luật Kế toán, NĐ 174/2016, doanh nghiệp siêu nhỏ).

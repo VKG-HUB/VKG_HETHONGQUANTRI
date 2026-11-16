@@ -25,9 +25,9 @@ Phiếu này chỉ có **thông tin của Công ty**, không có dữ liệu cá
 
 **Căn cứ Công ty đã biết:** BLLĐ 45/2019/QH14 Điều 13, 24–27; Luật BHXH 41/2024/QH15 Điều 2 khoản 1 điểm a, Điều 28, 39, 41; NĐ 283/2026/NĐ-CP Điều 44, 48. Mức đọc: BLLĐ và Luật BHXH đã đọc; NĐ 283 đã đọc nguyên văn các điều trên; nghị định hướng dẫn Luật BHXH 2024 về thử việc **chưa tra**.
 
-## 3. Gói 8 việc cần ý kiến
+## 3. Gói 10 việc cần ý kiến
 
-Hạn mong muốn: **ý kiến bằng văn bản ngắn trước 05/12/2026** (để sửa mẫu trước khi dựng bản chính thức 09–12/12). Việc 2 là việc quan trọng nhất (việc truy đóng ở mục 2 hỏi riêng, ưu tiên hơn); việc 6, 7, 8 là việc đọc nguyên văn.
+Hạn mong muốn: **ý kiến bằng văn bản ngắn trước 05/12/2026** (để sửa mẫu trước khi dựng bản chính thức 09–12/12). Việc 2 là việc quan trọng nhất (việc truy đóng ở mục 2 hỏi riêng, ưu tiên hơn); việc 6, 7, 8, 10 là việc đọc nguyên văn.
 
 | # | Việc | Câu hỏi cho luật sư | Căn cứ Công ty đã biết | Mức Công ty đã đọc căn cứ |
 |---|---|---|---|---|
@@ -39,6 +39,8 @@ Hạn mong muốn: **ý kiến bằng văn bản ngắn trước 05/12/2026** (�
 | 6 | **Không phân biệt đối xử trong tuyển dụng** | Đọc nguyên văn các điều của Luật Việc làm 74/2025/QH15 về không phân biệt đối xử khi tuyển dụng; cho biết thông báo tuyển dụng được và không được ghi gì (giới tính, tuổi, ngoại hình, hôn nhân…) | Luật Việc làm 74/2025/QH15 (chưa biết số điều) | Chưa đọc nguyên văn |
 | 7 | **Người từ đủ 15 đến chưa đủ 18 tuổi** | Công ty có công việc hàn, đột dập kim loại, vận hành máy, nâng vật nặng: danh mục công việc cấm sử dụng và danh mục công việc được làm; điều kiện (giấy tờ, khám sức khỏe, thời giờ) nếu Công ty nhận người dưới 18 tuổi | BLLĐ Điều 147 khoản 1 (đọc qua bản đăng lại; cần đối chiếu Công báo hoặc vbpl.vn) và thông tư hướng dẫn danh mục | Bản đăng lại; chưa đối chiếu |
 | 8 | **Người lao động nước ngoài** | Nếu tuyển người nước ngoài: giấy phép lao động hoặc giấy xác nhận không thuộc diện cấp phép; thủ tục, hạn; hợp đồng lao động và BHXH áp dụng thế nào | BLLĐ phần lao động nước ngoài và nghị định hướng dẫn hiện hành (chưa tra số hiệu) | Chưa tra |
+| 9 | **Đối chiếu nguyên văn các điều luật dẫn trong quy chế tiền lương** (kèm bản nháp quy chế) | Đối chiếu nguyên văn và cho biết điều nào sai hoặc đã đổi: BLLĐ Điều 90–104, 107; NĐ 145/2020 Điều 55–57, 62 (làm thêm giờ ban đêm, lương làm thêm); TT 24/2022/TT-BLĐTBXH (hiệu lực và mức bồi dưỡng hiện vật); NĐ 158/2025 Điều 7 (khoản tính đóng BHXH) | Như cột trái | Bài viết hoặc bản tóm tắt; chưa đối chiếu nguyên văn |
+| 10 | **Kế toán trưởng** | Với quy mô hiện tại, Công ty có bắt buộc phải có kế toán trưởng không; nếu bắt buộc thì người phụ trách kế toán, kế toán trưởng phải đủ điều kiện gì (chứng chỉ bồi dưỡng kế toán trưởng); có được thuê dịch vụ kế toán có kế toán trưởng thay vì bố trí người nội bộ không. **[CẦN XÁC NHẬN]** | Luật Kế toán (Điều 52–54); NĐ 174/2016/NĐ-CP Điều 21 | Chưa đối chiếu nguyên văn |
 
 ## 4. Tài liệu đính kèm (đều là bản nháp, không có dữ liệu cá nhân)
 

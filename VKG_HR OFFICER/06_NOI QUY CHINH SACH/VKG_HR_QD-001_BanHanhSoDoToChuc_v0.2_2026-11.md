@@ -31,10 +31,11 @@ Ban hành kèm theo Quyết định này tài liệu "Sơ đồ tổ chức, ch�
 2. Đối tượng: người quản lý và người lao động của Công ty, kể cả người thử việc, học việc.
 
 **Điều 3. Bổ nhiệm và giao nhiệm vụ**
-1. Phó Giám đốc, kế toán trưởng: bổ nhiệm theo thẩm quyền quy định tại Luật Doanh nghiệp và Điều lệ Công ty (Quyết định số VKG/HR/QĐ-007/2026 về Phó Giám đốc; nghị quyết của Hội đồng thành viên về kế toán trưởng).
-2. Người phụ trách tổ sản xuất (đội trưởng), trưởng kỹ thuật, Đại diện ISO, QC kiêm nhiệm và người tạm phụ trách kế toán (tối đa 12 tháng, theo nghị quyết của Hội đồng thành viên): Giám đốc giao hoặc bố trí bằng quyết định riêng theo lộ trình tại ST-04 mục 6.
-3. Người làm công tác an toàn, vệ sinh lao động và an toàn, vệ sinh viên được cử tại Quyết định số VKG/HR/QĐ-002/2026. Người phụ trách phòng cháy, chữa cháy được phân công tại Quyết định số VKG/HR/QĐ-003/2026.
-4. Phụ cấp chức vụ, kiêm nhiệm (nếu có) theo Quy chế lương VKG/HR/QC-001/2026, trừ trường hợp thuộc thẩm quyền Hội đồng thành viên. Người được bổ nhiệm, giao nhiệm vụ đồng ý và ký phụ lục hợp đồng lao động cùng ngày quyết định khi việc giao làm thay đổi công việc hoặc tiền lương đã thỏa thuận.
+1. Phó Giám đốc, kế toán trưởng của Công ty: bổ nhiệm theo thẩm quyền quy định tại Luật Doanh nghiệp và Điều lệ Công ty (Quyết định số VKG/HR/QĐ-007/2026 về Phó Giám đốc; nghị quyết của Hội đồng thành viên về kế toán trưởng). Kế toán trưởng của Công ty chỉ được bổ nhiệm khi người được cử đã có chứng chỉ bồi dưỡng kế toán trưởng.
+2. Người phụ trách tổ sản xuất (đội trưởng), trưởng kỹ thuật, Đại diện ISO, QC kiêm nhiệm: Giám đốc giao bằng quyết định riêng theo lộ trình tại ST-04 mục 6.
+3. Phần kế toán trưởng trong thời gian chưa có người của Công ty đủ chứng chỉ: do dịch vụ kế toán có kế toán trưởng đảm nhận theo hợp đồng dịch vụ; Giám đốc ký hợp đồng theo nghị quyết của Hội đồng thành viên.
+4. Người làm công tác an toàn, vệ sinh lao động và an toàn, vệ sinh viên được cử tại Quyết định số VKG/HR/QĐ-002/2026. Người phụ trách phòng cháy, chữa cháy được phân công tại Quyết định số VKG/HR/QĐ-003/2026.
+5. Phụ cấp chức vụ, kiêm nhiệm (nếu có) theo Quy chế lương VKG/HR/QC-001/2026, trừ trường hợp thuộc thẩm quyền Hội đồng thành viên. Người được bổ nhiệm, giao nhiệm vụ đồng ý và ký phụ lục hợp đồng lao động cùng ngày quyết định khi việc giao làm thay đổi công việc hoặc tiền lương đã thỏa thuận.
 
 **Điều 4. Trách nhiệm thực hiện**
 1. Người giữ mỗi chức danh làm việc theo mô tả công việc (JD) của chức danh đó và theo ma trận trách nhiệm tại ST-04.
@@ -97,3 +98,8 @@ Ban hành kèm theo Quyết định này tài liệu "Sơ đồ tổ chức, ch�
 ### Đã sửa theo rà soát lần 2 (15/11/2026)
 
 - R3-57: Điều 3 k.2 thêm người tạm phụ trách kế toán do Giám đốc bố trí (tối đa 12 tháng).
+
+### Đã sửa theo câu trả lời R3-47 của Giám đốc (15/11/2026, tối)
+
+- Phương án (2): Điều 3 k.2 bỏ người tạm phụ trách kế toán ≤ 12 tháng; k.1 thêm điều kiện chứng chỉ; thêm k.3 phần kế toán trưởng do dịch vụ kế toán đảm nhận theo hợp đồng; các khoản sau đổi số (k.4, k.5; dẫn chiếu "Điều 3 k.4" ở dòng R3 8 nay là k.5).
+- Điều 3 k.3 mới cần Hội đồng thành viên chấp thuận thuê dịch vụ: đã ghi trong mẫu nghị quyết.

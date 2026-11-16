@@ -17,11 +17,11 @@ Căn cứ Điều lệ Công ty,
 
 ### QUYẾT ĐỊNH:
 
-**Điều 1. Trách nhiệm chung và giải thích từ ngữ**
+### Điều 1. Trách nhiệm chung và giải thích từ ngữ
 1. Giám đốc là người đứng đầu cơ sở, chịu trách nhiệm chung về phòng cháy, chữa cháy và cứu nạn, cứu hộ (PCCC và CNCH) tại văn phòng, xưởng CN1, xưởng CN2: ban hành Nội quy PCCC (VKG/HR/NQ-002/2026); phê duyệt phương án chữa cháy (Mẫu PC06); tổ chức huấn luyện và bảo đảm kinh phí; ký biên bản tự kiểm tra định kỳ (PC02) và báo cáo (PC04).
 2. Trong văn bản nội bộ của Công ty, "người phụ trách PCCC" là người được phân công thực hiện nhiệm vụ PCCC và CNCH theo Điều 20 khoản 2 Nghị định 105/2025/NĐ-CP.
 
-**Điều 2. Phân công người thực hiện nhiệm vụ PCCC và CNCH tại xưởng**
+### Điều 2. Phân công người thực hiện nhiệm vụ PCCC và CNCH tại xưởng
 | Cơ sở | Người được phân công | Người thay khi vắng |
 |---|---|---|
 | Chi nhánh Đông Hòa (CN1, mã số chi nhánh 0311563372-002): văn phòng và xưởng, 144/46 đường Thống Nhất, khu phố Tân Hòa, Phường Đông Hòa, TP.HCM (nay là số 42A Thống Nhất) | Ông/Bà ……………, phụ trách tổ sản xuất CN1 | Ông/Bà ……………, ………… [CẦN XÁC NHẬN] |
@@ -36,22 +36,22 @@ Nhiệm vụ:
 6. Phổ biến Nội quy PCCC cho người lao động mới, khách, nhà thầu vào xưởng.
 7. Tham gia huấn luyện nghiệp vụ PCCC và CNCH **24–32 giờ**, bồi dưỡng 8–12 giờ hằng năm (người được phân công kiểm tra, người thực hiện nhiều nhiệm vụ – NĐ 105/2025 Đ.29 k.3, k.5).
 
-**Điều 3. Người hỗ trợ tại tổ**
+### Điều 3. Người hỗ trợ tại tổ
 An toàn, vệ sinh viên mỗi tổ (theo Quyết định số VKG/HR/QĐ-002/2026, số tạm): báo cháy; hướng dẫn thoát nạn; cùng người phụ trách PCCC ghi sổ NS-06 hằng tháng (người phụ trách PCCC ký kiểm tra); tham gia huấn luyện PCCC 8–12 giờ.
 
-**Điều 4. Phó Giám đốc**
+### Điều 4. Phó Giám đốc
 Mua sắm, nạp, bảo dưỡng phương tiện PCCC; làm việc với cơ quan Công an, UBND cấp xã về PCCC; tổ chức tự kiểm tra định kỳ hằng năm cho từng xưởng; **lập** biên bản PC02 và báo cáo PC04 cho từng xưởng **trình Giám đốc ký** trước 11/6 và 11/12, gửi hoặc cập nhật trên hệ thống Cơ sở dữ liệu PCCC trước 15/6 và 15/12 hằng năm; tham gia huấn luyện 24–32 giờ.
 
-**Điều 5. Người làm công tác ATVSLĐ**
+### Điều 5. Người làm công tác ATVSLĐ
 Lập, lưu hồ sơ quản lý, theo dõi hoạt động PCCC (NĐ 105/2025 Đ.4) bằng giấy hoặc điện tử; theo dõi lịch huấn luyện, bồi dưỡng, hạn nạp bình, hạn báo cáo; lưu biên bản kiểm tra, báo cáo và sổ NS-06 ít nhất 05 năm.
 
-**Điều 6. Kế toán**
+### Điều 6. Kế toán
 Dự toán chi phí PCCC; cùng Phó Giám đốc kiểm tra Công ty có thuộc diện mua bảo hiểm cháy, nổ bắt buộc không; nếu thuộc diện thì lấy báo giá trình Giám đốc, lưu giấy chứng nhận bảo hiểm vào hồ sơ PCCC.
 
-**Điều 7. Khi số người tăng**
+### Điều 7. Khi số người tăng
 Khi một xưởng có từ 20 người thường xuyên làm việc trở lên (định biên đề xuất CN1: 21 người theo ST-04 nháp [CẦN XÁC NHẬN]), Công ty thành lập Đội PCCC cơ sở (tối thiểu 10 người, 01 đội trưởng, 01 đội phó) theo NĐ 105/2025 Đ.20 khoản 5, khoản 8, thay cho Điều 2, Điều 3 của Quyết định này đối với xưởng đó.
 
-**Điều 8. Hiệu lực, thi hành**
+### Điều 8. Hiệu lực, thi hành
 Quyết định có hiệu lực từ ngày ký. Phó Giám đốc, người được giao phụ trách tổ sản xuất (đội trưởng) CN1, CN2, người làm công tác ATVSLĐ, an toàn, vệ sinh viên, kế toán và người có tên tại Điều 2 chịu trách nhiệm thi hành.
 
 **Nơi nhận:** Như Điều 8; niêm yết tại CN1, CN2; lưu hồ sơ PCCC.

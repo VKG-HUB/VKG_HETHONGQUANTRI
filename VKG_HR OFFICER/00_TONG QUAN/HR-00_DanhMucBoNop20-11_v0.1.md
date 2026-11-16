@@ -105,6 +105,24 @@ Lập: HR-00, 15/11/2026 sáng sớm, theo bản .md và PDF có trên ổ đế
 | 8 | Danh sách kiểm 19/11 (ngày lễ 6 dòng ở BAO_CAO_NHANH\HR-06.md mục B; đối chiếu số người BHXH với kế toán) | HR-00 | 19/11 | Chưa làm |
 | 9 | Kiểm từng file lần cuối, đóng gói bộ nộp, đối chiếu dấu thời gian .md và Word/PDF | HR-00 | 19/11 | Chưa làm |
 
+## 3b. Cập nhật 15/11 08:45 – sau lượt dựng cuối (script `dung-docx-iso.ps1` MD5 C9E8ADD47EAB, không chia hàng bảng qua trang)
+
+Mọi nội dung sửa theo R1–R5 đã vào .md. Word/PDF dựng lại cho: G1/G5 (HR-02, 08:22–08:24), G7/G10 (HR-04, 08:25–08:27), G3/G6 21 file (HR-00b, 08:28–08:36; ST-04, lộ trình dựng lại 08:39–08:41 sau sửa bảng gộp), G8/G9 (HR-01, 08:36–08:39), G2/G4/G11 và HD (HR-06, 08:13–08:20; QC-002, QĐ-003 dựng lại 08:41–08:43). Việc 1–6 của bảng mục 3 coi như xong, còn mục "Lỗi trình bày còn lại".
+
+| Nhóm | Số trang | Đã xem hình | Lỗi trình bày còn lại (không chặn nộp) |
+|---|---|---|---|
+| NS-01, 02, 03, 19; QC-001 | 3, 3, 1, 2; 10 | QC-001 tr.3,4,5,7,8,9; NS-02 tr.3; NS-19 tr.2 | QC-001: Điều 9b tiêu đề cuối tr.3; Phụ lục 1b chia hàng qua tr.8–9; "QUYẾT ĐỊNH:" cuối tr.9 |
+| QĐ-006, HD-13, bài nhận thức | 7; 8; 4 | QĐ-006 tr.4,5; HD-13 tr.1,2,6,7,8; bài NT tr.3 | HD-13 tr.6 chỉ 1 hàng + 1 câu; bài NT tr.3 chỉ 3 dòng; QĐ-006 tr.5 trống nửa dưới (ngắt trang trước phần nội bộ); chưa xem QĐ-006 tr.3,6,7, bài NT tr.4 |
+| NQ-001, QĐ-002, QĐ-004 v0.4, QĐ-005, NS-04..08, NS-12, HD-07 | theo HR-06 | NQ-001, QĐ-004, QĐ-005, NS-04..08, NS-12, HD-07, HD-01/02/04/06/08, QC-002, NQ-002, QĐ-002, QĐ-003 | QĐ-003: tiêu đề "Điều 4" cuối tr.1 |
+| ST-04 (13 tr.), lộ trình (5 tr.), QĐ-001 (2), 6 mẫu/QĐ (mỗi file 1), 12 JD (3–5) | | ST-04 cả 13 tr. (bản 08:03: lỗi bảng gộp tr.2–3, đã sửa .md và dựng lại 08:40; xem lại tr.2–3 chờ HR-01) | Lộ trình, JD-KTOAN chưa xem hình (nhờ HR-01) |
+| QT-02 (2), QT-03 (2), QT-04 (3), QT-05 (2), kế hoạch (6), phiếu G8 (2), phiếu G9 (3) | | QT-02, QT-04 t1–2, QT-05, phiếu G9 t1 | Phiếu G9: bảng "Yêu cầu 2" bắt đầu cuối tr.1; chân trang kế hoạch/phiếu có dấu "." thừa (script chung); chưa xem hình kế hoạch tr.1–6, phiếu G8, G9 tr.2–3, QT-03 |
+
+**Cập nhật 15/11 09:20 – lượt dựng cuối 2 xong** (script `dung-docx-iso.ps1` MD5 690454E07609, bản cuối của ISO-02: tiêu đề Điều/mục dính đoạn sau, dòng dẫn và 2 hàng đầu bảng dính nhau, chân trang không "." thừa). Mọi Word/PDF của bộ nộp đã dựng bằng bản này (dấu thời gian .docx 08:47–09:17), khóa Office không chồng lấn. Số trang: G3/G6 (HR-00b): ST-04 13, lộ trình 5, QĐ-001 2, 6 mẫu/QĐ 1 trang, JD 3–5; G8/G9 (HR-01): QT-02 2, QT-03 2, QT-04 3, QT-05 2, kế hoạch 6, phiếu G8 2, phiếu G9 3; G2/G4/G11 (HR-06): NQ-001 12, QC-002 4, NQ-002 2, QĐ-002 2, QĐ-003 2, QĐ-004 6, QĐ-005 2, mỗi HD 2; G1/G5 (HR-02): NS-01 3, NS-02 3, NS-03 1, NS-19 2, QC-001 10; G7/G10 (HR-04): QĐ-006 7, HD-13 8, bài nhận thức 4.
+
+Đã sửa bằng hình: ST-04 mục 2b ở đầu trang 3 cùng bảng, hết tiêu đề lặp nhầm (HR-01 xem); QĐ-001 trang 1 kết Điều 4 khoản 1; phiếu G9 bảng "Yêu cầu 2" ở đầu trang 2 (HR-01); QĐ-003 "Điều 4" sang trang 2 (HR-06); QĐ-004 Phụ lục 2 nguyên bảng trang 5, QĐ-005 chữ ký trang 1 (HR-06); QC-001 Điều 9b, "QUYẾT ĐỊNH:" hết lẻ (HR-02).
+
+Lỗi trình bày còn lại, chấp nhận cho bản trình: QC-001 Chương/Điều cùng style (ISO-02 làm cấp thấp hơn sau 20/11 nếu có thời gian), Phụ lục 1b QC-001 chia giữa các hàng; bài nhận thức trang 3 chỉ 3 dòng, HD-13 trang 6 và QĐ-006 trang 5 trống nửa dưới (ngắt trang trước phần nội bộ). Chưa xem hình: QĐ-006 trang 6; phiếu G8, QT-03, QT-04 trang 1, kế hoạch trang 1, 3–6 sau lượt cuối (chỉ số trang; bản trước sạch); NS-04..08, NS-12 sau lượt cuối. Chưa dựng bản ký (sau khi Giám đốc chốt nội dung).
+
 ## 4. Chặn ký và câu chờ Giám đốc
 
 Chưa chặn nộp, cần Giám đốc trả lời trước khi ký hoặc trước hạn pháp lý: R3-KTT kèm chứng chỉ; Điều lệ và nghị quyết HĐTV (QĐ-001, QĐ-007); Q4, Q5 (giờ làm việc, khung kỷ luật; chặn đăng ký NQ-001); PCCC phương án A/B; X2 (trước 27/11); T5 (người phụ trách kế toán); kế toán đối chiếu 15 người BHXH; ngày thẻ an toàn 15/12/2026; quốc hiệu NS-19; E1–E3; G1-3; G3-1, G3-3, G3-4; Q1, Q3; HS-mật. Hạn luật gần nhất: báo cáo tình hình lao động gửi Sở Nội vụ, nộp trước thứ Sáu 04/12/2026; báo cáo PCCC trước 15/12.

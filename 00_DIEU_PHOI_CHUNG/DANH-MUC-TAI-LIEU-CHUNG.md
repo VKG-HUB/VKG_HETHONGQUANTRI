@@ -1,4 +1,4 @@
-# Danh mục tài liệu chung – Chương trình HTQT
+﻿# Danh mục tài liệu chung – Chương trình HTQT
 
 Cập nhật 12/11/2026 · Chỉ HTQT-00 ghi · Mã theo `QUY-TAC-MA-CHUNG.md` (HT-002).
 **Biểu mẫu:** danh mục gốc là `OneDrive\VKG\BIEU-MAU-VKG\00-DANH-MUC-BIEU-MAU.xlsx` (nhóm BM giữ). Bảng dưới chỉ liệt kê để thấy toàn cảnh; lệch nhau thì theo file xlsx.
@@ -6,7 +6,7 @@ Trạng thái: nháp / duyệt nháp / dùng thử / ban hành / ngừng. Nguồ
 
 ## Sổ tay, chính sách (ST) – nhóm ISO
 
-**Bản mới nhất 14/11/2026 (bộ GĐ1, Giám đốc duyệt nháp ISO-QĐ-09, chưa ban hành):** QT-01 v0.5 · ST-01 v0.4 (phạm vi ISO-QĐ-08, 2 chi nhánh -001, -002) · ST-02 v0.2 · ST-03 v0.2 · ST-05 v0.4 · ST-06 v0.3 · mẫu trình bày v0.5 · khung Word: tài liệu v0.3, hợp đồng v0.4, văn bản có số (chưa dựng). Các bản sau ISO-QĐ-09 chỉ áp những điểm Giám đốc chốt kèm quyết định đó. Bảng dưới có thể ghi phiên bản cũ hơn.
+**Bản mới nhất 14/11/2026 (bộ GĐ1, Giám đốc duyệt nháp ISO-QĐ-09, chưa ban hành):** QT-01 v0.5 · ST-01 v0.8 (ISO-02 xác nhận 15/11: v0.8 hiện hành, dựng 14/11 11:25; phạm vi ISO-QĐ-08, 2 chi nhánh -001, -002) · ST-02 v0.2 · ST-03 v0.2 · ST-05 v0.4 · ST-06 v0.3 · mẫu trình bày v0.5 · khung Word: tài liệu v0.3, hợp đồng v0.4, văn bản có số (chưa dựng). Các bản sau ISO-QĐ-09 chỉ áp những điểm Giám đốc chốt kèm quyết định đó. Bảng dưới có thể ghi phiên bản cũ hơn.
 
 | Mã | Tên | Trạng thái | Nơi | Ghi chú |
 |---|---|---|---|---|
@@ -53,7 +53,8 @@ Cấp 13/11/2026. Theo HT-011: **HD an toàn (NS chủ) và HD vận hành, tiê
 | HD-16 | Hướng dẫn 1 trang lập báo giá BG-06A | BM | Cấp 14/11; nháp (HD-nhap_03) |
 | HD-17 | Luồng duyệt và cấp số chứng từ | BM | Cấp 14/11; nháp, chờ B2 (HD-nhap_04) |
 | HD-18 | An toàn lắp đặt, chạy thử ngoài xưởng (tại công trình, nhà khách) | NS (HR-00) | Cấp 15/11 theo yêu cầu HR-00; nhóm an toàn như HD-01 đến HD-12; sau 30/11 trừ khi HR-00 báo cần cho bộ 20/11 |
-| HD-19 trở đi | Tiêu chí kiểm, hướng dẫn vận hành theo loại sản phẩm, máy | ISO (ISO-03) | Chưa cấp. Dãy HD là dãy chung cấp tuần tự, nên HD của ISO bắt đầu từ HD-19 (HT-011 ghi "từ HD-14"; dời từ HD-18 ngày 15/11 vì NS dùng HD-18). Mục "điện" của JD-LAPRAP gộp vào HD-18, HR-00 đã trả HD-19 (15/11) |
+| HD-19 | **Tiêu chuẩn dung sai và lắp ráp cơ cấu máy VKG** (nháp v0.1, 16/11; tạm cấp, Giám đốc yêu cầu 16/11) | ISO-05 (chủ), phiên "Chú thích kỹ thuật bản vẽ tổng thể 3 máy" soạn | Mã tạm cấp 16/11/2026 theo HT-006; chưa duyệt, chưa dựng Word; bảng số mục 4 theo trí nhớ, tiêu chuẩn viện dẫn mới tra một phần [CẦN XÁC NHẬN]. File: `05_TONG_HOP_SAN_PHAM\TIEU_CHUAN_DUNG_SAI_LAP_RAP_MAY_VKG_v0.1_NHAP.md` |
+| HD-20 trở đi | Tiêu chí kiểm, hướng dẫn vận hành theo loại sản phẩm, máy | ISO (ISO-03) | Chưa cấp (HD-19 đã dùng cho tiêu chuẩn dung sai lắp ráp, 16/11). Dãy HD là dãy chung cấp tuần tự, nên HD của ISO bắt đầu từ HD-19 (HT-011 ghi "từ HD-14"; dời từ HD-18 ngày 15/11 vì NS dùng HD-18). Mục "điện" của JD-LAPRAP gộp vào HD-18, HR-00 đã trả HD-19 (15/11) |
 
 Ghi chú (HR-00 xác nhận 13/11): bộ 20/11 **bắt buộc** HD-01, HD-04, HD-07, HD-08; **nếu kịp** HD-02, HD-06. Các HD còn lại sau 30/11.
 
@@ -94,7 +95,8 @@ Số "tạm" thành chính thức khi Giám đốc trả lời H4 (ai cấp số
 | GT-01 | Trang năng lực | Ban hành bản 1.0 (QĐ-79) |
 | DK-01 | Bộ điều khoản chung | Chốt (QĐ-86) |
 | HS-01 | Sổ hồ sơ | Từ 01/12/2026 (QĐ-75, 76) |
-| CL-xx | Tem ĐẠT/KHÔNG ĐẠT, phiếu đo mức A, sổ hàng lỗi/phản ánh/bảo hành | **Chưa cấp số**; ISO-03 viết yêu cầu, BM dựng |
+| CL-01 | **Phiếu kiểm lắp ráp máy** (cấp 16/11/2026, HT-006; yêu cầu: `05_TONG_HOP_SAN_PHAM\YEU_CAU_BM_PHIEU_KIEM_LAP_RAP_v0.1.md`, đi kèm HD-19) | Giữ chỗ mã. Chưa dựng: BM không dựng mẫu chứng từ mới trước đợt đánh giá 05–08/12/2026 (QĐ-141), HD-19 chưa duyệt. Đường đi: ISO-03 dựng nháp bằng skill vkg-bm-lap-bieu-mau, BM kiểm và phát hành sau 08/12 |
+| CL-02 trở đi | Tem ĐẠT/KHÔNG ĐẠT, phiếu đo mức A, sổ hàng lỗi/phản ánh/bảo hành | **Chưa cấp số**; ISO-03 viết yêu cầu, BM dựng |
 | NL-xx | Sổ dụng cụ đo (theo HT-002: NL = máy móc, bảo trì, dụng cụ đo); sau này lịch bảo trì máy | **Chưa cấp số**; ISO-03 viết yêu cầu sổ dụng cụ đo, BM dựng |
 | NS-01 | Hợp đồng lao động xác định thời hạn (.dotx) | **Đã cấp mã 13/11**, chưa có nội dung; NS viết, BM dựng 10–11/12 |
 | NS-02 | Hợp đồng lao động không xác định thời hạn (.dotx) | Đã cấp mã 13/11, như trên |
@@ -137,3 +139,18 @@ Mã `JD-<vị trí>` cho mọi chức danh (G6), `KPI-<bộ phận>` (G10) – n
 **12 JD (nháp, ghi 14/11):** JD-GD Giám đốc · JD-PGD Phó Giám đốc · JD-DTSX Đội trưởng sản xuất · JD-KTTK Kỹ thuật thiết kế · JD-KTOAN Kế toán · JD-LASER Thợ laser · JD-CHAN Thợ chấn · JD-HAN Thợ hàn · JD-LAPRAP Thợ lắp ráp · JD-MAI Thợ mài, hoàn thiện · JD-LDPT Lao động phổ thông · JD-KN Phụ lục vai kiêm nhiệm (Đại diện ISO, QC kiêm nhiệm, ATVSLĐ, PCCC).
 
 **Sơ đồ tổ chức, chức danh, ma trận trách nhiệm (ISO dẫn chiếu làm ST-04):** nháp **v0.2** (14/11, đã sửa theo rà soát R3; khớp ST-05 v0.4; Giám đốc giữ vai Q ở P3a, P3b đến khi có trưởng kỹ thuật) `VKG_HR OFFICER\06_NOI QUY CHINH SACH\VKG_HR_ST-04_SoDoToChuc_ChucDanh_TrachNhiem_v0.2_2026-11`; ban hành bằng `VKG/HR/QĐ-001/2026` (số tạm). Hạn JD mọi vị trí 31/12/2026 (MT3). Cần thêm nhiệm vụ Đại diện ISO, QC kiêm nhiệm.
+
+## Tài liệu bên ngoài (tiêu chuẩn áp dụng) – ISO 9001 điều 7.5.3, 8.4
+
+Mục mới 16/11/2026 (ISO-02 đề xuất trong QT-01; HTQT-00 giữ). **Công ty chưa có bản chuẩn nào đã mua; chưa duyệt mua** (xem I13). Cột "Đã đối chiếu bản chuẩn" ghi Không nếu chỉ biết tên, số hiệu theo nháp.
+
+| Tiêu chuẩn | Dùng cho | Đã đối chiếu bản chuẩn | Nguồn nhắc | Ghi chú |
+|---|---|---|---|---|
+| ISO 286-1:2010 | Dung sai và lắp ghép | Chỉ tra tên | HD-19 nháp v0.1 | [CẦN XÁC NHẬN] |
+| ISO 492:2014, ISO 14405-1:2016, ISO 13920:2023, ISO 3684 | Vòng bi, dung sai kích thước, hàn, mạ | Chỉ tra tên | HD-19 nháp v0.1 | [CẦN XÁC NHẬN] |
+| ISO 2768-1:1989 (xác nhận lại 2022) | Dung sai chung kích thước thẳng, góc | Không | HD-19 nháp; đợt 1 trong dự toán I13 (CHF 67) | [CẦN XÁC NHẬN] |
+| **ISO 22081:2021** (thay ISO 2768-2:1989, **đã rút từ 04/02/2021**) | Dung sai hình học chung | Không; cấp K còn hay không: chưa đối chiếu | HD-19 nháp; đợt 1 (CHF 135) | Không ghi ISO 2768-2 làm căn cứ mới. [CẦN XÁC NHẬN] |
+| ISO 13920:2023 | Dung sai chung khung hàn | Chỉ tra tên | Đợt 1 (CHF 67) | [CẦN XÁC NHẬN] |
+| ISO 286-2, 5817:2023, 9013:2017, 965-1, 3506-1:2020 | Lắp ghép, mối hàn, cắt nhiệt, ren, bu lông inox | Không | HD-19 nháp (nhãn [N]); đợt 2 và 3 trong dự toán I13 | ISO 965-1: đợi bản mới (FDIS 2025). [CẦN XÁC NHẬN] |
+| *Dự toán, nguồn mua* | | | `05_TONG_HOP_SAN_PHAM\DU_TOAN_MUA_TIEU_CHUAN_ISO_v0.1.md` | Giá chưa xác nhận trên iso.org; chưa duyệt mua |
+| ISO 9001:2026 | Tiêu chuẩn hệ thống chất lượng | Không (chưa có bản chuẩn) | ST-02, ST-06 | Mua hay mượn: câu C11, I12 |

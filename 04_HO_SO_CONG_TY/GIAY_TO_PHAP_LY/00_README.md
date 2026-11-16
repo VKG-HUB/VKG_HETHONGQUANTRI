@@ -2,7 +2,7 @@
 
 > **Bản scan KHÔNG để ở đây** (có số định danh cá nhân, cây thư mục này các phiên AI đọc). Bản scan lưu ở `C:\Users\VINH\OneDrive\VKG\_KHONG-CHO-AI-DOC\01_GIAY_TO_PHAP_LY\` (đổi chỗ 14/11 theo HT-023) – phiên AI không mở, không quét thư mục đó. File này chỉ là danh mục.
 
-Danh mục bản scan giấy tờ do cơ quan nhà nước cấp. Đây là căn cứ chính xác nhất về mã số, tên gọi, địa chỉ đăng ký. Nội dung trong `..\VKG_ho-so-chung-doanh-nghiep.md` (bản gốc hồ sơ chung) lấy theo các giấy này và **chỉ đổi khi có giấy tờ tương đương cấp mới** (Giám đốc chỉ đạo 14/11/2026).
+Danh mục bản scan giấy tờ do cơ quan nhà nước cấp. (Kho Git HTQT loại trừ mọi thư mục `*KHONG-CHO-AI-DOC*` – xem `.gitignore` ở gốc HTQT.) Đây là căn cứ chính xác nhất về mã số, tên gọi, địa chỉ đăng ký. Nội dung trong `..\VKG_ho-so-chung-doanh-nghiep.md` (bản gốc hồ sơ chung) lấy theo các giấy này và **chỉ đổi khi có giấy tờ tương đương cấp mới** (Giám đốc chỉ đạo 14/11/2026).
 
 | File | Giấy | Mã số | Nơi cấp | Ngày |
 |---|---|---|---|---|

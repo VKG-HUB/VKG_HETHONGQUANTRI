@@ -1,0 +1,28 @@
+﻿Số yêu cầu A–E: 81 · số mục ITP: 34
+Yêu cầu không đưa vào ITP (ghi "—" có lý do trong bảng): A-05, A-06, B-09, B-10, B-12, C-01, C-02, C-03, C-04, C-05, C-06, C-07, D-08b, E-08, E-09, E-11, E-12, E-13, E-21, E-22, E-23, E-24, E-25, E-26, E-27, E-28, E-31
+Câu hỏi trong PCCC-00: 22 · câu được dẫn ở tài liệu khác: 22 · chưa được dẫn: không
+
+File | trang A4 | chữ khớp nguồn | ký tự lỗi | pdf
+PCCC-00_Cau-hoi-lam-ro-gui-khach_v0.4.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-01_Ke-hoach-chat-luong_v0.4.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-02_ITP_v0.4.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-03_Quy-cach-son-tinh-dien_v0.1.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-05_Quy-trinh-kiem-tra-son_v0.2.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-06_Kiem-soat-nha-thau-phu-son-tinh-dien_v0.4.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-07_Danh-muc-ho-so-ban-giao_v0.2.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F01_Kiem-vat-tu-dau-vao_v0.2.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F02_Kiem-kich-thuoc-ngoai-quan-gia-cong_v0.1.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F03_Nhat-ky-dieu-kien-moi-truong_v0.4.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F04_Bien-ban-kiem-chuan-bi-be-mat_v0.2.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F05_Phieu-do-chieu-day-mang-son_v0.2.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F06_Bien-ban-thu-bam-dinh_v0.2.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F07_Nhat-ky-lo-say-va-thu-cha-dung-moi_v0.4.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F08_Kiem-ngoai-quan-lop-son-va-ghi-chu_v0.2.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F09_Bien-ban-kiem-cuoi-va-xuat-xuong_v0.2.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F10_Phieu-khong-phu-hop-va-khac-phuc_v0.1.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F11_Danh-muc-thiet-bi-do-va-hieu-chuan_v0.2.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F12_Ho-so-nang-luc-nguoi-kiem-tra_v0.1.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+PCCC-F13_Nhat-ky-thi-cong-son_v0.4.docx | A4 dọc | thiếu 0 đoạn | 0 | có
+
+Số file docx: 20
+KHÔNG CÓ LỖI

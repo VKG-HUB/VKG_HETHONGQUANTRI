@@ -17,7 +17,7 @@
 | Mã JD | JD-LAPRAP |
 | Chức danh | Thợ chế tạo, lắp ráp |
 | Bộ phận | Sản xuất |
-| Cấp bậc | Công nhân kỹ thuật · nhóm lương 4 (G5 nháp) |
+| Cấp bậc | Công nhân kỹ thuật · nhóm lương 4 (theo Quy chế lương, bản nháp) |
 | Báo cáo trực tiếp | Người phụ trách tổ sản xuất (đội trưởng) của xưởng |
 | Quản lý trực tiếp | Không. Chỉ dẫn lao động phổ thông phụ lắp |
 | Nơi làm việc | Chủ yếu xưởng CN1 (thiết bị inox, máy theo yêu cầu); lắp đặt tại công trình của Quý khách khi được giao [CẦN XÁC NHẬN ghi trong HĐLĐ]. Làm thường xuyên ở cả hai xưởng: HĐLĐ ghi đủ cả hai địa điểm (Chi nhánh mã số 0311563372-002 và Địa điểm kinh doanh 001, mã 00001); nếu HĐLĐ chỉ ghi một nơi, điều sang nơi kia lâu dài phải có thỏa thuận, ký phụ lục |
@@ -54,7 +54,7 @@ Không lắp khi chi tiết sai, thiếu; dừng và báo khi thấy lỗi (ST-0
 | Mục | Yêu cầu |
 |---|---|
 | Học vấn | Không bắt buộc bằng cấp; trung cấp cơ khí là lợi thế |
-| Kinh nghiệm | Bậc vào làm theo kiểm tra tay nghề (G5, G7); [CẦN XÁC NHẬN] số năm làm inox, lắp máy |
+| Kinh nghiệm | Bậc vào làm theo kiểm tra tay nghề (Quy chế lương; Kế hoạch đào tạo); [CẦN XÁC NHẬN] số năm làm inox, lắp máy |
 | Kiến thức | Đọc bản vẽ lắp, BOM; vật liệu inox, cách tránh trầy xước, nhiễm bẩn sắt; lắp ghép cơ khí |
 | Kỹ năng | Hàn đính, hàn TIG mối phụ; khoan, taro, mài; dùng thước, ê ke, thước thủy |
 | Sức khỏe | Đủ sức khỏe theo kết quả khám trước khi bố trí việc |
@@ -83,7 +83,7 @@ Theo dõi riêng (không tính điểm): thiết bị chạy thử đạt lần 
 | Yếu tố nguy hiểm, có hại | Hàn, mài (khói, tia lửa, bụi); máy khoan, cắt cầm tay; mép sắc; nâng thiết bị nặng; điện khi chạy thử; làm việc ở công trình (trên cao, giao thông) |
 | Công việc có yêu cầu nghiêm ngặt về ATVSLĐ | Theo TT 27/2026/TT-BNV (từ 01/01/2027; đến 31/12/2026 theo TT 06/2020; số mục theo toàn bộ danh mục đã đọc): **mục (5)** hàn cắt kim loại, mài; **mục (1)** thiết bị nâng; **mục (7)** làm việc trên cao từ 2 m; **mục (12)** vận hành, bảo dưỡng đường ống khí, làm việc trong không gian hạn chế (chỉ khi được giao); **mục (18)** bốc xếp thủ công thường xuyên vật nặng từ 20 kg. Lắp điện, chạy thử có điện: theo mục "An toàn điện" của HD-18. Hướng dẫn an toàn lắp đặt, chạy thử ngoài xưởng: HD-18 (chưa soạn, ngoài bộ nộp 20/11); **đến khi có HD-18: thợ lắp ráp không làm phần điện, không làm trên cao, không lắp đặt ngoài xưởng một mình** |
 | Huấn luyện | Nhóm 3, thẻ an toàn; khám sức khỏe ít nhất 1 lần/năm (6 tháng/lần nếu hàn, mài là việc chính) |
-| Bảo hộ được cấp | Quần áo bảo hộ, giày mũi thép, găng, kính; mặt nạ hàn, khẩu trang khi hàn, mài (G2 mục 4) |
+| Bảo hộ được cấp | Quần áo bảo hộ, giày mũi thép, găng, kính; mặt nạ hàn, khẩu trang khi hàn, mài (Kế hoạch ATVSLĐ, PCCC mục 4) |
 | Hướng dẫn an toàn | HD-07 hàn · HD-08 mài · HD-11 nâng hạ · HD-12 bốc xếp (HD-11, HD-12 làm sau 30/11) · HD-18 An toàn lắp đặt, chạy thử ngoài xưởng (điện, trên cao ≥ 2 m, nâng hạ, hàn cắt ngoài khu quy định): chưa soạn, ngoài bộ nộp 20/11; phần điện theo mục "An toàn điện" của HD-18 |
 
 ## 9. Nhiệm vụ kiêm nhiệm có thể được giao
@@ -95,7 +95,7 @@ QC kiêm nhiệm (JD-KN mục 2) · An toàn, vệ sinh viên (JD-KN mục 5).
 | # | Nội dung | Ai |
 |---|---|---|
 | 1 | Ai lắp phần điện của máy (tủ điện, động cơ): thợ lắp ráp, kỹ thuật hay thuê ngoài | Giám đốc |
-| 2 | Chế độ khi lắp đặt ngoài xưởng (đi lại, ngoài giờ) | Giám đốc (G4, G5) |
+| 2 | Chế độ khi lắp đặt ngoài xưởng (đi lại, ngoài giờ) | Giám đốc (Nội quy lao động; Quy chế lương) |
 | 3 | Số năm kinh nghiệm thợ chính | Giám đốc |
 
 ## Lịch sử
@@ -138,3 +138,7 @@ QC kiêm nhiệm (JD-KN mục 2) · An toàn, vệ sinh viên (JD-KN mục 5).
 | v0.1 | 14/11/2026 | Nháp đầu (HR-00b, gói G6) | Chưa |
 | v0.2 | 14/11/2026 | Sửa theo rà soát R3 và R2-08. Bản v0.1 lưu `99_LUU TRU\G3G6_v0.1_2026-11` | Chưa |
 | v0.2 (cập nhật) | 14/11/2026 | Điền số mục danh mục công việc nghiêm ngặt theo báo cáo HR-06 (TT 27/2026/TT-BNV, TT 06/2020); R3 dòng 35, 36 đã sửa | Chưa |
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

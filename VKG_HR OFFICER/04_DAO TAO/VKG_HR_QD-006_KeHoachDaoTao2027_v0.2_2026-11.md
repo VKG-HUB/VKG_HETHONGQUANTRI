@@ -116,6 +116,8 @@ Số người theo vai, không tên; tính theo **15 người**. Việc tách 10
 | Ma trận tay nghề, phiếu đánh giá, thi mối hàn | Đội trưởng | Như trên | NS-09 |
 | Giấy chứng nhận, thẻ an toàn, sổ huấn luyện | Người làm công tác ATVSLĐ | Hồ sơ an toàn | NS-04 |
 
+**Ký xác nhận danh sách NS-17 (đề xuất, Giám đốc chốt):** người dạy ký sau buổi học; **đội trưởng xưởng** ký xác nhận là buổi đã diễn ra và danh sách đúng. Nếu đội trưởng là người dạy thì **Giám đốc** (hoặc Phó Giám đốc khi đã bổ nhiệm) ký xác nhận. Giám đốc xem danh sách khi cần, không phải ký từng buổi. Người xác nhận không trùng người dạy.
+
 Từ **01/04/2027** mọi buổi đào tạo trong bảng mục 4 phải có hồ sơ trên. Trước đó dùng bản nháp in ra.
 
 ### 7. Kinh phí, thời giờ, hợp đồng đào tạo
@@ -180,6 +182,7 @@ Từ **01/04/2027** mọi buổi đào tạo trong bảng mục 4 phải có h�
 | Mã | Đã sửa / chưa | Ghi chú |
 |---|---|---|
 | R4-03 (TB) | Đã sửa | Điều 3, mục 2, mục 8 |
+| Ý kiến NS-17 v0.9 (BM-00) | Đã sửa | 16/11/2026: mục 6 thêm đoạn ký xác nhận NS-17 (người dạy ký, đội trưởng xác nhận, Giám đốc xác nhận khi đội trưởng dạy, không trùng người dạy) – đề xuất, Word dựng ở lượt dựng kế tiếp |
 | R4-26 (TB) | Đã sửa | Mục 4a chép nguyên câu QĐ-004 Điều 12 khoản 6 bản v0.4 (15/11/2026) |
 | R4-25 (Thấp) | Đã sửa | 15/11/2026: bỏ "G3", "ISO-03" khỏi thân (mục 2, dòng C2) |
 | R4-08 (TB) | Đã sửa | Mục 4a, nguyên câu HR-06. 15/11/2026: đổi theo QĐ-004 v0.4 Điều 12 khoản 6 ("từ 15/12/2026 hoặc ngày nhận thẻ, nếu muộn hơn, đối với người đã học và kiểm tra đạt…"); 15/12 vẫn là đề xuất để Giám đốc quyết. Nếu HR-06 đổi chữ nữa thì sửa lại cho cùng chữ |

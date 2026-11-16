@@ -17,7 +17,7 @@
 | Mã JD | JD-LDPT |
 | Chức danh | Lao động phổ thông (phụ việc sản xuất) |
 | Bộ phận | Sản xuất |
-| Cấp bậc | Lao động phổ thông · nhóm lương 6 (G5 nháp) |
+| Cấp bậc | Lao động phổ thông · nhóm lương 6 (theo Quy chế lương, bản nháp) |
 | Báo cáo trực tiếp | Người phụ trách tổ sản xuất (đội trưởng) của xưởng |
 | Quản lý trực tiếp | Không |
 | Nơi làm việc | CN1 hoặc CN2 (ghi trong HĐLĐ). Làm thường xuyên ở cả hai xưởng: HĐLĐ ghi đủ cả hai địa điểm (Chi nhánh mã số 0311563372-002 và Địa điểm kinh doanh 001, mã 00001); nếu HĐLĐ chỉ ghi một nơi, điều sang nơi kia lâu dài phải có thỏa thuận, ký phụ lục |
@@ -57,7 +57,7 @@ Từ chối nâng vật quá sức hoặc khi thiết bị nâng hỏng, báo đ
 | Kiến thức, kỹ năng | Đọc được mã hồ sơ, nhãn, số lượng; biết nâng hạ an toàn (được huấn luyện) |
 | Sức khỏe | Đủ sức khỏe bốc xếp theo kết quả khám trước khi bố trí việc |
 | Phẩm chất | **Tâm:** giữ hàng như hàng của mình · **Tín:** đúng giờ · **Trung thực:** báo hàng rơi, móp |
-| Lộ trình | Có thể học lên thợ chính (laser, chấn, hàn) theo ma trận tay nghề (G7) |
+| Lộ trình | Có thể học lên thợ chính (laser, chấn, hàn) theo ma trận tay nghề (Kế hoạch đào tạo) |
 
 ## 7. KPI
 
@@ -72,7 +72,7 @@ KPI cá nhân theo **KPI-SX mục 4, phương án A**, áp cả lao động ph�
 | T-05 | Báo lỗi, góp ý sửa | 10% | Báo hàng rơi, móp, lẫn đơn |
 | | **Tổng** | **100%** | |
 
-Chấp hành giờ làm theo nội quy (G4), không đưa vào KPI.
+Chấp hành giờ làm theo nội quy (Nội quy lao động), không đưa vào KPI.
 
 ## 8. Điều kiện làm việc
 
@@ -81,8 +81,8 @@ Chấp hành giờ làm theo nội quy (G4), không đưa vào KPI.
 | Thời giờ làm việc | Theo nội quy VKG/HR/NQ-001/2026 |
 | Yếu tố nguy hiểm, có hại | Vật nặng, mép sắc; vật rơi; xe nâng, palăng; bụi, tiếng ồn của xưởng |
 | Công việc có yêu cầu nghiêm ngặt về ATVSLĐ | Theo TT 27/2026/TT-BNV (từ 01/01/2027; đến 31/12/2026 theo TT 06/2020): **mục (18)** bốc xếp thủ công thường xuyên vật nặng từ 20 kg (đến 31/12/2026: 30 kg); **mục (1)** vận hành xe nâng, palăng, cầu trục (thiết bị phải kiểm định). **Chỉ người có thẻ an toàn được vận hành**; người chưa có thẻ chỉ phụ móc cáp dưới sự chỉ dẫn. Nhóm 4 nếu không làm việc nào trong các mục trên |
-| Huấn luyện | Nhóm 3 nếu dùng thiết bị nâng hoặc bốc xếp nặng; nhóm 4 nếu không (G2 mục 2). Khám sức khỏe ít nhất 1 lần/năm |
-| Bảo hộ được cấp | Mũ bảo hộ (CN2), giày mũi thép, găng chống cắt, quần áo bảo hộ (G2 mục 4) |
+| Huấn luyện | Nhóm 3 nếu dùng thiết bị nâng hoặc bốc xếp nặng; nhóm 4 nếu không (Kế hoạch ATVSLĐ, PCCC mục 2). Khám sức khỏe ít nhất 1 lần/năm |
+| Bảo hộ được cấp | Mũ bảo hộ (CN2), giày mũi thép, găng chống cắt, quần áo bảo hộ (Kế hoạch ATVSLĐ, PCCC mục 4) |
 | Hướng dẫn an toàn | HD-11 thiết bị nâng · HD-12 bốc xếp (làm sau 30/11) |
 
 ## 9. Nhiệm vụ kiêm nhiệm có thể được giao
@@ -135,3 +135,7 @@ Không đề xuất.
 | v0.1 | 14/11/2026 | Nháp đầu (HR-00b, gói G6) | Chưa |
 | v0.2 | 14/11/2026 | Sửa theo rà soát R3 và R2-08. Bản v0.1 lưu `99_LUU TRU\G3G6_v0.1_2026-11` | Chưa |
 | v0.2 (cập nhật) | 14/11/2026 | Điền số mục danh mục công việc nghiêm ngặt theo báo cáo HR-06 (TT 27/2026/TT-BNV, TT 06/2020); R3 dòng 35, 36 đã sửa | Chưa |
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

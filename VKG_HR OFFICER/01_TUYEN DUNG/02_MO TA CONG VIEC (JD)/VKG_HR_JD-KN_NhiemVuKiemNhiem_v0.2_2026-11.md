@@ -10,7 +10,7 @@
 **Căn cứ pháp luật:** BLLĐ 45/2019/QH14 Đ.22 (phụ lục HĐLĐ), Đ.29, Đ.33 (sửa đổi HĐLĐ); Luật Kế toán 88/2015/QH13 Đ.52–55, NĐ 174/2016/NĐ-CP Đ.20–22 (kế toán trưởng); Luật ATVSLĐ 84/2015/QH13 Đ.72, Đ.74; NĐ 39/2016/NĐ-CP Đ.36; NĐ 44/2016/NĐ-CP (nhóm 2, nhóm 6); Luật PCCC và CNCH 55/2024/QH15; NĐ 105/2025/NĐ-CP Đ.14, Đ.16, Đ.20.
 **Chức danh đề xuất:** công ty chưa có chức danh chính thức; JD này áp dụng khi Giám đốc ban hành sơ đồ tổ chức (ST-04) và giao nhiệm vụ. Nơi làm việc ("CN1", "CN2" là mã nội bộ hai xưởng): CN1 = Chi nhánh Công ty, mã số 0311563372-002, địa chỉ 144/46 đường Thống Nhất, khu phố Tân Hòa, Phường Đông Hòa, TP.HCM (nay là số 42A Thống Nhất), gồm văn phòng; CN2 = Địa điểm kinh doanh Phước Tân (địa điểm kinh doanh 001, mã 00001, trực thuộc công ty), P. Phước Tân, Đồng Nai.
 
-**Cách dùng:** vai kiêm nhiệm không phải chức danh. Người được Giám đốc cử, giao bằng quyết định (lộ trình bổ nhiệm; QĐ-002, QĐ-003) giữ JD của chức danh chính **cộng** mục tương ứng dưới đây. Tỷ trọng nhiệm vụ JD chính giảm theo thời gian dành cho vai. Kiêm nhiệm thường xuyên có phụ cấp hoặc làm đổi công việc đã thỏa thuận: người được cử đồng ý và ký phụ lục HĐLĐ (NS-03) cùng ngày quyết định; phụ lục có điều khoản quay về công việc, lương cũ khi thôi giữ vai; không dùng điều chuyển tạm thời (BLLĐ Đ.29) cho việc lâu dài. Mục 3–9 không chấm KPI riêng; kết quả tính vào KPI của JD chính. Phụ cấp theo quy chế lương VKG/HR/QC-001/2026 (G5) [CẦN XÁC NHẬN mức].
+**Cách dùng:** vai kiêm nhiệm không phải chức danh. Người được Giám đốc cử, giao bằng quyết định (lộ trình bổ nhiệm; QĐ-002, QĐ-003) giữ JD của chức danh chính **cộng** mục tương ứng dưới đây. Tỷ trọng nhiệm vụ JD chính giảm theo thời gian dành cho vai. Kiêm nhiệm thường xuyên có phụ cấp hoặc làm đổi công việc đã thỏa thuận: người được cử đồng ý và ký phụ lục HĐLĐ (NS-03) cùng ngày quyết định; phụ lục có điều khoản quay về công việc, lương cũ khi thôi giữ vai; không dùng điều chuyển tạm thời (BLLĐ Đ.29) cho việc lâu dài. Mục 3–9 không chấm KPI riêng; kết quả tính vào KPI của JD chính. Phụ cấp theo quy chế lương VKG/HR/QC-001/2026 (Quy chế lương) [CẦN XÁC NHẬN mức].
 
 | Mục | Vai | Thời gian dành | Chọn từ (đề xuất, ST-04 mục 4) |
 |---|---|---|---|
@@ -22,7 +22,7 @@
 | 6 | Người phụ trách PCCC tại xưởng | Trong ca | Người phụ trách tổ (đã ghi trong JD-DTSX) |
 | 7 | Người giữ sổ hồ sơ đơn hàng HS-01 (ghi số liệu gốc M1) | 1–2 giờ cuối tháng [CẦN XÁC NHẬN] | [CẦN XÁC NHẬN] |
 | 8 | Đầu mối nhận phản ánh của Quý khách (ghi số liệu gốc M4) | Theo phát sinh | [CẦN XÁC NHẬN] |
-| 9 | Người phụ trách kế toán tạm thời (≤ 12 tháng, làm ngay), sau đó kế toán trưởng | Chức vụ | Nhân viên kế toán do Giám đốc bố trí tạm [CẦN XÁC NHẬN]; kế toán trưởng: Hội đồng thành viên bổ nhiệm |
+| 9 | Kế toán trưởng: dịch vụ kế toán thuê ngoài trước; người trong công ty chỉ khi có chứng chỉ | Chức vụ | Nhân viên kế toán được cử học lớp bồi dưỡng kế toán trưởng [CẦN XÁC NHẬN]; khi có chứng chỉ: Hội đồng thành viên bổ nhiệm |
 
 ## 1. Đại diện ISO
 
@@ -30,7 +30,7 @@
 
 | # | Nhiệm vụ | Tỷ trọng trong vai | Bằng chứng |
 |---|---|---|---|
-| 1 | Giữ danh mục tài liệu, bản đang hiệu lực; kiểm chung tài liệu mới (QT-01 bước B3); cấp mã khi được giao (QUY-TAC-MA-CHUNG); thu, đánh dấu bản hết hiệu lực | 25% | Danh mục tài liệu cập nhật; không có bản cũ đang dùng |
+| 1 | Giữ danh mục tài liệu, bản đang hiệu lực; kiểm chung tài liệu mới (theo QT-01); cấp mã khi được giao (QUY-TAC-MA-CHUNG); thu, đánh dấu bản hết hiệu lực | 25% | Danh mục tài liệu cập nhật; không có bản cũ đang dùng |
 | 2 | **Đo M1, M2, M4 (người đo theo ST-05 v0.4):** M1 từ danh sách ngày hẹn, ngày giao người giữ sổ HS-01 gửi; M4 từ sổ phản ánh; M2: cuối tháng tải ảnh QC cuối từ nhóm QC-CN1, QC-CN2 về `ISO_9001\05_HO_SO_VAN_HANH\QC_KIEM_TRA\<yyyy-mm>`, đối chiếu danh sách đơn giao (GH-02, HS-01), tính tỷ lệ; tách CN1, CN2 | 20% | Thư mục ảnh tháng; số M1, M2, M4 |
 | 3 | **Tổng hợp M3:** nhận số hàng lỗi người phụ trách tổ mỗi xưởng đếm, tính tỷ lệ công ty · **Đo M5:** mở, theo dõi, đóng phiếu khắc phục lỗi lặp lại (họp thứ Hai) | 20% | Bảng số liệu M1–M5 hằng tháng; danh sách phiếu khắc phục |
 | 4 | Chuẩn bị họp tuần ISO, xem xét lãnh đạo: số liệu, việc trễ, rủi ro (ST-06); báo Giám đốc kết quả hệ thống và cơ hội cải tiến (ISO 5.3 c) | 15% | Biên bản họp |
@@ -39,7 +39,7 @@
 | | **Tổng trong vai** | **100%** | |
 
 Quyền hạn: yêu cầu bộ phận nộp hồ sơ, số liệu đúng hạn; không cho dùng tài liệu hết hiệu lực; báo Giám đốc khi thấy làm sai hệ thống. Phải trình Giám đốc: ban hành, sửa tài liệu.
-Tiêu chuẩn: cẩn thận, giữ giấy tờ ngăn nắp; dùng thành thạo thư mục máy tính, Word, Excel; đã học nhận thức ISO 9001 (bài G7) và khóa đánh giá viên nội bộ [CẦN XÁC NHẬN chi phí, đơn vị dạy].
+Tiêu chuẩn: cẩn thận, giữ giấy tờ ngăn nắp; dùng thành thạo thư mục máy tính, Word, Excel; đã học nhận thức ISO 9001 (bài nhận thức ISO 9001) và khóa đánh giá viên nội bộ [CẦN XÁC NHẬN chi phí, đơn vị dạy].
 KPI vai (đề xuất): số liệu M1–M5 gửi Giám đốc đúng hạn mỗi tháng (100%); 0 tài liệu hết hiệu lực đang dùng khi kiểm; điểm không phù hợp nội bộ đóng đúng hạn.
 
 ## 2. QC kiêm nhiệm (mỗi xưởng)
@@ -50,7 +50,7 @@ Nguồn nhiệm vụ: đề xuất QC cuối ISO-03 v1 (chưa duyệt). Nhóm IS
 | # | Nhiệm vụ | Tỷ trọng trong vai | Bằng chứng |
 |---|---|---|---|
 | 1 | Kiểm cuối theo mức: **mức B** (gia công lô) kiểm chi tiết đầu, giữa, cuối lô, đếm số lượng; **mức A** (thiết bị, máy, khách mới, đơn lớn) kiểm đủ thẻ checklist, đo kích thước quan trọng, chạy thử cùng Trưởng kỹ thuật; **mức C** do người làm tự kiểm, QC kiểm ngẫu nhiên | 50% | Phiếu kiểm cuối trong SX-01 |
-| 2 | Chụp ảnh kiểm cuối, gửi nhóm Zalo QC của xưởng kèm mã hồ sơ đơn hàng; dán tem ĐẠT, KHÔNG ĐẠT (giấy dán xanh, đỏ viết tay số lệnh, ngày, người kiểm – cách tạm theo B4) | 20% | Ảnh trong nhóm QC; tem |
+| 2 | Chụp ảnh kiểm cuối, gửi nhóm Zalo QC của xưởng kèm mã hồ sơ đơn hàng; dán tem ĐẠT, KHÔNG ĐẠT (giấy dán xanh, đỏ viết tay số lệnh, ngày, người kiểm – cách tạm) | 20% | Ảnh trong nhóm QC; tem |
 | 3 | Tách hàng KHÔNG ĐẠT ra khu riêng, báo nhóm HÀNG LỖI, báo người phụ trách tổ | 15% | Tin báo lỗi có mã hồ sơ |
 | 4 | Chỉ dùng thước đã kiểm; báo thước hỏng, quá hạn kiểm (sổ dụng cụ đo – nhóm ISO-03) | 5% | Sổ dụng cụ đo |
 | 5 | Góp ý thẻ tiêu chí kiểm, lỗi hay gặp cho họp thứ Hai | 10% | Ý kiến ghi ở biên bản họp |
@@ -92,11 +92,11 @@ Vị trí bổ nhiệm trong lộ trình (ST-04 mục 6), dự kiến 01/2027 [C
 | 1 | Nhắc nhở người trong tổ dùng bảo hộ, làm đúng HD an toàn; phát hiện nguy cơ, báo người phụ trách tổ | — |
 | 2 | Kiểm bình chữa cháy, lối thoát nạn, biển báo hằng tháng; ghi sổ NS-06 | Sổ NS-06 |
 | 3 | Khi có cháy: báo cháy, hướng dẫn thoát nạn, dùng bình chữa cháy ban đầu theo lệnh người phụ trách PCCC | Biên bản thực tập phương án |
-| 4 | Góp ý về an toàn trong đối thoại định kỳ (G11) | — |
+| 4 | Góp ý về an toàn trong đối thoại định kỳ (Quy chế dân chủ ở cơ sở) | — |
 
 ## 6. Người phụ trách PCCC tại xưởng
 
-Giao cho người phụ trách tổ sản xuất (đội trưởng) mỗi xưởng; nhiệm vụ đã ghi ở JD-DTSX nhiệm vụ 5 (NĐ 105/2025 Đ.20 k.2: cơ sở dưới 20 người thường xuyên làm việc phân công người phụ trách bằng văn bản). Khi CN1 đạt 20 người: lập Đội PCCC cơ sở, mục này viết lại (G2 mục S1).
+Giao cho người phụ trách tổ sản xuất (đội trưởng) mỗi xưởng; nhiệm vụ đã ghi ở JD-DTSX nhiệm vụ 5 (NĐ 105/2025 Đ.20 k.2: cơ sở dưới 20 người thường xuyên làm việc phân công người phụ trách bằng văn bản). Khi CN1 đạt 20 người: lập Đội PCCC cơ sở, mục này viết lại (Kế hoạch ATVSLĐ, PCCC).
 
 ## 7. Người giữ sổ hồ sơ đơn hàng HS-01 (ghi số liệu gốc M1)
 
@@ -118,9 +118,9 @@ Giao cho người phụ trách tổ sản xuất (đội trưởng) mỗi xưở
 | 2 | Chuyển người xử lý theo QT bán hàng; theo dõi tới khi trả lời Quý khách | Sổ ghi ngày xong |
 | 3 | Cuối tháng gửi sổ cho Đại diện ISO tính M4; lỗi lặp lại đưa vào họp thứ Hai (M5) | Sổ phản ánh tháng |
 
-## 9. Người phụ trách kế toán tạm thời, sau đó kế toán trưởng
+## 9. Kế toán trưởng: dịch vụ kế toán trước, người trong công ty khi có chứng chỉ
 
-Giám đốc đã chốt (14/11): bố trí người phụ trách kế toán tạm thời ngay (≤ 12 tháng), rồi bổ nhiệm kế toán trưởng hoặc thuê dịch vụ kế toán (lộ trình mục 3); người cụ thể [CẦN XÁC NHẬN]. **Hội đồng thành viên** bổ nhiệm, quyết lương kế toán trưởng (Luật DN Đ.55 k.2 đ, e). Người giữ vẫn làm JD-KTOAN, cộng các việc dưới.
+Cách làm đã chọn: thuê ngay dịch vụ kế toán có kế toán trưởng; một người trong công ty học lớp bồi dưỡng kế toán trưởng (người cụ thể, thời điểm [CẦN XÁC NHẬN]). Trong thời gian thuê dịch vụ, các nhiệm vụ dưới đây do kế toán trưởng của đơn vị dịch vụ làm theo hợp đồng; **người trong công ty chưa được ghi là người phụ trách kế toán hay kế toán trưởng**. Khi người được cử có chứng chỉ, **Hội đồng thành viên** bổ nhiệm, quyết lương kế toán trưởng (Luật DN Đ.55 k.2 đ, e); từ đó người đó giữ JD-KTOAN, cộng các việc dưới.
 **Căn cứ:** Luật Kế toán 2015 Đ.53 (kế toán trưởng giúp người đại diện theo pháp luật tổ chức công tác kế toán; chịu sự lãnh đạo của người đại diện theo pháp luật), Đ.54 k.1 (tiêu chuẩn), Đ.55 (quyền); NĐ 174/2016 Đ.20–22.
 
 | # | Nhiệm vụ | Bằng chứng |
@@ -130,19 +130,20 @@ Giám đốc đã chốt (14/11): bố trí người phụ trách kế toán t�
 | 3 | Giám sát tài chính; báo cáo Giám đốc khi có khoản chi không đúng quy định | Ghi chép, báo cáo |
 | 4 | Bảo đảm không bố trí người làm kế toán thuộc trường hợp Luật Kế toán Đ.52 (người thân của lãnh đạo; thủ kho, thủ quỹ) | Danh sách phân công |
 
-Tiêu chuẩn: Luật Kế toán Đ.54 k.1 (trung cấp kế toán trở lên; chứng chỉ bồi dưỡng kế toán trưởng; thời gian làm kế toán ≥ 2 năm nếu đại học, ≥ 3 năm nếu trung cấp, cao đẳng); NĐ 174/2016 Đ.21 k.3 g. Người tạm phụ trách kế toán (phương án C): phải đủ cùng tiêu chuẩn như kế toán trưởng, gồm chứng chỉ bồi dưỡng kế toán trưởng (NĐ 174/2016 Đ.21 k.1); chỉ khác ở chỗ do Giám đốc bố trí tạm, hạn tối đa 12 tháng (NĐ 174/2016 Đ.20). Nếu người dự kiến chưa có chứng chỉ: thuê dịch vụ kế toán (phương án B) ngay.
+Tiêu chuẩn: Luật Kế toán Đ.54 k.1 (trung cấp kế toán trở lên; chứng chỉ bồi dưỡng kế toán trưởng; thời gian làm kế toán ≥ 2 năm nếu đại học, ≥ 3 năm nếu trung cấp, cao đẳng); NĐ 174/2016 Đ.21 k.3 g. Người trong công ty chỉ được giữ vị trí này khi đã có chứng chỉ bồi dưỡng kế toán trưởng (NĐ 174/2016 Đ.21 k.1); chưa có thì dịch vụ kế toán đảm nhận (NĐ 174/2016 Đ.22).
+
 ## Việc cần xác nhận
 
 | # | Nội dung | Ai |
 |---|---|---|
 | 1 | Người được cử từng vai | Giám đốc |
-| 2 | Mức phụ cấp từng vai (G5) | Giám đốc |
+| 2 | Mức phụ cấp từng vai (Quy chế lương) | Giám đốc |
 | 3 | Thời gian dành cho QC kiêm nhiệm | Giám đốc; nhóm ISO (ISO-03) |
 | 4 | Thời điểm bổ nhiệm trưởng kỹ thuật (lộ trình đề xuất 01/2027) | Giám đốc |
 | 5 | Người giữ sổ HS-01 và đầu mối nhận phản ánh | Giám đốc; nhóm ISO, BM |
 | 6 | Ngày chốt số liệu M1–M5 hằng tháng | Nhóm ISO |
 | 7 | Đại diện ISO học khóa đánh giá viên nội bộ ở đâu, chi phí | Giám đốc |
-| 8 | Người cụ thể phụ trách kế toán tạm thời | Giám đốc |
+| 8 | Đơn vị dịch vụ kế toán, chi phí; người trong công ty đi học lớp bồi dưỡng kế toán trưởng và thời điểm | Giám đốc |
 
 ## Lịch sử
 
@@ -172,7 +173,7 @@ Tiêu chuẩn: Luật Kế toán Đ.54 k.1 (trung cấp kế toán trở lên; c
 | K-5 | Người giữ sổ HS-01 và đầu mối nhận phản ánh | Giám đốc; nhóm ISO, BM |
 | K-6 | Ngày chốt số liệu M1–M5 hằng tháng | Nhóm ISO |
 | K-7 | Đại diện ISO học khóa đánh giá viên nội bộ ở đâu, chi phí | Giám đốc |
-| R3-KTT (đã chốt: C ngay, rồi A hoặc B) | Người cụ thể phụ trách kế toán tạm thời (T5) | Giám đốc |
+| R3-47 (Giám đốc trả lời "2" ngày 15/11, thay R3-KTT 14/11) | Đơn vị dịch vụ kế toán, chi phí; người đi học lớp bồi dưỡng kế toán trưởng, thời điểm. Chữ "2" chỉ một chữ số, hiểu là phương án (2) – chờ Giám đốc xác nhận | Giám đốc |
 
 ### Đã sửa theo rà soát (R3, 14/11/2026)
 
@@ -197,3 +198,12 @@ Tiêu chuẩn: Luật Kế toán Đ.54 k.1 (trung cấp kế toán trở lên; c
 
 - R3-47: mục 9 bỏ câu sai "không cần chứng chỉ kế toán trưởng"; người tạm phụ trách kế toán phải đủ cùng tiêu chuẩn như kế toán trưởng, gồm chứng chỉ bồi dưỡng (NĐ 174/2016 Đ.21 k.1); chưa có chứng chỉ thì chọn thuê dịch vụ (B) ngay.
 - R3-50: bỏ "câu B5" khỏi thân, nói thẳng nội dung.
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.
+
+### Đã sửa theo câu trả lời R3-47 của Giám đốc (15/11/2026, tối)
+
+- Mục 9 (và dòng 9 bảng đầu, "Việc cần xác nhận" số 8) viết lại theo phương án (2): dịch vụ kế toán có kế toán trưởng làm ngay; người trong công ty được cử học lớp bồi dưỡng, có chứng chỉ mới bổ nhiệm. Bỏ "người phụ trách kế toán tạm thời ≤ 12 tháng". Người trong công ty không ghi là người phụ trách kế toán cho đến khi có chứng chỉ.
+- Câu hỏi cho gói luật sư (chưa đối chiếu văn bản gốc): với quy mô hiện tại công ty có bắt buộc phải có kế toán trưởng không (Luật Kế toán, NĐ 174/2016, doanh nghiệp siêu nhỏ).

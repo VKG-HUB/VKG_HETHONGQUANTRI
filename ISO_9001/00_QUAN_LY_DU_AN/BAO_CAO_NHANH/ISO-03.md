@@ -1,4 +1,4 @@
-# Báo cáo nhánh ISO-03 – QC cuối (thí điểm CN1)
+﻿# Báo cáo nhánh ISO-03 – QC cuối (thí điểm CN1)
 
 > **ĐÍCH CUỐI:** Chứng nhận ISO 9001:2026 trước 30/11/2027. Mục tiêu nhánh: 100% đơn có bằng chứng QC trước khi rời xưởng từ 04/2027.
 
@@ -91,6 +91,7 @@ Câu 1, 2 đã nằm ở `VIEC-CHO-GIAM-DOC.md` mục I5; người làm QC kiêm
 - Báo ISO-02: ~~hệ mã (#11)~~ đã chốt HT-002; quy định nơi lưu, thời hạn lưu bản ký tay của xưởng (#10).
 - Báo ISO-04: xem xét khả năng làm trước khi gửi DH-01 (#8); câu dung sai chung trong DK-01 (#7); nhận vật tư Quý khách cấp (#13).
 - Báo ISO-06: kiểm vật tư nhập, mác inox, CO/CQ (#14).
+- 16/11/2026 (ISO-02 chuyển theo HTQT-00): áp quy tắc "Đọc và tải file trên OneDrive" ở `00_DIEU_PHOI_CHUNG\CLAUDE.md` – chỉ mở đúng file cần, không tìm chữ đệ quy trên OneDrive, không mở PDF/ảnh/bản vẽ chỉ để tìm chữ, file tải về còn dùng thì lưu thư mục nguồn và ghi sổ, không xóa file, đọc nhiều file lớn thì báo ước lượng trước. Luồng báo: ISO-03 báo ISO-02, ISO-02 báo HTQT-00.
 - Kênh liên lạc với nhóm BM: phiên "00. ĐIỀU TIẾT CHUNG · Chuẩn hóa biểu mẫu vận hành"; nhóm BM ghi tin vào mục 8 dưới đây.
 
 ## 8. Tin từ nhóm BM
@@ -103,6 +104,49 @@ Câu 1, 2 đã nằm ở `VIEC-CHO-GIAM-DOC.md` mục I5; người làm QC kiêm
 | 12/11/2026 | SX-01 (QĐ-136), GH-02 (QĐ-137) mới duyệt nháp, chưa cho dùng, chưa phát hành. Chưa sửa theo 15 điểm đánh giá ISO, chờ Giám đốc | Khớp với bản ISO-03 đã đọc |
 | 12/11/2026 | Đã sửa lỗi sheet "Tham khảo" của danh mục (PowerShell trải phẳng mảng 1 dòng trong `build-danh-muc-bieu-mau.ps1`), phát hành lại | **Đã kiểm 12/11:** bản phát hành `BIEU-MAU-VKG\00-DANH-MUC-BIEU-MAU.xlsx`, dòng BG-02 hiện đủ 9 cột. Điểm #15 của bản đánh giá đã xong |
 | 12/11/2026 (qua HTQT-00) | Trong 4 tuần tạm dừng, nhóm BM không dựng mẫu CL-xx, chỉ sửa SX-01, GH-02 theo 4 điểm Nặng khi Giám đốc duyệt | ISO-03 đồng ý, không xin mẫu gấp (mục 3a) |
+| 16/11/2026 (BM-00) | SX-01, GH-02 bản dùng thử v0.9 (`02-DANG-HOAN-THIEN\DUNG-THU\`), chỉ đổi trình bày; 4 điểm Nặng đã thêm từ 15/11. Nhờ ISO-03 đọc lại | **Đã kiểm 16/11**, kết quả ở mục 8a |
 | 12/11/2026 (qua HTQT-00) | Bộ mẫu macro (QĐ-125) chưa phát hành; `BIEU-MAU-VKG` vẫn là bản `.xltx`. Khi DH-01, NT-01..03 đổi sang bản macro, nhóm BM báo ISO-03 | Ghi nhận; chưa có gì để kiểm |
 | 13/11/2026 | **Đã phát hành bộ mẫu macro (QĐ-122 đến 125), Giám đốc cho chạy 12/11.** Trong `BIEU-MAU-VKG\01-DANG-DUNG`: **DH-01 1.1 → 2.0; NT-01, NT-02, NT-03 1.0 → 2.0**; BG-01, 03, 04, 05 → 4.0; BG-06A, 06B → 2.0. Đuôi `.xltm` (có macro lặp đầu trang, tự ngắt trang Bảng kê; mã chân trang `26L23`). Bản trắng PDF DH-01, NT-01 nay in kèm trang Bảng kê. Bản cũ ở `03-NGUNG-DUNG`. SX-01, GH-02 vẫn là nháp, chưa phát hành | Chưa kiểm |
 | 14/11/2026 | **Bản sửa nhỏ (QĐ-145), đã phát hành 05:45.** **DH-01 2.0 → 2.1**: ô người nhận, điện thoại và ô người phụ trách, điện thoại để dạng chữ (gõ liền không mất số 0). **NT-01, NT-02 2.0 → 2.1**: bỏ quốc hiệu (HT-016). BG-01, 03, 04, 05 → 4.1; BG-06A, 06B → 2.1 (ô điện thoại). Không đổi công thức, điều khoản; mã chân trang vẫn `26L23`. NT-03 giữ 2.0. Bản cũ ở `03-NGUNG-DUNG` | Chưa kiểm |
+| 15/11/2026 | SX-01, GH-02 nháp (chưa phát hành) đã sửa 4 điểm Nặng theo nguyên tắc Giám đốc đồng ý 15/11 (QĐ-152): (1) Phiếu kiểm cuối có Cho giao / Giữ lại, người kiểm cuối ký là người cho giao; GH-02 có dòng đã kiểm cuối theo lệnh số, tem ĐẠT; (2) mã xử lý thêm CN, TH, người quyết định, ô đã kiểm lại; (3) dòng số hiệu dụng cụ đo ở Phiếu cắt chấn và kiểm cuối; (4) cột Rev bản vẽ in ở 4 phiếu. Nhờ ISO-03 đọc lại 4 phiếu bản trắng: `WEBSITE DN\03-THIET-KE\THUONG-HIEU\AN-PHAM\02-DANG-HOAN-THIEN\SX-lenh-san-xuat\SX-01_Lenh-san-xuat_nhap_ban-trang_phieu-*.pdf` và `...\GH-giao-nhan\GH-02_..._ban-trang.pdf` | Chưa kiểm |
+
+## 8a. ISO-03 đọc lại SX-01, GH-02 bản dùng thử v0.9 (16/11/2026)
+
+**Đã đọc (PDF xuất 16/11, 05:07–05:11):** SX-01 bản ví dụ: Lệnh sản xuất, Phiếu nhận việc, Phiếu cắt laser chấn, Phiếu hàn ráp hoàn thiện, Phiếu kiểm cuối; SX-01 bản trắng Phiếu kiểm cuối; GH-02 bản ví dụ và bản trắng. **Chưa đọc:** các PDF bảng kê, bản trắng 3 phiếu còn lại, file `.xltm` và macro; chưa in thật, chưa xem bản đen trắng. "Đọc được" dưới đây là đánh giá trên ảnh PDF, không phải trên giấy.
+
+**4 điểm Nặng: còn đủ, đọc được.**
+
+| # | Điểm | Thấy ở v0.9 | Kết luận |
+|---|---|---|---|
+| 1 | Cho giao / Giữ lại, người cho giao; GH-02 ghi đã kiểm cuối | Phiếu kiểm cuối: dòng "KẾT LUẬN (người kiểm cuối ký ở trên là người cho giao hàng): □ Cho giao □ Giữ lại". GH-02 mục II: "Hàng đã kiểm cuối theo lệnh sản xuất số …… □ Có tem ĐẠT" | Đạt |
+| 2 | Mã CN, TH; người quyết định; kiểm lại sau sửa | Chú thích mã xử lý có CN, TH; dòng "Sửa, làm lại (SC, LL) đã kiểm lại. Người quyết định: …… □ Đã kiểm lại □ Không có"; dòng "CN, TH: người Quý khách đồng ý …… ngày ……" | Đạt (xem điểm mới 1, 3) |
+| 3 | Số hiệu dụng cụ đo | "Dụng cụ đo dùng (số hiệu)" ở Phiếu kiểm cuối và Phiếu cắt chấn | Đạt (xem điểm mới 4) |
+| 4 | Rev bản vẽ | Cột Tên chi tiết 3 dòng (tên / BV / Rev) ở Lệnh và cả 4 phiếu; Phiếu nhận việc có "file cắt đúng Rev… Khách đổi bản vẽ sau khi lập lệnh thì lập lệnh mới"; Phiếu cắt có điểm kiểm "đúng Rev" | Đạt (xem điểm mới 2) |
+
+**Điểm mới:**
+
+| # | Mức | Chỗ | Thấy gì | Đề xuất | Điều ISO |
+|---|---|---|---|---|---|
+| M1 | Vừa | Phiếu kiểm cuối, bảng II | Chỉ dẫn ghi "Hàng SC, LL phải kiểm lại và ghi dòng mới" nhưng bảng không có dòng trống: bản trắng chỉ có dòng Cộng, bản ví dụ có đúng số dòng của lệnh | Thêm 3 dòng trống "Kiểm lại" trước dòng Cộng; hoặc đổi chỉ dẫn thành ghi kết quả kiểm lại (SL đạt, ngày) vào cột Ghi chú của dòng đó | 8.7.1, 8.7.2 |
+| M2 | Vừa | Lệnh SX và 4 phiếu | Rev để trống vẫn in "Rev: ……" (ví dụ dòng 4–30); lệnh vẫn lập, in được | Khung kiểm tra ngoài vùng in báo dòng thiếu Rev; bản vẽ khách không có Rev thì ghi "Không có" kèm ngày nhận bản vẽ | 8.5.2, 7.5.3 |
+| M3 | Nhẹ | Phiếu kiểm cuối | "Người quyết định" chỉ nằm ở dòng SC, LL; LB, CN, TH chưa có người quyết định phía Việt Khoa | Tách dòng riêng "Người quyết định xử lý (mọi mã): ……" | 8.7.2 |
+| M4 | Nhẹ | Phiếu hàn, ráp | Không có dòng "Dụng cụ đo dùng (số hiệu)", dù có điểm kiểm "kích thước tổng theo bản vẽ trước khi hàn chính" | Thêm dòng như Phiếu cắt chấn | 7.1.5 |
+| M5 | Nhẹ | GH-02 | Bản ví dụ để trống số lệnh ở dòng "đã kiểm cuối"; Quy cách, bản vẽ không có Rev | Tự điền số lệnh khi đơn chỉ có 1 lệnh; cân nhắc thêm Rev | 8.6, 8.5.2 |
+| M6 | Nhẹ | Chân trang 4 phiếu | Lệnh SX, GH-02 có số chứng từ ở giữa chân trang; 4 phiếu thì không (trang 2 vẫn có tiêu đề kèm số lệnh nên vẫn truy được) | Thống nhất theo QĐ-121 | 7.5.3 |
+
+**Còn mở từ bản đánh giá 15 điểm (không thuộc 4 điểm Nặng):** #5 Mức kiểm A/B/C chưa có trên Lệnh, Phiếu kiểm cuối (chờ Giám đốc duyệt đề xuất QC v1); #12 ghi chú "người kiểm cuối không phải người làm" chưa có. Ngưỡng năng lực máy giữ nguyên, chờ bảng năng lực máy của Giám đốc – ISO-03 không xét.
+
+### 8b. SX-01 bản v0.91 – nhóm BM xử lý 6 điểm mới (16/11/2026)
+
+ISO-03 đã mở PDF v0.91 (xuất 16/11, 10:05–10:06): bản trắng Phiếu kiểm cuối và bản ví dụ Phiếu hàn, ráp. Chưa mở Hướng dẫn trong `.xltm`, chưa xem bản ví dụ Phiếu kiểm cuối 3 trang, chưa in thật.
+
+| # | Nhóm BM làm | ISO-03 kiểm | Kết luận |
+|---|---|---|---|
+| M1 | 3 dòng "Kiểm lại hàng SC, LL (ghi STT dòng gốc)" trước Cộng | Thấy ở bản trắng | Đạt |
+| M2 | Bản vẽ không có Rev gõ "Không có", ghi ngày nhận bản vẽ ở Ghi chú (trong Hướng dẫn); khung kiểm tra báo dòng chưa ghi Rev; không chặn lập lệnh | Chưa mở Hướng dẫn, khung kiểm tra | Chấp nhận cho thí điểm: Phiếu nhận việc đã có cổng "file cắt đúng Rev". Quy trình QC cuối của ISO-03 sẽ ghi: không giao lệnh xuống xưởng khi Rev còn trống |
+| M3 | Dòng "Hàng lỗi cần xử lý (SC, LL, LB, CN, TH): người quyết định (ghi rõ chức danh)" | Thấy ở bản trắng | Đạt |
+| M4 | Dòng "Dụng cụ đo dùng (số hiệu)" ở Phiếu hàn, ráp | Thấy ở bản ví dụ. **Lỗi nhỏ mới:** có dấu `"` thừa ở đầu bên phải dòng này | Đạt. Nhóm BM đã xóa dấu thừa, xuất lại PDF; **ISO-03 đã kiểm 16/11**: dòng chỉ còn chữ và gạch chấm |
+| M5 | Không làm: GH-02 giữ ô số lệnh ghi tay vì một đơn có thể 2 lệnh (-31-, -32-) | — | **Chấp nhận.** Quy trình ISO-03 sẽ ghi: ghi đủ mọi số lệnh của hàng giao đợt đó. Ghi chú: bản ví dụ GH-02 v0.9 cột "Quy cách, bản vẽ" có in mã bản vẽ (BV-002…); không thêm Rev vẫn được vì truy qua số lệnh |
+| M6 | Không làm: số lệnh đã có ở dòng 2 trang đầu và dòng tiêu đề bảng lặp mọi trang; chân trang gắn vùng in tự co, macro sẽ ghi đè | — | **Chấp nhận.** Mỗi trang vẫn nhận ra thuộc lệnh nào (7.5.3) |
+
+Phiếu kiểm cuối ví dụ 30 dòng thành 3 trang (trước 2): ghi nhận, không ảnh hưởng ISO.

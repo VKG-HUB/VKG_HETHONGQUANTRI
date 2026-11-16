@@ -17,7 +17,7 @@
 | Mã JD | JD-CHAN |
 | Chức danh | Thợ vận hành máy chấn, đột CNC |
 | Bộ phận | Sản xuất |
-| Cấp bậc | Công nhân kỹ thuật · nhóm lương 4; người làm đột là việc chính có thể xếp nhóm 5 [CẦN XÁC NHẬN cùng G5] |
+| Cấp bậc | Công nhân kỹ thuật · nhóm lương 4; người làm đột là việc chính có thể xếp nhóm 5 [CẦN XÁC NHẬN cùng Quy chế lương] |
 | Báo cáo trực tiếp | Người phụ trách tổ sản xuất (đội trưởng) CN1 |
 | Quản lý trực tiếp | Không |
 | Nơi làm việc | Xưởng CN1 (144/46 đường Thống Nhất, khu phố Tân Hòa, Phường Đông Hòa, TP.HCM (nay là số 42A Thống Nhất)): chấn CNC AMADA 100, 80, 20 tấn; máy đột CNC |
@@ -54,7 +54,7 @@ Không chấn, đột khi phôi sai, bản vẽ không rõ, máy báo lỗi an t
 | Mục | Yêu cầu |
 |---|---|
 | Học vấn | Không bắt buộc bằng cấp |
-| Kinh nghiệm | Bậc vào làm theo kiểm tra tay nghề (G5, G7); [CẦN XÁC NHẬN] số năm chấn CNC cho thợ chính |
+| Kinh nghiệm | Bậc vào làm theo kiểm tra tay nghề (Quy chế lương; Kế hoạch đào tạo); [CẦN XÁC NHẬN] số năm chấn CNC cho thợ chính |
 | Kiến thức | Đọc bản vẽ, ký hiệu chấn; khai triển, bù trừ chấn; vật liệu, độ dày tới 5 mm, dài tới 3 m |
 | Kỹ năng | Lắp, chọn khuôn; lập trình hoặc gọi chương trình trên bộ điều khiển AMADA và máy đột [CẦN XÁC NHẬN]; dùng thước góc, thước kẹp |
 | Sức khỏe | Đủ sức khỏe theo kết quả khám trước khi bố trí việc |
@@ -84,7 +84,7 @@ Theo dõi riêng (không tính điểm): số lần khuôn mẻ, gãy do thao t�
 | Thuộc danh mục | Đột dập kim loại: loại IV (TT 11/2020 mục 61) – áp cho người làm đột là việc chính: khám 6 tháng/lần, nghỉ hằng năm 14 ngày [CẦN rà soát]. Chấn: không thuộc danh mục |
 | Công việc có yêu cầu nghiêm ngặt về ATVSLĐ | TT 27/2026/TT-BNV **mục (5)** uốn, đột, dập, chấn tôn; **mục (27)** điều khiển máy CNC qua màn hình (từ 01/01/2027; đến 31/12/2026 theo TT 06/2020) |
 | Huấn luyện | Nhóm 3, thẻ an toàn hạn 2 năm; khám sức khỏe ít nhất 1 lần/năm |
-| Bảo hộ được cấp | Giày mũi thép; găng chống cắt (không đeo găng gần bộ phận quay); nút tai; quần áo bảo hộ (G2 mục 4) |
+| Bảo hộ được cấp | Giày mũi thép; găng chống cắt (không đeo găng gần bộ phận quay); nút tai; quần áo bảo hộ (Kế hoạch ATVSLĐ, PCCC mục 4) |
 | Hướng dẫn an toàn | HD-04 chấn CNC AMADA · HD-05 đột CNC (làm sau 30/11) |
 
 ## 9. Nhiệm vụ kiêm nhiệm có thể được giao
@@ -95,7 +95,7 @@ QC kiêm nhiệm CN1 (JD-KN mục 2) · An toàn, vệ sinh viên (JD-KN mục 5
 
 | # | Nội dung | Ai |
 |---|---|---|
-| 1 | Có người chỉ chạy đột không; nhóm lương cho người làm cả chấn và đột | Giám đốc, đội trưởng CN1 (G5) |
+| 1 | Có người chỉ chạy đột không; nhóm lương cho người làm cả chấn và đột | Giám đốc, đội trưởng CN1 (Quy chế lương) |
 | 2 | Thợ có tự lập chương trình chấn, đột không | Đội trưởng CN1 |
 | 3 | Số năm kinh nghiệm thợ chính | Giám đốc |
 
@@ -138,3 +138,7 @@ QC kiêm nhiệm CN1 (JD-KN mục 2) · An toàn, vệ sinh viên (JD-KN mục 5
 | v0.1 | 14/11/2026 | Nháp đầu (HR-00b, gói G6) | Chưa |
 | v0.2 | 14/11/2026 | Sửa theo rà soát R3 và R2-08. Bản v0.1 lưu `99_LUU TRU\G3G6_v0.1_2026-11` | Chưa |
 | v0.2 (cập nhật) | 14/11/2026 | Điền số mục danh mục công việc nghiêm ngặt theo báo cáo HR-06 (TT 27/2026/TT-BNV, TT 06/2020); R3 dòng 35, 36 đã sửa | Chưa |
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

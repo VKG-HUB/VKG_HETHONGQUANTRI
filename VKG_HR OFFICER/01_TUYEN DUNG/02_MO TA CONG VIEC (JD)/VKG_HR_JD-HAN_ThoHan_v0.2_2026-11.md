@@ -17,7 +17,7 @@
 | Mã JD | JD-HAN |
 | Chức danh | Thợ hàn |
 | Bộ phận | Sản xuất |
-| Cấp bậc | Công nhân kỹ thuật · nhóm lương 5 (G5 nháp: nghề nặng nhọc, độc hại loại IV) |
+| Cấp bậc | Công nhân kỹ thuật · nhóm lương 5 (Quy chế lương nháp: nghề nặng nhọc, độc hại loại IV) |
 | Báo cáo trực tiếp | Người phụ trách tổ sản xuất (đội trưởng) của xưởng đang làm |
 | Quản lý trực tiếp | Không. Kèm cặp thợ mới, lao động phổ thông khi được giao |
 | Nơi làm việc | Xưởng CN1 (144/46 đường Thống Nhất, khu phố Tân Hòa, Phường Đông Hòa, TP.HCM (nay là số 42A Thống Nhất)) hoặc xưởng CN2 (Phước Tân, Đồng Nai), ghi trong HĐLĐ. Làm thường xuyên ở cả hai xưởng: HĐLĐ ghi đủ cả hai địa điểm (Chi nhánh mã số 0311563372-002 và Địa điểm kinh doanh 001, mã 00001); nếu HĐLĐ chỉ ghi một nơi, điều sang nơi kia lâu dài phải có thỏa thuận, ký phụ lục [CẦN XÁC NHẬN chế độ đi lại] |
@@ -59,9 +59,9 @@ Khi được giao vai kiêm nhiệm (QC kiêm nhiệm, an toàn vệ sinh viên�
 | Mục | Yêu cầu |
 |---|---|
 | Học vấn | Không bắt buộc bằng cấp. Có chứng chỉ sơ cấp hoặc trung cấp nghề hàn là lợi thế |
-| Kinh nghiệm | Bậc vào làm xếp theo kết quả kiểm tra tay nghề (G5 Điều 5, G7). Thợ chính: [CẦN XÁC NHẬN] số năm hàn TIG hoặc MIG |
+| Kinh nghiệm | Bậc vào làm xếp theo kết quả kiểm tra tay nghề (Quy chế lương Điều 5; Kế hoạch đào tạo). Thợ chính: [CẦN XÁC NHẬN] số năm hàn TIG hoặc MIG |
 | Kiến thức | Đọc bản vẽ cơ khí, ký hiệu mối hàn; vật liệu inox, thép carbon, nhôm; biến dạng khi hàn; an toàn hàn điện, khí |
-| Kỹ năng | Đạt bài hàn mẫu thực tế (hiện PGĐ thử khi tuyển – ISO-01; từ 2027 theo phiếu NS-09 và ma trận tay nghề HD-13). Tư thế hàn đạt được (bằng, ngang, đứng, trần) ghi theo bậc [CẦN XÁC NHẬN cùng G7]. Dùng thước cuộn, thước kẹp, ê ke |
+| Kỹ năng | Đạt bài hàn mẫu thực tế (hiện PGĐ thử khi tuyển – ISO-01; từ 2027 theo phiếu NS-09 và ma trận tay nghề HD-13). Tư thế hàn đạt được (bằng, ngang, đứng, trần) ghi theo bậc [CẦN XÁC NHẬN cùng Kế hoạch đào tạo]. Dùng thước cuộn, thước kẹp, ê ke |
 | Sức khỏe | Đủ sức khỏe làm nghề nặng nhọc, độc hại theo kết quả khám sức khỏe trước khi bố trí việc (Luật ATVSLĐ Đ.21) |
 | Phẩm chất (Tâm · Tín · Trung thực) | **Tâm:** làm kỹ cả mối hàn bị che khuất · **Tín:** xong đúng hẹn đã báo đội trưởng · **Trung thực:** báo lỗi, không mài che mối hàn lỗi |
 
@@ -84,11 +84,11 @@ Theo dõi riêng (không tính điểm, không ghi tên người vào số liệ
 
 | Mục | Nội dung |
 |---|---|
-| Thời giờ làm việc | Theo nội quy lao động VKG/HR/NQ-001/2026 (G4) [CẦN XÁC NHẬN giờ, ca] |
+| Thời giờ làm việc | Theo nội quy lao động VKG/HR/NQ-001/2026 (Nội quy lao động) [CẦN XÁC NHẬN giờ, ca] |
 | Yếu tố nguy hiểm, có hại | Tia hồ quang (cực tím, hồng ngoại); bức xạ laser khi hàn laser; khói hàn kim loại (inox có crom, niken); nhiệt, kim loại nóng; tia lửa gây cháy; điện giật; chai khí áp lực (argon, CO2); tiếng ồn; nâng, lật chi tiết nặng |
-| Thuộc danh mục | Nghề nặng nhọc, độc hại loại IV: TT 11/2020 mục II.52 "Hàn điện, hàn hơi". Hệ quả: khám sức khỏe 6 tháng/lần; nghỉ hằng năm 14 ngày; bồi dưỡng bằng hiện vật (G2, G4) |
+| Thuộc danh mục | Nghề nặng nhọc, độc hại loại IV: TT 11/2020 mục II.52 "Hàn điện, hàn hơi". Hệ quả: khám sức khỏe 6 tháng/lần; nghỉ hằng năm 14 ngày; bồi dưỡng bằng hiện vật (Kế hoạch ATVSLĐ, PCCC; Nội quy lao động) |
 | Công việc có yêu cầu nghiêm ngặt về ATVSLĐ | Có – TT 27/2026/TT-BNV **mục (5)** hàn cắt kim loại (từ 01/01/2027; đến 31/12/2026 theo TT 06/2020): huấn luyện **nhóm 3**, được cấp **thẻ an toàn** sau khi kiểm tra đạt, hạn 2 năm (NĐ 44/2016 Đ.24, 25) |
-| Bảo hộ được cấp | Mặt nạ hàn; găng da hàn; áo hoặc yếm da; giày mũi thép; khẩu trang lọc khói hàn; kính chắn đúng bước sóng khi hàn laser; quần áo bảo hộ (G2 mục 4; chốt theo phụ lục bảo hộ của QĐ-004) |
+| Bảo hộ được cấp | Mặt nạ hàn; găng da hàn; áo hoặc yếm da; giày mũi thép; khẩu trang lọc khói hàn; kính chắn đúng bước sóng khi hàn laser; quần áo bảo hộ (Kế hoạch ATVSLĐ, PCCC mục 4; chốt theo phụ lục bảo hộ của QĐ-004) |
 | Hướng dẫn an toàn phải học, ký nhận | HD-06 hàn laser · HD-07 hàn TIG, MIG, hàn điểm · HD-10 chai khí (HD-10 làm sau 30/11) |
 
 ## 9. Nhiệm vụ kiêm nhiệm có thể được giao
@@ -99,10 +99,10 @@ QC kiêm nhiệm (JD-KN mục 2) · An toàn, vệ sinh viên và người hỗ 
 
 | # | Nội dung | Ai |
 |---|---|---|
-| 1 | Số năm kinh nghiệm cho thợ chính; tư thế hàn yêu cầu theo bậc | Giám đốc, PGĐ, đội trưởng (cùng G7) |
-| 2 | Hàn laser có thuộc mục "hàn điện, hàn hơi" của danh mục nặng nhọc không | Phiên rà soát pháp lý (G5 đang ghi cùng câu hỏi) |
+| 1 | Số năm kinh nghiệm cho thợ chính; tư thế hàn yêu cầu theo bậc | Giám đốc, PGĐ, đội trưởng (cùng Kế hoạch đào tạo) |
+| 2 | Hàn laser có thuộc mục "hàn điện, hàn hơi" của danh mục nặng nhọc không | Rà soát pháp lý (Quy chế lương đang ghi cùng câu hỏi) |
 | 3 | Khoảng cách dọn vật dễ cháy quanh chỗ hàn | Người soạn hướng dẫn an toàn (HD-07) |
-| 4 | Chế độ đi lại khi điều động giữa CN1 và CN2 | Giám đốc (G4, G5) |
+| 4 | Chế độ đi lại khi điều động giữa CN1 và CN2 | Giám đốc (Nội quy lao động; Quy chế lương) |
 | 5 | Thợ hàn hiện có bao nhiêu người, ở xưởng nào | Đội trưởng (thử 20–30/11) |
 
 ## Lịch sử
@@ -148,3 +148,7 @@ QC kiêm nhiệm (JD-KN mục 2) · An toàn, vệ sinh viên và người hỗ 
 | v0.1 | 14/11/2026 | Nháp đầu (HR-00b, gói G6), vị trí ưu tiên | Chưa |
 | v0.2 | 14/11/2026 | Sửa theo rà soát R3 và R2-08. Bản v0.1 lưu `99_LUU TRU\G3G6_v0.1_2026-11` | Chưa |
 | v0.2 (cập nhật) | 14/11/2026 | Điền số mục danh mục công việc nghiêm ngặt theo báo cáo HR-06 (TT 27/2026/TT-BNV, TT 06/2020); R3 dòng 35, 36 đã sửa | Chưa |
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

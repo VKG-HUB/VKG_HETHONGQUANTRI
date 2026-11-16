@@ -21,7 +21,7 @@
 | Báo cáo trực tiếp | Hội đồng thành viên |
 | Quản lý trực tiếp | Phó Giám đốc; nhân viên kỹ thuật, kế toán [CẦN XÁC NHẬN theo ST-04 mục 2]; Đại diện ISO (về việc ISO) |
 | Nơi làm việc | Văn phòng CN1 (144/46 đường Thống Nhất, khu phố Tân Hòa, Phường Đông Hòa, TP.HCM (nay là số 42A Thống Nhất)); đi CN2, Quý khách theo việc |
-| Kiêm nhiệm | Phụ trách nhân sự (file 01 mục 3) |
+| Kiêm nhiệm | Phụ trách nhân sự |
 
 ## 2. Mục đích công việc
 
@@ -41,7 +41,7 @@
 
 ## 4. Quyền hạn
 
-Theo Luật Doanh nghiệp, Điều lệ và quyết định của Hội đồng thành viên. Trong hệ thống quản trị: ký mọi văn bản nhân sự (không ủy quyền cho PGĐ – file 01 mục 3); ban hành tài liệu hệ thống; quyết định chi tiền, chọn người.
+Theo Luật Doanh nghiệp, Điều lệ và quyết định của Hội đồng thành viên. Trong hệ thống quản trị: ký mọi văn bản nhân sự (không ủy quyền cho PGĐ); ban hành tài liệu hệ thống; quyết định chi tiền, chọn người.
 
 ## 5. Mối quan hệ công việc
 
@@ -51,7 +51,7 @@ Theo Luật Doanh nghiệp, Điều lệ và quyết định của Hội đồng
 
 ## 6. Tiêu chuẩn
 
-Theo Luật Doanh nghiệp Đ.64 và Điều lệ [CẦN ĐỐI CHIẾU]. Năng lực cần cho hệ thống: hiểu ISO 9001 ở mức lãnh đạo (bài nhận thức G7); đã huấn luyện ATVSLĐ nhóm 1 và PCCC. Phẩm chất: Tâm · Tín · Trung thực làm gương.
+Theo Luật Doanh nghiệp Đ.64 và Điều lệ [CẦN ĐỐI CHIẾU]. Năng lực cần cho hệ thống: hiểu ISO 9001 ở mức lãnh đạo (bài nhận thức ISO 9001); đã huấn luyện ATVSLĐ nhóm 1 và PCCC. Phẩm chất: Tâm · Tín · Trung thực làm gương.
 
 ## 7. KPI dự kiến
 
@@ -62,7 +62,7 @@ KPI của Giám đốc là kết quả công ty; chỉ tiêu, tỷ trọng do H�
 | 1 | Doanh thu, lợi nhuận theo kế hoạch | Báo cáo kế toán | Tháng |
 | 2 | Mục tiêu chất lượng M1–M5 (ST-05) | Đại diện ISO | Tháng |
 | 3 | Mốc chứng nhận ISO 9001 trước 30/11/2027 | Đại diện ISO | Tháng |
-| 4 | Tuân thủ lao động: HĐLĐ, BHXH, huấn luyện đủ 100% (MT6, MT7) | Kế toán, người làm công tác ATVSLĐ | Quý |
+| 4 | Tuân thủ lao động: HĐLĐ, BHXH, huấn luyện đủ 100% (mục tiêu nhân sự) | Kế toán, người làm công tác ATVSLĐ | Quý |
 | 5 | Tai nạn lao động, sự cố cháy: 0 vụ | Sổ sự cố | Tháng |
 
 ## 8. Điều kiện làm việc
@@ -118,3 +118,7 @@ Phó Giám đốc điều hành việc hằng ngày trong phạm vi ủy quyền
 |---|---|---|---|
 | v0.1 | 14/11/2026 | Nháp đầu (HR-00b, gói G6) | Chưa |
 | v0.2 | 14/11/2026 | Sửa theo rà soát R3 và R2-08. Bản v0.1 lưu `99_LUU TRU\G3G6_v0.1_2026-11` | Chưa |
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

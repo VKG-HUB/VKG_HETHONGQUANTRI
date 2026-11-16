@@ -1,0 +1,26 @@
+{
+    "luc":  "2026-11-16 06:44",
+    "tong":  443,
+    "luu_tru_bo_qua":  452,
+    "chua_vao_dm":  231,
+    "theo_nhom":  [
+                      {
+                          "nhom":  "BM",
+                          "so":  222
+                      },
+                      {
+                          "nhom":  "Chung",
+                          "so":  16
+                      },
+                      {
+                          "nhom":  "ISO",
+                          "so":  59
+                      },
+                      {
+                          "nhom":  "NS",
+                          "so":  146
+                      }
+                  ],
+    "chunk":  13,
+    "chunk_doi":  7
+}

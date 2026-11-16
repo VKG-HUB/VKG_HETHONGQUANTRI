@@ -17,7 +17,7 @@
 | Mã JD | JD-DTSX |
 | Chức danh | Đội trưởng tổ sản xuất – người được Giám đốc giao phụ trách tổ sản xuất (một người ở CN1, một người ở CN2) |
 | Bộ phận | Quản lý cấp trung |
-| Cấp bậc | Quản lý cấp trung · nhóm lương 2 (G5 nháp) |
+| Cấp bậc | Quản lý cấp trung · nhóm lương 2 (theo Quy chế lương, bản nháp) |
 | Báo cáo trực tiếp | Phó Giám đốc [CẦN XÁC NHẬN: PGĐ hay Giám đốc] |
 | Quản lý trực tiếp | Mọi thợ và lao động phổ thông của tổ (số hiện có mỗi xưởng [CẦN XÁC NHẬN]; định biên đề xuất CN1: 11, CN2: 4) |
 | Nơi làm việc | Xưởng CN1 (144/46 đường Thống Nhất, khu phố Tân Hòa, Phường Đông Hòa, TP.HCM (nay là số 42A Thống Nhất)) hoặc xưởng CN2 (Phước Tân, Đồng Nai) |
@@ -36,7 +36,7 @@ Tổ chức sản xuất của xưởng: giao việc, giữ tiến độ, tự k
 | 3 | Ghi phiếu KPI sản xuất theo tuần (NS-14), chấm công tổ; giao hàng, ghi biên bản giao nhận GH-02 khi được giao (số liệu M1) | 10% | NS-14 đủ ngày; GH-02 có ngày giao |
 | 4 | An toàn lao động tại xưởng: phân công đúng người đã huấn luyện, có thẻ an toàn; kiểm bảo hộ; cấp phát bảo hộ, ghi sổ NS-05; kiểm cuối ca (NS-12); dừng máy, dừng việc khi mất an toàn; báo sự cố ngay | 15% | NS-05, NS-12 đủ; 0 tai nạn |
 | 5 | **Người phụ trách PCCC tại xưởng** (theo QĐ-003): chỉ huy ban đầu khi có cháy cho tới khi lực lượng chữa cháy đến; tự kiểm tra thường xuyên ≤ 1 tháng/lần, ký sổ NS-06; soạn và tổ chức thực tập phương án chữa cháy ≥ 1 lần/năm | 10% | Sổ NS-06 ký đủ tháng; biên bản thực tập |
-| 6 | Kèm cặp, đào tạo tại chỗ; chấm ma trận tay nghề thợ trong tổ (G7, NS-09); đề xuất nhu cầu tuyển, thử tay nghề ứng viên cùng PGĐ | 10% | Ma trận tay nghề cập nhật; phiếu NS-09 |
+| 6 | Kèm cặp, đào tạo tại chỗ; chấm ma trận tay nghề thợ trong tổ (Kế hoạch đào tạo, NS-09); đề xuất nhu cầu tuyển, thử tay nghề ứng viên cùng PGĐ | 10% | Ma trận tay nghề cập nhật; phiếu NS-09 |
 | 7 | Giữ nội quy: phổ biến nội quy, chính sách chất lượng bản ngắn (ST-02), tài liệu mới cho tổ; lập biên bản vi phạm (NS-08) gửi Giám đốc; thu bản in tài liệu hết hiệu lực (QT-01 B10) | 10% | Danh sách ký phổ biến; NS-08 |
 | 8 | Đề xuất vật tư, dụng cụ, bảo trì máy; báo hỏng máy cho PGĐ, hãng | 5% | Phiếu đề xuất vật tư |
 | | **Tổng** | **100%** | |
@@ -90,8 +90,8 @@ KPI phụ theo KPI-SX (chỉ theo dõi): SX-P1 phàn nàn của Quý khách (M4)
 | Thời giờ làm việc | Theo nội quy VKG/HR/NQ-001/2026; có mặt trước giờ ca để giao việc [CẦN XÁC NHẬN] |
 | Yếu tố nguy hiểm, có hại | Như các máy trong xưởng: laser, chấn, hàn, mài, nâng hạ; tiếng ồn, khói hàn, bụi kim loại |
 | Công việc có yêu cầu nghiêm ngặt về ATVSLĐ | Theo TT 27/2026/TT-BNV (từ 01/01/2027; đến 31/12/2026 theo TT 06/2020): **mục (1)** vận hành, giám sát hoạt động máy, thiết bị phải kiểm định (cầu trục, palăng, xe nâng, bình khí nén) – người phụ trách tổ giám sát thiết bị của xưởng; **mục (5)** nếu trực tiếp vận hành (mục (5) mài, cắt, uốn, đột, dập, chấn tôn, hàn cắt kim loại, đánh bóng, đánh nhám); **mục (18)** bốc xếp thủ công thường xuyên vật nặng từ 20 kg (đến 31/12/2026: 30 kg). Mọi việc trên: huấn luyện nhóm 3, có thẻ an toàn trước khi làm |
-| Huấn luyện | Nhóm 1 (người phụ trách bộ phận sản xuất); thêm phần chuyên ngành nhóm 3 và thẻ an toàn nếu trực tiếp chạy máy (G2 mục 2); PCCC 8–12 giờ. Khám sức khỏe ít nhất 1 lần/năm (6 tháng/lần nếu trực tiếp làm hàn, mài [CẦN rà soát]) |
-| Bảo hộ được cấp | Quần áo bảo hộ, giày mũi thép, kính, nút tai; thêm đồ theo máy khi trực tiếp vận hành (G2 mục 4) |
+| Huấn luyện | Nhóm 1 (người phụ trách bộ phận sản xuất); thêm phần chuyên ngành nhóm 3 và thẻ an toàn nếu trực tiếp chạy máy (Kế hoạch ATVSLĐ, PCCC mục 2); PCCC 8–12 giờ. Khám sức khỏe ít nhất 1 lần/năm (6 tháng/lần nếu trực tiếp làm hàn, mài [CẦN rà soát]) |
+| Bảo hộ được cấp | Quần áo bảo hộ, giày mũi thép, kính, nút tai; thêm đồ theo máy khi trực tiếp vận hành (Kế hoạch ATVSLĐ, PCCC mục 4) |
 | Hướng dẫn an toàn | Mọi HD của máy trong xưởng mình (CN1: HD-01, HD-03 đến HD-08; CN2: HD-02, HD-07, HD-08, HD-11) |
 
 ## 9. Nhiệm vụ kiêm nhiệm có thể được giao
@@ -156,3 +156,7 @@ Người phụ trách PCCC tại xưởng (đã gồm ở nhiệm vụ 5; cử b
 ### Đã sửa theo rà soát lần 2 (15/11/2026)
 
 - R3-50: bỏ "G2 câu F3" khỏi thân.
+
+### Đã sửa theo kiểm hình PDF lần 2 (15/11/2026)
+
+- Thay mã nội bộ (G2, G4, G5, G7, G8, G9, G11, MT2, MT5–MT7, "file 01 mục 3") bằng tên văn bản hoặc bỏ.

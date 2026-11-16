@@ -54,7 +54,7 @@ Phụ cấp chức vụ hoặc kiêm nhiệm (nếu có) theo Quy chế lương 
 | Trưởng kỹ thuật | Giám đốc | JD-KTTK và JD-KN mục 3 | — (chức vụ) | Giám đốc [CẦN XÁC NHẬN] | Bản vẽ, hồ sơ máy đã thiết kế, chạy thử | 01/2027 [CẦN XÁC NHẬN] |
 | QC kiêm nhiệm CN2 | Giám đốc | JD-KN mục 2 | 10–15% [CẦN XÁC NHẬN] | Đội trưởng CN2 về việc, Đại diện ISO về hồ sơ | Như QC CN1 | 04/2027 |
 | Kế toán trưởng | **Hội đồng thành viên** (nghị quyết) – không dùng mẫu này | — | — | — | — | Xem lộ trình mục 2 (R3-KTT) |
-| Người tạm phụ trách kế toán (nếu chọn phương án C) | Giám đốc, theo nghị quyết Hội đồng thành viên | JD-KTOAN và JD-KN mục 9 | — | Giám đốc | Bằng kế toán; chứng chỉ bồi dưỡng kế toán trưởng; xác nhận thời gian làm kế toán (hồ sơ thật, không đưa vào AI) | Hạn tối đa 12 tháng (NĐ 174/2016 Đ.20) |
+| Người trong công ty được cử học lớp bồi dưỡng kế toán trưởng (phương án (2)) | Giám đốc cử học; kế toán trưởng của công ty (khi có chứng chỉ): Hội đồng thành viên | JD-KTOAN và JD-KN mục 9 | — | Giám đốc | Bằng kế toán; chứng chỉ bồi dưỡng kế toán trưởng (chỉ khi có mới ghi là kế toán trưởng); xác nhận thời gian làm kế toán (hồ sơ thật, không đưa vào AI) | Chưa có chứng chỉ thì không ghi là người phụ trách kế toán; dịch vụ kế toán đảm nhận (NĐ 174/2016 Đ.21 k.1, Đ.22) |
 
 ### Ghi chú soạn thảo (không đưa vào bản ký)
 
@@ -92,3 +92,8 @@ Phụ cấp chức vụ hoặc kiêm nhiệm (nếu có) theo Quy chế lương 
 ### Đã sửa theo rà soát lần 2 (15/11/2026)
 
 - R3-47: cột bằng chứng của hàng người tạm phụ trách kế toán thêm chứng chỉ bồi dưỡng kế toán trưởng và xác nhận thời gian làm kế toán (NĐ 174/2016 Đ.21 k.1).
+
+### Đã sửa theo câu trả lời R3-47 của Giám đốc (15/11/2026, tối)
+
+- Phương án (2): hàng "người tạm phụ trách kế toán ≤ 12 tháng" ở bảng bằng chứng đổi thành người được cử học lớp bồi dưỡng kế toán trưởng; chưa có chứng chỉ thì không ghi là người phụ trách kế toán, dịch vụ kế toán đảm nhận. Dòng R3 18 ở trên (phương án C tạm ≤ 12 tháng) đã lỗi thời.
+- Đã xem thân quyết định: mẫu không có chữ phụ trách kế toán, không đổi.

@@ -12,6 +12,8 @@
 #   Bảng đầu tiên của ST/QT/HD là khung đầu (không tô); các bảng sau tô nhạt dòng đầu, lặp khi sang trang. Máy cần font Saira (HT-015).
 # Đóng Word: Close([ref]0); giải phóng COM mọi range, bảng, doc, app; sau Quit đợi tới 20 giây, Word do script mở còn sống
 #   thì in TIEN-TRINH-SOT=<mã> (ghi vào KHOA-OFFICE.md), KHÔNG tự tắt (theo mẫu dung-docx-hr00b.ps1 của HR-00b, 14/11/2026).
+# Sửa 15/11/2026 lần 3 (ISO-02, theo HR-00 qua HTQT-00): KeepWithNext cho (a) dòng dẫn ngay trước bảng, (b) 2 hàng đầu của mỗi bảng (bảng không bắt đầu cuối trang chỉ với tiêu đề + 1 hàng).
+# Sửa 15/11/2026 lần 2 (ISO-02, theo HR-00 qua HTQT-00): (1) -MaNgay rỗng hoặc chỉ dấu cách thì chân trang không thêm dấu "." cuối mã; (2) tiêu đề mục/Điều (kiểu VKG Mục) đặt "giữ cùng đoạn sau" (KeepWithNext). Chưa chạy thử.
 # Sửa 15/11/2026 (ISO-02, theo HR-00 qua HTQT-00): mọi hàng bảng không bị chia đôi qua trang (AllowBreakAcrossPages = 0); hàng đầu các bảng (trừ khung đầu ST/QT/HD) vẫn lặp ở trang sau. Hàng cao hơn một trang vẫn phải chia.
 param(
   [Parameter(Mandatory)][string]$Md,
@@ -51,6 +53,8 @@ try {
     $c = $doc.Content; $e = $c.End - 1; Tha $c
     $r = $doc.Range($e, $e)
     $r.InsertAfter($text); $r.Style = $style
+    # Tiêu đề mục/Điều dính đoạn sau, không rơi một mình cuối trang (HR-00, 15/11/2026)
+    if ($style -eq 'VKG Mục') { $pk = $r.ParagraphFormat; $pk.KeepWithNext = -1; Tha $pk }
     # Đoạn chữ ngay sau bảng: cách bảng 6 pt (sửa 14/11/2026, trước đây dính sát bảng)
     if ($script:sauBang -and ($style -eq 'VKG Thân' -or $style -eq 'VKG Đầu dòng')) { $pf = $r.ParagraphFormat; if ($pf.SpaceBefore -lt 6) { $pf.SpaceBefore = 6 }; Tha $pf }
     $script:sauBang = $false
@@ -113,6 +117,13 @@ try {
       $r1r.Style = 'VKG Đầu bảng'; $sh = $r1.Shading; $sh.BackgroundPatternColor = $LIGHT; $r1.HeadingFormat = -1
       Tha $sh; Tha $r1r; Tha $r1; Tha $rows1
     } else { $f0 = $tr.Font; $f0.Size = 10; Tha $f0 }
+    # keepNext (HR-00, 15/11/2026): (a) dòng dẫn ngay trước bảng dính bảng; (b) 2 hàng đầu dính hàng kế, bảng không bắt đầu cuối trang chỉ với tiêu đề + 1 hàng
+    $pgs = $tr.Paragraphs; $pg1 = $pgs.Item(1); $prv = $pg1.Previous(1)
+    if ($null -ne $prv) { $prv.KeepWithNext = -1; Tha $prv }
+    Tha $pg1; Tha $pgs
+    $rs = $t.Rows; $kn = [Math]::Min(2, $nr - 1)
+    for ($q = 1; $q -le $kn; $q++) { $rq = $rs.Item($q); $rqr = $rq.Range; $rqf = $rqr.ParagraphFormat; $rqf.KeepWithNext = -1; Tha $rqf; Tha $rqr; Tha $rq }
+    Tha $rs
     Tha $tr; Tha $t
     $c = $doc.Content; $c.InsertParagraphAfter(); Tha $c
     $script:sauBang = $true
@@ -169,7 +180,8 @@ try {
   # Chân trang: điền mã + mã ngày; (a) phiên bản; (b) ô Số liên kết sẵn trong khung
   $secs = $doc.Sections; $sec = $secs.Item(1); $fts = $sec.Footers; $ft = $fts.Item(1)
   $fr = $ft.Range; $ff = $fr.Find
-  [void]$ff.Execute('[mã].[mã ngày]', $false, $false, $false, $false, $false, $true, 0, $false, "$Ma.$MaNgay", 2); Tha $ff; Tha $fr
+  $maChan = if ($MaNgay.Trim() -eq '') { $Ma } else { "$Ma.$MaNgay" }   # mã ngày rỗng: bỏ dấu "." cuối (HR-00, 15/11/2026)
+  [void]$ff.Execute('[mã].[mã ngày]', $false, $false, $false, $false, $false, $true, 0, $false, $maChan, 2); Tha $ff; Tha $fr
   if (-not $coSo) {
     $fr = $ft.Range; $ff = $fr.Find
     [void]$ff.Execute('v[phiên bản]', $false, $false, $false, $false, $false, $true, 0, $false, "v$PhienBan", 2); Tha $ff; Tha $fr
